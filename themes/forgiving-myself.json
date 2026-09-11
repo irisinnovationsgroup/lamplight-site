@@ -21,8 +21,8 @@
   "register": "mercy",
   "score": 0.7115,
   "margin": 0.0203,
-  "context": "The author addresses early Christian communities, reassuring them that Jesus Christ serves as an advocate before God for those who sin, emphasizing that true knowledge of Him is demonstrated by keeping His commandments and walking as He walked.",
-  "connection": "This may echo the struggle of individuals who find it difficult to accept forgiveness from others because they cannot extend that same grace to themselves. The text suggests that abiding in love involves a practical commitment to ethical living, which might resonate with those seeking to align their self-perception with their actions.",
+  "context": "The author addresses early Christian communities, reassuring them that Jesus Christ serves as an advocate before God for those who sin, while simultaneously instructing believers to demonstrate their relationship with Him through obedience to His commandments.",
+  "connection": "This may echo the tension some feel when accepting forgiveness from others but struggling to internalize it themselves, highlighting a similar gap between receiving grace and living in accordance with its demands.",
   "checks": [
    {
     "rule": "I",
@@ -76,8 +76,8 @@
   "register": "endurance",
   "score": 0.7622,
   "margin": 0.0144,
-  "context": "The speaker in Micah 7:7-13 describes a personal state of humiliation and spiritual darkness following sin, waiting for God to vindicate them against an enemy who mocks their faith.",
-  "connection": "This may echo the experience of someone struggling to accept forgiveness from others, finding that looking toward the divine offers a sense of light and hope when human comfort feels insufficient.",
+  "context": "The speaker in Micah 7:7-13 describes a personal state of humiliation and sin, waiting for God to vindicate them against an enemy who gloated over their fall. The passage moves from this individual struggle to a broader vision of national restoration and the gathering of people from distant lands.",
+  "connection": "This narrative may echo the experience of someone who feels stuck in shame despite others' forgiveness, finding solace not in immediate resolution but in the patient act of looking toward a source of light. It suggests that enduring the darkness of self-judgment can eventually lead to a perspective where one's own worth is restored, even if the process remains difficult.",
   "checks": [
    {
     "rule": "I",
@@ -127,5 +127,6 @@
   },
   "score": 0.6935
  },
- "built": "2026-09-11T03:05:42Z"
+ "built": "2026-09-11T03:40:34Z",
+ "season": null
 }

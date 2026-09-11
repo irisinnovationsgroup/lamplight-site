@@ -21,8 +21,8 @@
   "register": "endurance",
   "score": 0.5877,
   "margin": 0.0061,
-  "context": "In Bethsaida, Jesus takes a blind man by the hand and leads him out of the village to heal him gradually, first partially and then fully, before instructing him not to return to the place he came from.",
-  "connection": "This gradual restoration may echo the non-linear journey of breaking an addiction, where recovery often requires stepping away from familiar environments that trigger old patterns. The command to avoid returning home resembles the difficult necessity of changing one's surroundings to sustain healing.",
+  "context": "In Bethsaida, Jesus takes a blind man by the hand and leads him out of the village to heal him in private. After an initial partial restoration of sight where the man sees people like trees, Jesus lays hands on him a second time, fully restoring his vision before sending him home without returning to the village.",
+  "connection": "This gradual healing may echo the non-linear process of breaking cycles of addiction, where recovery often requires repeated intervention rather than a single moment of change. The instruction not to return to the village can resemble the need to step away from environments that trigger destructive patterns while navigating the difficult path toward clarity.",
   "checks": [
    {
     "rule": "I",
@@ -76,8 +76,8 @@
   "register": "endurance",
   "score": 0.7229,
   "margin": 0.0337,
-  "context": "The speaker, likely Jeremiah in Jerusalem after its destruction, reflects on personal affliction and national ruin while recalling God's steadfast mercy as a source of hope. He describes enduring humiliation and silence as a posture of waiting for divine salvation rather than immediate relief.",
-  "connection": "This text may echo the experience of someone trapped in a cycle of addiction who feels overwhelmed by shame yet finds a fragile anchor in the idea that compassion is renewed daily. It suggests that sitting with the pain without rushing to fix it might be a necessary step toward finding hope amidst the grief.",
+  "context": "The speaker, likely Jeremiah in Jerusalem after its destruction, reflects on personal affliction and national ruin while choosing to remember God's steadfast love as a source of hope amidst despair.",
+  "connection": "This passage may echo the experience of someone trapped in a cycle of addiction by acknowledging the pain of relapse while offering a tentative glimpse of renewal through daily mercy rather than immediate resolution.",
   "checks": [
    {
     "rule": "I",
@@ -127,5 +127,6 @@
   },
   "score": 0.693
  },
- "built": "2026-09-11T03:05:38Z"
+ "built": "2026-09-11T03:40:30Z",
+ "season": null
 }

@@ -22,7 +22,7 @@
   "score": 0.6574,
   "margin": 0.0107,
   "context": "The returned exiles in Jerusalem have halted construction on the Temple to focus on their own homes, resulting in economic hardship and agricultural failure despite their hard labor.",
-  "connection": "This may echo the frustration of modern workers who feel their efforts yield no tangible reward or meaning. The sense that one's labor is being 'blown away' resembles the experience of striving for stability while feeling fundamentally unfulfilled.",
+  "connection": "This may echo the frustration of modern workers who feel their efforts are futile or unacknowledged, mirroring the sense that one's labor yields little satisfaction or tangible reward.",
   "checks": [
    {
     "rule": "I",
@@ -76,8 +76,8 @@
   "register": "instruction",
   "score": 0.7265,
   "margin": 0.0313,
-  "context": "Paul addresses the Corinthian church, warning them that while he established the community's foundation in Christ, their ongoing spiritual construction will be tested by fire to reveal whether their efforts are of enduring value or merely temporary.",
-  "connection": "This may echo the anxiety of laboring on projects that feel invisible or insignificant, where the fear is not just failure, but that one's dedicated work might ultimately lack substance or lasting impact.",
+  "context": "Paul addresses the Corinthian church, which was fracturing over loyalty to different human leaders, by using the metaphor of a building site where Christ is the sole foundation and believers are builders constructing upon it.",
+  "connection": "This may echo the quiet anxiety of laborers who wonder if their daily efforts hold any enduring value or if they are merely contributing to something fragile. It offers a perspective where the intrinsic quality of one's work matters more than immediate external validation, even when that work feels insignificant.",
   "checks": [
    {
     "rule": "I",
@@ -127,5 +127,6 @@
   },
   "score": 0.6673
  },
- "built": "2026-09-11T03:04:39Z"
+ "built": "2026-09-11T03:39:28Z",
+ "season": null
 }

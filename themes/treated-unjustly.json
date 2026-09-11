@@ -21,8 +21,8 @@
   "register": "injustice",
   "score": 0.7487,
   "margin": 0.0531,
-  "context": "Elihu addresses Job and his friends, arguing that God is just and does not pervert justice, while condemning Job for complaining that he has been treated unfairly despite his righteousness.",
-  "connection": "This may echo the frustration of feeling powerless when authority figures appear indifferent to injustice. It reflects the human struggle to maintain faith in fairness when immediate circumstances suggest otherwise.",
+  "context": "Elihu addresses Job and his friends, defending God's impartial justice against accusations that God has abandoned Job to suffering despite his innocence. He argues that God does not pervert justice or favor the rich over the poor, but rather observes all human actions and holds rulers accountable for their treatment of the afflicted.",
+  "connection": "This passage may echo the frustration of feeling powerless when those in authority appear indifferent to unfairness. It offers a perspective that resonates with the grief of seeking validation from higher powers when human systems seem to fail.",
   "checks": [
    {
     "rule": "I",
@@ -76,8 +76,8 @@
   "register": "injustice",
   "score": 0.7361,
   "margin": 0.0241,
-  "context": "Job, stripped of his wealth and health, laments his suffering to God, questioning why the Creator would treat him with hostility despite his innocence. He feels hunted by divine power and cries out for a brief moment of comfort before facing death.",
-  "connection": "This plea may echo the profound isolation felt by those who suffer injustice while perceiving no intervention from those in authority. It resembles the raw grief of individuals who feel abandoned by systems meant to protect them, asking why they must endure such hardship without relief.",
+  "context": "Job, stripped of his wealth and health, laments his suffering to God, questioning why the Creator would treat him with hostility despite his innocence. He feels hunted by divine power and pleads for a brief moment of relief before he dies.",
+  "connection": "This text may echo the profound isolation felt when one suffers injustice without recourse or comfort. It resembles the raw grief of those who feel abandoned by systems meant to protect them, acknowledging that pain often lacks immediate explanation or resolution.",
   "checks": [
    {
     "rule": "I",
@@ -127,5 +127,6 @@
   },
   "score": 0.6627
  },
- "built": "2026-09-11T03:05:02Z"
+ "built": "2026-09-11T03:39:52Z",
+ "season": null
 }

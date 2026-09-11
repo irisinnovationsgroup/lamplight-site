@@ -1,0 +1,101 @@
+{
+ "slug": "advent-waiting-in-the-dark",
+ "title": "Advent · waiting in the dark",
+ "register": "waiting",
+ "situation": "I am waiting for something that has not come, and I am asked to keep the light on anyway.",
+ "echo": {
+  "slot": "echo",
+  "reference": "Isaiah 9:1-7",
+  "heading": "Unto Us a Child Is Born",
+  "heading_source": "translation",
+  "book_id": "ISA",
+  "text": "Nevertheless, there will be no more gloom for those in distress. In the past He humbled the land of Zebulun and the land of Naphtali, but in the future He will honor the Way of the Sea, beyond the Jordan, Galilee of the nations: The people walking in darkness have seen a great light; on those living in the land of the shadow of death, a light has dawned. You have enlarged the nation and increased its joy. The people rejoice before You as they rejoice at harvest time, as men rejoice in dividing the plunder. For as in the day of Midian You have shattered the yoke of their burden, the bar across their shoulders, and the rod of their oppressor. For every trampling boot of battle and every garment rolled in blood will be burned as fuel for the fire. For unto us a child is born, unto us a son is given, and the government will be upon His shoulders. And He will be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace. Of the increase of His government and peace there will be no end. He will reign on the throne of David and over his kingdom, to establish and sustain it with justice and righteousness from that time and forevermore. The zeal of the LORD of Hosts will accomplish this.",
+  "word_count": 226,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/ISA/9/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_23_Isa_009_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/ISA/9/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/ISA/9/audio/souer.mp3"
+  },
+  "situation": "People trapped in despair and oppression find hope through the arrival of a leader who brings lasting peace and justice.",
+  "register": "joy",
+  "score": null,
+  "pinned": true,
+  "context": "",
+  "connection": "",
+  "checks": [],
+  "rejected_before_this": [],
+  "passage_id": "BSB:ISA.9.1-7"
+ },
+ "promise": {
+  "slot": "promise",
+  "reference": "Romans 8:18-27",
+  "heading": "Future Glory",
+  "heading_source": "translation",
+  "book_id": "ROM",
+  "text": "I consider that our present sufferings are not comparable to the glory that will be revealed in us. The creation waits in eager expectation for the revelation of the sons of God. For the creation was subjected to futility, not by its own will, but because of the One who subjected it, in hope that the creation itself will be set free from its bondage to decay and brought into the glorious freedom of the children of God. We know that the whole creation has been groaning together in the pains of childbirth until the present time. Not only that, but we ourselves, who have the firstfruits of the Spirit, groan inwardly as we wait eagerly for our adoption as sons, the redemption of our bodies. For in this hope we were saved; but hope that is seen is no hope at all. Who hopes for what he can already see? But if we hope for what we do not yet see, we wait for it patiently. In the same way, the Spirit helps us in our weakness. For we do not know how we ought to pray, but the Spirit Himself intercedes for us with groans too deep for words. And He who searches our hearts knows the mind of the Spirit, because the Spirit intercedes for the saints according to the will of God.",
+  "word_count": 226,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/ROM/8/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_45_Rom_008_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/ROM/8/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/ROM/8/audio/souer.mp3"
+  },
+  "situation": "People are enduring deep pain and uncertainty while waiting for a future relief that they cannot yet see.",
+  "register": "waiting",
+  "score": 0.7013,
+  "margin": 0.0001,
+  "context": "Paul addresses believers in Rome who are enduring present hardships and feeling the tension between their current spiritual state and the future redemption of their bodies. He describes this experience as a shared groaning, similar to childbirth pains, where hope is sustained not by visible results but by the Spirit's intercession during times of weakness.",
+  "connection": "This passage may echo the quiet endurance of those who maintain hope in uncertain times, finding strength in unseen support rather than immediate resolution. It resembles the experience of holding space for a future that has not yet arrived, acknowledging that waiting itself can be a profound and necessary part of the journey.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'waiting' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:ROM.8.18-27"
+ },
+ "prayer": {
+  "reference": "Psalms 130:1-8",
+  "heading": "Out of the Depths",
+  "heading_source": "translation",
+  "text": "Out of the depths I cry to You, O LORD! O Lord, hear my voice; let Your ears be attentive to my plea for mercy. If You, O LORD, kept track of iniquities, then who, O Lord, could stand? But with You there is forgiveness, so that You may be feared. I wait for the LORD; my soul does wait, and in His word I put my hope. My soul waits for the Lord more than watchmen wait for the morning— more than watchmen wait for the morning. O Israel, put your hope in the LORD, for with the LORD is loving devotion, and with Him is redemption in abundance. And He will redeem Israel from all iniquity.",
+  "word_count": 118,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/PSA/130/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_19_Psa_130_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/PSA/130/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/PSA/130/audio/souer.mp3"
+  },
+  "score": 0.6403
+ },
+ "built": "2026-09-11T03:41:18Z",
+ "season": "advent"
+}

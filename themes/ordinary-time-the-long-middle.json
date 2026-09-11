@@ -1,0 +1,101 @@
+{
+ "slug": "ordinary-time-the-long-middle",
+ "title": "Ordinary Time · the long middle",
+ "register": "endurance",
+ "situation": "Nothing is wrong and nothing is remarkable, and I have to keep going anyway.",
+ "echo": {
+  "slot": "echo",
+  "reference": "1 Kings 19:9-18",
+  "heading": "The LORD Speaks to Elijah at Horeb",
+  "heading_source": "translation",
+  "book_id": "1KI",
+  "text": "There Elijah entered a cave and spent the night. And the word of the LORD came to him, saying, “What are you doing here, Elijah?” “I have been very zealous for the LORD, the God of Hosts,” he replied, “but the Israelites have forsaken Your covenant, torn down Your altars, and killed Your prophets with the sword. I am the only one left, and they are seeking my life as well.” Then the LORD said, “Go out and stand on the mountain before the LORD. Behold, the LORD is about to pass by.” And a great and mighty wind tore into the mountains and shattered the rocks before the LORD, but the LORD was not in the wind. After the wind there was an earthquake, but the LORD was not in the earthquake. After the earthquake there was a fire, but the LORD was not in the fire. And after the fire came a still, small voice. When Elijah heard it, he wrapped his face in his cloak and went out and stood at the mouth of the cave. Suddenly a voice came to him and said, “What are you doing here, Elijah?” “I have been very zealous for the LORD, the God of Hosts,” he replied, “but the Israelites have forsaken Your covenant, torn down Your altars, and killed Your prophets with the sword. I am the only one left, and they are seeking my life as well.” Then the LORD said to him, “Go back by the way you came, and go to the Desert of Damascus. When you arrive, you are to anoint Hazael as king over Aram. You are also to anoint Jehu son of Nimshi as king over Israel and Elisha son of Shaphat from Abel-meholah to succeed you as prophet. Then Jehu will put to death whoever escapes the sword of Hazael, and Elisha will put to death whoever escapes the sword of Jehu. Nevertheless, I have reserved seven thousand in Israel—all whose knees have not bowed to Baal and whose mouths have not kissed him.”",
+  "word_count": 342,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/1KI/19/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_11_1Ki_019_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/1KI/19/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/1KI/19/audio/souer.mp3"
+  },
+  "situation": "Feeling isolated and exhausted after fighting a losing battle, one seeks comfort in dramatic displays of power but finds clarity and direction only in quiet reflection.",
+  "register": "endurance",
+  "score": null,
+  "pinned": true,
+  "context": "",
+  "connection": "",
+  "checks": [],
+  "rejected_before_this": [],
+  "passage_id": "BSB:1KI.19.9-18"
+ },
+ "promise": {
+  "slot": "promise",
+  "reference": "Colossians 1:3-14",
+  "heading": "Thanksgiving and Prayer",
+  "heading_source": "translation",
+  "book_id": "COL",
+  "text": "We always thank God, the Father of our Lord Jesus Christ, when we pray for you, because we have heard about your faith in Christ Jesus and your love for all the saints— the faith and love proceeding from the hope stored up for you in heaven, of which you have already heard in the word of truth, the gospel that has come to you. All over the world this gospel is bearing fruit and growing, just as it has been doing among you since the day you heard it and truly understood the grace of God. You learned it from Epaphras, our beloved fellow servant, who is a faithful minister of Christ on our behalf, and who also informed us of your love in the Spirit. For this reason, since the day we heard about you, we have not stopped praying for you and asking God to fill you with the knowledge of His will in all spiritual wisdom and understanding, so that you may walk in a manner worthy of the Lord and may please Him in every way: bearing fruit in every good work, growing in the knowledge of God, being strengthened with all power according to His glorious might so that you may have full endurance and patience, and joyfully giving thanks to the Father, who has qualified you to share in the inheritance of the saints in the light. He has rescued us from the dominion of darkness and brought us into the kingdom of His beloved Son, in whom we have redemption, the forgiveness of sins.",
+  "word_count": 262,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/COL/1/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_51_Col_001_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/COL/1/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/COL/1/audio/souer.mp3"
+  },
+  "situation": "People are enduring difficult circumstances with patience and joy while relying on hope for a better future.",
+  "register": "endurance",
+  "score": 0.6961,
+  "margin": 0.0039,
+  "context": "Paul writes to the believers in Colossae, commending their faith and love while praying that they would be strengthened with endurance and patience as they navigate their spiritual journey.",
+  "connection": "This may echo the quiet resilience of those who find hope not in dramatic events but in the steady practice of gratitude during ordinary days. It suggests that enduring the long middle requires a strength drawn from within, rather than external validation.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'endurance' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:COL.1.3-14"
+ },
+ "prayer": {
+  "reference": "Psalms 63:1-11",
+  "heading": "Thirsting for God",
+  "heading_source": "translation",
+  "text": "O God, You are my God. Earnestly I seek You; my soul thirsts for You. My body yearns for You in a dry and weary land without water. So I have seen You in the sanctuary and beheld Your power and glory. Because Your loving devotion is better than life, my lips will glorify You. So I will bless You as long as I live; in Your name I will lift my hands. My soul is satisfied as with the richest of foods; with joyful lips my mouth will praise You. When I remember You on my bed, I think of You through the watches of the night. For You are my help; I will sing for joy in the shadow of Your wings. My soul clings to You; Your right hand upholds me. But those who seek my life to destroy it will go into the depths of the earth. They will fall to the power of the sword; they will become a portion for foxes. But the king will rejoice in God; all who swear by Him will exult, for the mouths of liars will be shut.",
+  "word_count": 189,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/PSA/63/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_19_Psa_063_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/PSA/63/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/PSA/63/audio/souer.mp3"
+  },
+  "score": 0.6418
+ },
+ "built": "2026-09-11T03:41:43Z",
+ "season": "ordinary"
+}

@@ -21,8 +21,8 @@
   "register": "mercy",
   "score": 0.6911,
   "margin": 0.0094,
-  "context": "Noah and his family have just exited the ark after surviving a global flood that destroyed all other life on earth. God establishes a new covenant with them and every living creature, promising never to destroy the world by flood again as a sign of hope for their future.",
-  "connection": "This narrative may echo the experience of those who must rebuild their lives after a catastrophic loss, finding comfort in the idea that stability can be re-established. It suggests that even after profound destruction, there is space for renewal and a promise of continuity rather than further devastation.",
+  "context": "Noah and his family have just exited the ark after surviving a global flood that destroyed all other life on earth, finding themselves in a newly cleansed but desolate world. God establishes a covenant promising never to destroy the earth with water again, giving them permission to repopulate and use animals for food while commanding them to respect the sanctity of life.",
+  "connection": "This narrative may echo the disorientation of rebuilding after a catastrophic loss, where familiar structures are gone and one must navigate a world that feels both new and dangerous. The promise of stability amidst uncertainty can resemble the fragile hope people cling to when they must start over from nothing.",
   "checks": [
    {
     "rule": "I",
@@ -76,8 +76,8 @@
   "register": "courage",
   "score": 0.7146,
   "margin": 0.0242,
-  "context": "Paul addresses the Corinthian church to resolve their confusion regarding the resurrection of believers who have died before Christ's return. He explains that physical bodies will be transformed into imperishable, immortal forms at the last trumpet, ensuring that death is ultimately defeated.",
-  "connection": "This text may echo the experience of those rebuilding after a profound loss, suggesting that enduring labor retains meaning even when immediate resolution is absent. It offers a perspective where hope does not erase grief but provides a framework for steadfastness amidst the reality of endings.",
+  "context": "Paul addresses the Corinthian church to resolve their confusion regarding the resurrection of believers who have died before Christ's return. He explains that physical bodies are impermanent and will be transformed into immortal ones at the last trumpet, assuring them that death is not a final defeat but a transition overcome by Jesus Christ.",
+  "connection": "This text may echo the experience of those who must rebuild their lives after a significant ending, suggesting that the labor invested in faith is not lost even when circumstances change drastically. It offers a perspective where hope rests on a future transformation rather than an immediate resolution to present grief.",
   "checks": [
    {
     "rule": "I",
@@ -127,5 +127,6 @@
   },
   "score": 0.7174
  },
- "built": "2026-09-11T03:05:58Z"
+ "built": "2026-09-11T03:40:51Z",
+ "season": null
 }

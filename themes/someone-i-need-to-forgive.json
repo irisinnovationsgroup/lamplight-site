@@ -21,8 +21,8 @@
   "register": "repentance",
   "score": 0.7054,
   "margin": 0.0059,
-  "context": "Judas Iscariot, overwhelmed by guilt after betraying Jesus and hearing that He was condemned, returns the thirty pieces of silver to the chief priests and elders in Jerusalem before taking his own life.",
-  "connection": "This narrative may echo the heavy burden of remorse one feels when seeking forgiveness for a deep hurt, highlighting how isolation can sometimes accompany the struggle to let go. It resembles the raw grief of realizing that an apology or restitution may not bring immediate relief from the pain caused.",
+  "context": "Judas Iscariot, overwhelmed by guilt after betraying Jesus and hearing the religious leaders dismiss his remorse, returns the silver payment and takes his own life in despair. The chief priests subsequently use the 'blood money' to purchase a field as a burial ground for foreigners.",
+  "connection": "This narrative may echo the heavy burden of regret one feels when seeking forgiveness from those who caused harm, only to find their response cold or indifferent. It resembles the isolation that can accompany the struggle to let go of a deep wound when reconciliation seems impossible.",
   "checks": [
    {
     "rule": "I",
@@ -76,8 +76,8 @@
   "register": "reconciliation",
   "score": 0.7088,
   "margin": 0.0019,
-  "context": "The prophet addresses Jerusalem, personified as a woman who broke her covenant with God but is promised restoration through His enduring mercy rather than her own merit.",
-  "connection": "This narrative may echo the complex process of forgiving someone who caused deep harm, where the act of letting go does not erase the past pain but offers a path toward inner peace and renewed dignity.",
+  "context": "The prophet addresses Jerusalem, personified as a woman who broke her covenant with God but is now promised restoration through His mercy rather than her own merit. Despite her past betrayal and shame, God declares He will re-establish an everlasting covenant to atone for her deeds.",
+  "connection": "This narrative may echo the complex process of forgiving someone who has caused deep harm, where the act of letting go is not a denial of the wrong but a choice to release the debt. It suggests that reconciliation or peace might arise from a place of grace rather than from the offender's immediate worthiness.",
   "checks": [
    {
     "rule": "I",
@@ -127,5 +127,6 @@
   },
   "score": 0.7397
  },
- "built": "2026-09-11T03:05:45Z"
+ "built": "2026-09-11T03:40:39Z",
+ "season": null
 }

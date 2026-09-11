@@ -1,5 +1,5 @@
 {
- "built": "2026-09-11T03:06:24Z",
+ "built": "2026-09-11T03:41:43Z",
  "themes": [
   {
    "slug": "a-death-in-the-family",
@@ -8,7 +8,8 @@
    "situation": "Someone I love has died and I do not know how to carry an ordinary day.",
    "echo": "Numbers 20:22-29",
    "promise": "Psalms 30:1-12",
-   "prayer": "Psalms 77:1-20"
+   "prayer": "Psalms 77:1-20",
+   "season": null
   },
   {
    "slug": "grief-that-will-not-lift",
@@ -17,7 +18,8 @@
    "situation": "The loss was a long time ago and everyone expects me to be better by now.",
    "echo": "Jeremiah 31:1-25",
    "promise": "Job 29:1-25",
-   "prayer": "Psalms 77:1-20"
+   "prayer": "Psalms 77:1-20",
+   "season": null
   },
   {
    "slug": "a-child-i-am-afraid-for",
@@ -26,7 +28,8 @@
    "situation": "My child is in trouble or in danger and I cannot protect them from it.",
    "echo": "Exodus 2:1-10",
    "promise": "Psalms 91:1-16",
-   "prayer": "Psalms 86:1-17"
+   "prayer": "Psalms 86:1-17",
+   "season": null
   },
   {
    "slug": "a-diagnosis",
@@ -35,7 +38,8 @@
    "situation": "I have been told something about my body that I am frightened of.",
    "echo": "Matthew 17:1-13",
    "promise": "John 14:27-31",
-   "prayer": "Psalms 86:1-17"
+   "prayer": "Psalms 86:1-17",
+   "season": null
   },
   {
    "slug": "caring-for-someone-who-is-failing",
@@ -44,7 +48,8 @@
    "situation": "I am looking after someone whose condition only goes one way, and I am tired.",
    "echo": "Matthew 8:14-17",
    "promise": "Matthew 8:1-4",
-   "prayer": "Luke 5:12-16"
+   "prayer": "Luke 5:12-16",
+   "season": null
   },
   {
    "slug": "money-running-out",
@@ -53,7 +58,8 @@
    "situation": "I do not know how I will pay for what my family needs.",
    "echo": "Genesis 42:1-24",
    "promise": "Matthew 6:25-34",
-   "prayer": "1 Samuel 1:9-18"
+   "prayer": "1 Samuel 1:9-18",
+   "season": null
   },
   {
    "slug": "losing-work",
@@ -62,7 +68,8 @@
    "situation": "The work that gave my days their shape has been taken away.",
    "echo": "John 21:1-14",
    "promise": "Psalms 102:1-28",
-   "prayer": "Isaiah 5:1-7"
+   "prayer": "Isaiah 5:1-7",
+   "season": null
   },
   {
    "slug": "work-that-feels-pointless",
@@ -71,7 +78,8 @@
    "situation": "I work hard at something that seems to matter to nobody, including me.",
    "echo": "Haggai 1:1-11",
    "promise": "1 Corinthians 3:10-15",
-   "prayer": "Psalms 132:1-18"
+   "prayer": "Psalms 132:1-18",
+   "season": null
   },
   {
    "slug": "a-marriage-ending",
@@ -80,7 +88,8 @@
    "situation": "The person I built my life with and I are coming apart.",
    "echo": "Jeremiah 13:1-11",
    "promise": "Jeremiah 31:1-25",
-   "prayer": "1 Samuel 1:9-18"
+   "prayer": "1 Samuel 1:9-18",
+   "season": null
   },
   {
    "slug": "estranged-from-family",
@@ -89,7 +98,8 @@
    "situation": "Someone in my family will not speak to me and I do not know how to reach them.",
    "echo": "Judges 11:1-28",
    "promise": "Psalms 88:1-18",
-   "prayer": "Matthew 8:1-4"
+   "prayer": "Matthew 8:1-4",
+   "season": null
   },
   {
    "slug": "betrayed-by-a-friend",
@@ -98,16 +108,18 @@
    "situation": "Someone I trusted completely has turned out not to be who I thought.",
    "echo": "Judges 4:17-24",
    "promise": "Micah 7:7-13",
-   "prayer": "Psalms 73:1-28"
+   "prayer": "Psalms 73:1-28",
+   "season": null
   },
   {
    "slug": "loneliness",
    "title": "Loneliness",
    "register": "waiting",
    "situation": "I go through most days without anyone really knowing how I am.",
-   "echo": "Isaiah 53:1-8",
+   "echo": "Luke 17:20-37",
    "promise": "Psalms 25:1-22",
-   "prayer": "Psalms 130:1-8"
+   "prayer": "Psalms 130:1-8",
+   "season": null
   },
   {
    "slug": "treated-unjustly",
@@ -116,7 +128,8 @@
    "situation": "Something unfair was done to me and nobody with power seems to care.",
    "echo": "Job 34:1-37",
    "promise": "Job 10:1-22",
-   "prayer": "Psalms 94:1-23"
+   "prayer": "Psalms 94:1-23",
+   "season": null
   },
   {
    "slug": "powerless-against-a-system",
@@ -125,7 +138,8 @@
    "situation": "I am fighting an institution that will outlast me and does not notice me.",
    "echo": "Psalms 109:1-31",
    "promise": "Psalms 5:1-12",
-   "prayer": "Psalms 86:1-17"
+   "prayer": "Psalms 86:1-17",
+   "season": null
   },
   {
    "slug": "watching-cruelty-and-unable-to-stop-it",
@@ -134,7 +148,8 @@
    "situation": "I can see people being harmed and there is nothing I can do about it.",
    "echo": "Jeremiah 14:1-18",
    "promise": "Psalms 121:1-8",
-   "prayer": "Job 10:1-22"
+   "prayer": "Job 10:1-22",
+   "season": null
   },
   {
    "slug": "doubt",
@@ -143,7 +158,8 @@
    "situation": "I am not sure any of what I believed is true, and I cannot say so out loud.",
    "echo": "John 20:24-29",
    "promise": "Luke 7:18-23",
-   "prayer": "Psalms 77:1-20"
+   "prayer": "Psalms 77:1-20",
+   "season": null
   },
   {
    "slug": "feeling-far-away",
@@ -152,7 +168,8 @@
    "situation": "I pray and it is like speaking into an empty room.",
    "echo": "Acts 1:12-26",
    "promise": "Psalms 130:1-8",
-   "prayer": "1 Samuel 1:9-18"
+   "prayer": "1 Samuel 1:9-18",
+   "season": null
   },
   {
    "slug": "angry-at-god",
@@ -161,7 +178,8 @@
    "situation": "Something happened that I cannot forgive, and I blame the God I still believe in.",
    "echo": "1 Kings 21:25-29",
    "promise": "Psalms 77:1-20",
-   "prayer": "Psalms 51:1-19"
+   "prayer": "Psalms 51:1-19",
+   "season": null
   },
   {
    "slug": "coming-back-after-a-long-time-away",
@@ -170,7 +188,8 @@
    "situation": "I left all this behind years ago and I do not know if I can return.",
    "echo": "Acts 3:11-26",
    "promise": "Psalms 85:1-13",
-   "prayer": "Psalms 77:1-20"
+   "prayer": "Psalms 77:1-20",
+   "season": null
   },
   {
    "slug": "something-i-did",
@@ -179,7 +198,8 @@
    "situation": "I did something I am ashamed of and I cannot undo it.",
    "echo": "Luke 7:36-50",
    "promise": "Isaiah 57:14-21",
-   "prayer": "Psalms 51:1-19"
+   "prayer": "Psalms 51:1-19",
+   "season": null
   },
   {
    "slug": "addiction",
@@ -188,7 +208,8 @@
    "situation": "I keep going back to the thing that is destroying me.",
    "echo": "Mark 8:22-26",
    "promise": "Lamentations 3:19-36",
-   "prayer": "Psalms 130:1-8"
+   "prayer": "Psalms 130:1-8",
+   "season": null
   },
   {
    "slug": "forgiving-myself",
@@ -197,7 +218,8 @@
    "situation": "Other people have forgiven me and I cannot manage it myself.",
    "echo": "1 John 2:1-6",
    "promise": "Micah 7:7-13",
-   "prayer": "Psalms 103:1-22"
+   "prayer": "Psalms 103:1-22",
+   "season": null
   },
   {
    "slug": "someone-i-need-to-forgive",
@@ -206,7 +228,8 @@
    "situation": "Someone hurt me badly and I am being asked, or asking myself, to let it go.",
    "echo": "Matthew 27:3-10",
    "promise": "Ezekiel 16:59-63",
-   "prayer": "1 Samuel 1:9-18"
+   "prayer": "1 Samuel 1:9-18",
+   "season": null
   },
   {
    "slug": "waiting-for-something-that-may-not-come",
@@ -215,7 +238,8 @@
    "situation": "I have been hoping for the same thing for years with no sign of it.",
    "echo": "Luke 2:25-35",
    "promise": "Hebrews 6:13-20",
-   "prayer": "Psalms 130:1-8"
+   "prayer": "Psalms 130:1-8",
+   "season": null
   },
   {
    "slug": "exhaustion",
@@ -224,7 +248,8 @@
    "situation": "I am not in crisis. I am just very tired and have been for a long time.",
    "echo": "Luke 22:39-46",
    "promise": "2 Thessalonians 3:16-18",
-   "prayer": "Psalms 77:1-20"
+   "prayer": "Psalms 77:1-20",
+   "season": null
   },
   {
    "slug": "starting-again",
@@ -233,7 +258,8 @@
    "situation": "Something ended and I have to build a life from the beginning.",
    "echo": "Genesis 9:1-17",
    "promise": "1 Corinthians 15:50-58",
-   "prayer": "Psalms 116:1-19"
+   "prayer": "Psalms 116:1-19",
+   "season": null
   },
   {
    "slug": "leaving-home",
@@ -242,7 +268,8 @@
    "situation": "I am going somewhere far away and do not know when I will return.",
    "echo": "Ezekiel 11:22-25",
    "promise": "John 14:1-4",
-   "prayer": "Psalms 77:1-20"
+   "prayer": "Psalms 77:1-20",
+   "season": null
   },
   {
    "slug": "a-new-child",
@@ -251,7 +278,8 @@
    "situation": "A baby has arrived and I am overwhelmed by love and by fear at the same time.",
    "echo": "Genesis 38:27-30",
    "promise": "Genesis 30:17-21",
-   "prayer": "1 Samuel 1:9-18"
+   "prayer": "1 Samuel 1:9-18",
+   "season": null
   },
   {
    "slug": "recovery",
@@ -260,7 +288,8 @@
    "situation": "Something that was broken in me is slowly mending.",
    "echo": "Job 42:10-17",
    "promise": "Isaiah 57:14-21",
-   "prayer": "1 Samuel 1:9-18"
+   "prayer": "1 Samuel 1:9-18",
+   "season": null
   },
   {
    "slug": "unexpected-kindness",
@@ -269,7 +298,8 @@
    "situation": "A stranger did something for me that they did not have to do.",
    "echo": "Luke 17:11-19",
    "promise": "Hebrews 2:5-18",
-   "prayer": "Matthew 8:1-4"
+   "prayer": "Matthew 8:1-4",
+   "season": null
   },
   {
    "slug": "gratitude",
@@ -278,7 +308,8 @@
    "situation": "Things are well and I want to say so to someone.",
    "echo": "1 Thessalonians 3:6-13",
    "promise": "Psalms 67:1-7",
-   "prayer": "Psalms 138:1-8"
+   "prayer": "Psalms 138:1-8",
+   "season": null
   },
   {
    "slug": "fear-of-what-is-coming",
@@ -287,7 +318,148 @@
    "situation": "Nothing bad has happened yet and I cannot stop bracing for it.",
    "echo": "Isaiah 21:1-10",
    "promise": "John 14:27-31",
-   "prayer": "Psalms 77:1-20"
+   "prayer": "Psalms 77:1-20",
+   "season": null
+  },
+  {
+   "slug": "advent-waiting-in-the-dark",
+   "title": "Advent · waiting in the dark",
+   "register": "waiting",
+   "situation": "I am waiting for something that has not come, and I am asked to keep the light on anyway.",
+   "echo": "Isaiah 9:1-7",
+   "promise": "Romans 8:18-27",
+   "prayer": "Psalms 130:1-8",
+   "season": "advent"
+  },
+  {
+   "slug": "advent-the-promise-is-slow",
+   "title": "Advent · the promise is slow",
+   "register": "endurance",
+   "situation": "What I was promised is taking so long that I have started to doubt I heard it right.",
+   "echo": "Luke 2:25-35",
+   "promise": "Hebrews 6:13-20",
+   "prayer": "1 Samuel 1:9-18",
+   "season": "advent"
+  },
+  {
+   "slug": "christmas-god-arrives-small",
+   "title": "Christmas · God arrives small",
+   "register": "joy",
+   "situation": "Something enormous has happened quietly, at night, to people nobody was watching.",
+   "echo": "Luke 2:1-7",
+   "promise": "Luke 2:8-20",
+   "prayer": "Isaiah 42:10-17",
+   "season": "christmas"
+  },
+  {
+   "slug": "christmas-no-room",
+   "title": "Christmas · no room",
+   "register": "displacement",
+   "situation": "There was nowhere for us, and we made do in a place not meant for it.",
+   "echo": "Matthew 2:13-15",
+   "promise": "Mark 11:12-14",
+   "prayer": "Psalms 114:1-8",
+   "season": "christmas"
+  },
+  {
+   "slug": "epiphany-strangers-understood-first",
+   "title": "Epiphany · strangers understood first",
+   "register": "mercy",
+   "situation": "People from outside saw what those closest to it could not.",
+   "echo": "Matthew 2:1-12",
+   "promise": "Hebrews 4:12-16",
+   "prayer": "Matthew 8:1-4",
+   "season": "epiphany"
+  },
+  {
+   "slug": "lent-going-without-on-purpose",
+   "title": "Lent · going without on purpose",
+   "register": "endurance",
+   "situation": "I am giving something up and finding out how much I depended on it.",
+   "echo": "Matthew 4:1-11",
+   "promise": "Luke 9:23-27",
+   "prayer": "1 Samuel 1:9-18",
+   "season": "lent"
+  },
+  {
+   "slug": "lent-in-the-wilderness",
+   "title": "Lent · in the wilderness",
+   "register": "doubt",
+   "situation": "I am in an empty stretch with nothing to distract me from what I actually want.",
+   "echo": "Mark 1:12-15",
+   "promise": "Hebrews 11:1-3",
+   "prayer": "Psalms 77:1-20",
+   "season": "lent"
+  },
+  {
+   "slug": "lent-turning-back",
+   "title": "Lent · turning back",
+   "register": "repentance",
+   "situation": "I know what I need to stop doing and I have not stopped.",
+   "echo": "Luke 15:11-32",
+   "promise": "Psalms 131:1-3",
+   "prayer": "1 Samuel 1:9-18",
+   "season": "lent"
+  },
+  {
+   "slug": "holy-week-the-night-before",
+   "title": "Holy Week · the night before",
+   "register": "fear",
+   "situation": "I know what is coming tomorrow and I cannot make it not come.",
+   "echo": "Matthew 26:36-46",
+   "promise": "Hebrews 11:1-3",
+   "prayer": "Psalms 86:1-17",
+   "season": "holy-week"
+  },
+  {
+   "slug": "holy-week-abandoned",
+   "title": "Holy Week · abandoned",
+   "register": "grief",
+   "situation": "The people who said they would stay have gone, and I am on my own in it.",
+   "echo": "Matthew 26:47-56",
+   "promise": "Psalms 22:1-31",
+   "prayer": "Psalms 88:1-18",
+   "season": "holy-week"
+  },
+  {
+   "slug": "easter-the-stone-moved",
+   "title": "Easter · the stone moved",
+   "register": "joy",
+   "situation": "Something I had given up on has turned out not to be finished.",
+   "echo": "Mark 16:1-8",
+   "promise": "Zephaniah 3:14-20",
+   "prayer": "1 Samuel 1:9-18",
+   "season": "easter"
+  },
+  {
+   "slug": "easter-slow-to-believe-it",
+   "title": "Easter · slow to believe it",
+   "register": "doubt",
+   "situation": "Good news has arrived and I cannot let myself trust it yet.",
+   "echo": "John 20:24-29",
+   "promise": "Hebrews 11:1-3",
+   "prayer": "Psalms 77:1-20",
+   "season": "easter"
+  },
+  {
+   "slug": "pentecost-sent-out",
+   "title": "Pentecost · sent out",
+   "register": "courage",
+   "situation": "I am being asked to go and say something, and I do not feel ready.",
+   "echo": "Acts 2:1-13",
+   "promise": "Ephesians 6:10-20",
+   "prayer": "1 Samuel 1:9-18",
+   "season": "easter"
+  },
+  {
+   "slug": "ordinary-time-the-long-middle",
+   "title": "Ordinary Time · the long middle",
+   "register": "endurance",
+   "situation": "Nothing is wrong and nothing is remarkable, and I have to keep going anyway.",
+   "echo": "1 Kings 19:9-18",
+   "promise": "Colossians 1:3-14",
+   "prayer": "Psalms 63:1-11",
+   "season": "ordinary"
   }
  ]
 }

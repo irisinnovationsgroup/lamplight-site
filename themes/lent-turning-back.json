@@ -1,0 +1,101 @@
+{
+ "slug": "lent-turning-back",
+ "title": "Lent · turning back",
+ "register": "repentance",
+ "situation": "I know what I need to stop doing and I have not stopped.",
+ "echo": {
+  "slot": "echo",
+  "reference": "Luke 15:11-32",
+  "heading": "The Parable of the Prodigal Son",
+  "heading_source": "translation",
+  "book_id": "LUK",
+  "text": "Then Jesus said, “There was a man who had two sons. The younger son said to him, ‘Father, give me my share of the estate.’ So he divided his property between them. After a few days, the younger son got everything together and journeyed to a distant country, where he squandered his wealth in wild living. After he had spent all he had, a severe famine swept through that country, and he began to be in need. So he went and hired himself out to a citizen of that country, who sent him into his fields to feed the pigs. He longed to fill his belly with the pods the pigs were eating, but no one would give him a thing. Finally he came to his senses and said, ‘How many of my father’s hired servants have plenty of food, but here I am, starving to death! I will get up and go back to my father and say to him, “Father, I have sinned against heaven and against you. I am no longer worthy to be called your son. Make me like one of your hired servants.”’ So he got up and went to his father. But while he was still in the distance, his father saw him and was filled with compassion. He ran to his son, embraced him, and kissed him. The son declared, ‘Father, I have sinned against heaven and against you. I am no longer worthy to be called your son. ’ But the father said to his servants, ‘Quick! Bring the best robe and put it on him. Put a ring on his finger and sandals on his feet. Bring the fattened calf and kill it. Let us feast and celebrate. For this son of mine was dead and is alive again! He was lost and is found!’ So they began to celebrate. Meanwhile the older son was in the field, and as he approached the house, he heard music and dancing. So he called one of the servants and asked what was going on. ‘Your brother has returned,’ he said, ‘and your father has killed the fattened calf, because he has him back safe and sound.’ The older son became angry and refused to go in. So his father came out and pleaded with him. But he answered his father, ‘Look, all these years I have served you and never disobeyed a commandment of yours. Yet you never gave me even a young goat so I could celebrate with my friends. But when this son of yours returns from squandering your wealth with prostitutes, you kill the fattened calf for him!’ ‘Son, you are always with me,’ the father said, ‘and all that is mine is yours. But it was fitting to celebrate and be glad, because this brother of yours was dead and is alive again; he was lost and is found.’”",
+  "word_count": 480,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/LUK/15/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_42_Luk_015_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/LUK/15/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/LUK/15/audio/souer.mp3"
+  },
+  "situation": "A person who wasted their resources and hit rock bottom returns home in shame, expecting rejection, but is instead welcomed back with overwhelming love and celebration by a parent who refuses to let go of them. Meanwhile, another family member resents this forgiveness because they feel their own loyal service has been ignored.",
+  "register": "reconciliation",
+  "score": null,
+  "pinned": true,
+  "context": "",
+  "connection": "",
+  "checks": [],
+  "rejected_before_this": [],
+  "passage_id": "BSB:LUK.15.11-32"
+ },
+ "promise": {
+  "slot": "promise",
+  "reference": "Psalms 131:1-3",
+  "heading": "I Have Stilled My Soul",
+  "heading_source": "translation",
+  "book_id": "PSA",
+  "text": "My heart is not proud, O LORD, my eyes are not haughty. I do not aspire to great things or matters too lofty for me. Surely I have stilled and quieted my soul; like a weaned child with his mother, like a weaned child is my soul within me. O Israel, put your hope in the LORD, both now and forevermore.",
+  "word_count": 61,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/PSA/131/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_19_Psa_131_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/PSA/131/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/PSA/131/audio/souer.mp3"
+  },
+  "situation": "A person who has stopped striving for unattainable goals and found peace by accepting their current limitations.",
+  "register": "endurance",
+  "score": 0.7238,
+  "margin": 0.0308,
+  "context": "The speaker addresses the Lord directly, expressing a personal commitment to humility and rejecting pride or ambition beyond their capacity. They describe an internal state of peace and trust, comparing their soul to a weaned child resting quietly with its mother.",
+  "connection": "This posture may echo the struggle of someone who recognizes the need for change but finds themselves stuck in familiar patterns of behavior. The image of quieting the soul offers a glimpse of hope not through immediate success, but through the acceptance of one's current limitations and dependence on God.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'repentance' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:PSA.131.1-3"
+ },
+ "prayer": {
+  "reference": "1 Samuel 1:9-18",
+  "heading": "Hannah Prays for a Son",
+  "heading_source": "translation",
+  "text": "So after they had finished eating and drinking in Shiloh, Hannah stood up. Now Eli the priest was sitting on a chair by the doorpost of the temple of the LORD. In her bitter distress, Hannah prayed to the LORD and wept with many tears. And she made a vow, saying, “O LORD of Hosts, if only You will look upon the affliction of Your maidservant and remember me, not forgetting Your maidservant but giving her a son, then I will dedicate him to the LORD all the days of his life, and no razor shall ever touch his head.” As Hannah kept on praying before the LORD, Eli watched her mouth. Hannah was praying in her heart, and though her lips were moving, her voice could not be heard. So Eli thought she was drunk and said to her, “How long will you be drunk? Put away your wine!” “No, my lord,” Hannah replied. “I am a woman troubled in spirit. I have not had any wine or strong drink, but I have poured out my soul before the LORD. Do not take your servant for a wicked woman, for all this time I have been praying out of the depth of my anguish and grief.” “Go in peace,” Eli replied, “and may the God of Israel grant the petition you have asked of Him.” “May your maidservant find favor with you,” said Hannah. Then she went on her way, and she began to eat, and her face was no longer downcast.",
+  "word_count": 253,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/1SA/1/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_09_1Sa_001_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/1SA/1/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/1SA/1/audio/souer.mp3"
+  },
+  "score": 0.67
+ },
+ "built": "2026-09-11T03:41:32Z",
+ "season": "lent"
+}

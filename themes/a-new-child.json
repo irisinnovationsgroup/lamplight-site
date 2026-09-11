@@ -21,8 +21,8 @@
   "register": "fear",
   "score": 0.7146,
   "margin": 0.0074,
-  "context": "Tamar gives birth to twins in Canaan; a midwife marks one infant's wrist with a scarlet thread as he initially extends his hand, but the other brother emerges first, leading to the naming of Perez and Zerah.",
-  "connection": "The scene may echo the sudden, unpredictable shifts that accompany new life, where initial expectations are overturned by reality. It resembles the complex mix of awe and anxiety felt when a future arrives in ways that defy prior preparation.",
+  "context": "Tamar gives birth to twins in Canaan; during the delivery, one twin initially extends a hand marked by a midwife with a scarlet thread as the firstborn, but then withdraws it to allow his brother to emerge first.",
+  "connection": "The sudden shift from anticipated order to unexpected reality may echo the way new life often defies our preparations, bringing both profound joy and disorienting fear. The marking of the wrist suggests how we attempt to identify and secure what is coming, even when the outcome remains uncertain.",
   "checks": [
    {
     "rule": "I",
@@ -76,8 +76,8 @@
   "register": "joy",
   "score": 0.719,
   "margin": 0.0026,
-  "context": "Leah, who had previously been unloved by her husband Jacob, conceives and bears two sons, Issachar and Zebulun, followed by a daughter named Dinah, interpreting these births as divine reward and a path to gaining honor within her polygamous marriage.",
-  "connection": "This narrative may echo the complex mix of relief and anxiety often felt when welcoming a new life into an existing family dynamic. It resembles the human experience of seeking validation and stability through new beginnings while remaining aware of the uncertainties that accompany such profound changes.",
+  "context": "Leah, who had previously been unloved by her husband Jacob, experiences a period of fertility, bearing him six sons and a daughter in succession. She interprets these births as divine vindication for her past sacrifices and a means to secure her husband's honor and affection.",
+  "connection": "This narrative may echo the complex emotional landscape of new parenthood, where profound joy often coexists with deep-seated anxieties about worthiness and the future. It resembles the human tendency to seek validation through major life milestones while simultaneously grappling with the vulnerability that such changes bring.",
   "checks": [
    {
     "rule": "I",
@@ -127,5 +127,6 @@
   },
   "score": 0.689
  },
- "built": "2026-09-11T03:06:05Z"
+ "built": "2026-09-11T03:41:00Z",
+ "season": null
 }

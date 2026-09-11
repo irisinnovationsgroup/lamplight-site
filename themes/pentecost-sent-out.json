@@ -1,0 +1,101 @@
+{
+ "slug": "pentecost-sent-out",
+ "title": "Pentecost · sent out",
+ "register": "courage",
+ "situation": "I am being asked to go and say something, and I do not feel ready.",
+ "echo": {
+  "slot": "echo",
+  "reference": "Acts 2:1-13",
+  "heading": "The Holy Spirit at Pentecost",
+  "heading_source": "translation",
+  "book_id": "ACT",
+  "text": "When the day of Pentecost came, they were all together in one place. Suddenly a sound like a mighty rushing wind came from heaven and filled the whole house where they were sitting. They saw tongues like flames of fire that separated and came to rest on each of them. And they were all filled with the Holy Spirit and began to speak in other tongues as the Spirit enabled them. Now there were dwelling in Jerusalem God-fearing Jews from every nation under heaven. And when this sound rang out, a crowd came together in bewilderment, because each one heard them speaking his own language. Astounded and amazed, they asked, “Are not all these who are speaking Galileans? How is it then that each of us hears them in his own native language? Parthians, Medes, and Elamites; residents of Mesopotamia, Judea and Cappadocia, Pontus and Asia, Phrygia and Pamphylia, Egypt and the parts of Libya near Cyrene; visitors from Rome, both Jews and converts to Judaism; Cretans and Arabs—we hear them declaring the wonders of God in our own tongues!” Astounded and perplexed, they asked one another, “What does this mean?” But others mocked them and said, “They are drunk on new wine!”",
+  "word_count": 203,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/ACT/2/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_44_Act_002_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/ACT/2/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/ACT/2/audio/souer.mp3"
+  },
+  "situation": "People experience a sudden, overwhelming event that breaks down barriers of language and origin, causing them to witness something extraordinary that leaves them amazed, confused, and divided in their interpretation.",
+  "register": "doubt",
+  "score": null,
+  "pinned": true,
+  "context": "",
+  "connection": "",
+  "checks": [],
+  "rejected_before_this": [],
+  "passage_id": "BSB:ACT.2.1-13"
+ },
+ "promise": {
+  "slot": "promise",
+  "reference": "Ephesians 6:10-20",
+  "heading": "The Full Armor of God",
+  "heading_source": "translation",
+  "book_id": "EPH",
+  "text": "Finally, be strong in the Lord and in His mighty power. Put on the full armor of God, so that you can make your stand against the devil’s schemes. For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this world’s darkness, and against the spiritual forces of evil in the heavenly realms. Therefore take up the full armor of God, so that when the day of evil comes, you will be able to stand your ground, and having done everything, to stand. Stand firm then, with the belt of truth buckled around your waist, with the breastplate of righteousness arrayed, and with your feet fitted with the readiness of the gospel of peace. In addition to all this, take up the shield of faith, with which you can extinguish all the flaming arrows of the evil one. And take the helmet of salvation and the sword of the Spirit, which is the word of God. Pray in the Spirit at all times, with every kind of prayer and petition. To this end, stay alert with all perseverance in your prayers for all the saints. Pray also for me, that whenever I open my mouth, words may be given me so that I will boldly make known the mystery of the gospel, for which I am an ambassador in chains. Pray that I may proclaim it fearlessly, as I should.",
+  "word_count": 240,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/EPH/6/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_49_Eph_006_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/EPH/6/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/EPH/6/audio/souer.mp3"
+  },
+  "situation": "Feeling overwhelmed by invisible pressures and needing to mentally prepare for a difficult confrontation.",
+  "register": "courage",
+  "score": 0.6608,
+  "margin": 0.0018,
+  "context": "The Apostle Paul, writing from imprisonment in Rome to the believers in Ephesus, urges them to rely on divine strength rather than their own power to withstand spiritual opposition and to pray for boldness in proclaiming the gospel despite his chains.",
+  "connection": "This may echo the feeling of inadequacy when asked to speak or act beyond one's perceived capacity, suggesting that readiness is not a prerequisite for being equipped. It resembles the experience of seeking support and resilience while facing uncertainty, acknowledging the weight of responsibility without guaranteeing a specific outcome.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'courage' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:EPH.6.10-20"
+ },
+ "prayer": {
+  "reference": "1 Samuel 1:9-18",
+  "heading": "Hannah Prays for a Son",
+  "heading_source": "translation",
+  "text": "So after they had finished eating and drinking in Shiloh, Hannah stood up. Now Eli the priest was sitting on a chair by the doorpost of the temple of the LORD. In her bitter distress, Hannah prayed to the LORD and wept with many tears. And she made a vow, saying, “O LORD of Hosts, if only You will look upon the affliction of Your maidservant and remember me, not forgetting Your maidservant but giving her a son, then I will dedicate him to the LORD all the days of his life, and no razor shall ever touch his head.” As Hannah kept on praying before the LORD, Eli watched her mouth. Hannah was praying in her heart, and though her lips were moving, her voice could not be heard. So Eli thought she was drunk and said to her, “How long will you be drunk? Put away your wine!” “No, my lord,” Hannah replied. “I am a woman troubled in spirit. I have not had any wine or strong drink, but I have poured out my soul before the LORD. Do not take your servant for a wicked woman, for all this time I have been praying out of the depth of my anguish and grief.” “Go in peace,” Eli replied, “and may the God of Israel grant the petition you have asked of Him.” “May your maidservant find favor with you,” said Hannah. Then she went on her way, and she began to eat, and her face was no longer downcast.",
+  "word_count": 253,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/1SA/1/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_09_1Sa_001_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/1SA/1/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/1SA/1/audio/souer.mp3"
+  },
+  "score": 0.6686
+ },
+ "built": "2026-09-11T03:41:42Z",
+ "season": "easter"
+}

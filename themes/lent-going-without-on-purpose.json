@@ -1,0 +1,101 @@
+{
+ "slug": "lent-going-without-on-purpose",
+ "title": "Lent · going without on purpose",
+ "register": "endurance",
+ "situation": "I am giving something up and finding out how much I depended on it.",
+ "echo": {
+  "slot": "echo",
+  "reference": "Matthew 4:1-11",
+  "heading": "The Temptation of Jesus",
+  "heading_source": "translation",
+  "book_id": "MAT",
+  "text": "Then Jesus was led by the Spirit into the wilderness to be tempted by the devil. After fasting forty days and forty nights, He was hungry. The tempter came to Him and said, “If You are the Son of God, tell these stones to become bread.” But Jesus answered, “It is written: ‘Man shall not live on bread alone, but on every word that comes from the mouth of God.’ ” Then the devil took Him to the holy city and set Him on the pinnacle of the temple. “If You are the Son of God,” he said, “throw Yourself down. For it is written: ‘He will command His angels concerning You, and they will lift You up in their hands, so that You will not strike Your foot against a stone.’ ” Jesus replied, “It is also written: ‘Do not put the Lord your God to the test.’ ” Again, the devil took Him to a very high mountain and showed Him all the kingdoms of the world and their glory. “All this I will give You,” he said, “if You will fall down and worship me.” “Away from Me, Satan!” Jesus told him. “For it is written: ‘Worship the Lord your God and serve Him only.’ ” Then the devil left Him, and angels came and ministered to Him.",
+  "word_count": 221,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/MAT/4/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_40_Mat_004_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/MAT/4/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/MAT/4/audio/souer.mp3"
+  },
+  "situation": "A person faces intense pressure to compromise their core values for immediate relief or power while isolated and exhausted.",
+  "register": "courage",
+  "score": null,
+  "pinned": true,
+  "context": "",
+  "connection": "",
+  "checks": [],
+  "rejected_before_this": [],
+  "passage_id": "BSB:MAT.4.1-11"
+ },
+ "promise": {
+  "slot": "promise",
+  "reference": "Luke 9:23-27",
+  "heading": "Take Up Your Cross",
+  "heading_source": "translation",
+  "book_id": "LUK",
+  "text": "Then Jesus said to all of them, “If anyone wants to come after Me, he must deny himself and take up his cross daily and follow Me. For whoever wants to save his life will lose it, but whoever loses his life for My sake will save it. What does it profit a man to gain the whole world, yet lose or forfeit his very self? If anyone is ashamed of Me and My words, the Son of Man will be ashamed of him when He comes in His glory and in the glory of the Father and of the holy angels. But I tell you truly, some who are standing here will not taste death before they see the kingdom of God.”",
+  "word_count": 123,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/LUK/9/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_42_Luk_009_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/LUK/9/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/LUK/9/audio/souer.mp3"
+  },
+  "situation": "A person feels overwhelmed by daily struggles and fears that sacrificing their own comfort and desires for a higher purpose will lead to loss rather than fulfillment.",
+  "register": "endurance",
+  "score": 0.6972,
+  "margin": 0.003,
+  "context": "Jesus addresses his disciples and the surrounding crowd, instructing them that following him requires daily self-denial and willingness to suffer, using the cross as a metaphor for ultimate sacrifice and shame.",
+  "connection": "This may echo the quiet realization that comes when one voluntarily relinquishes a source of comfort, revealing how deeply identity was tied to that possession. The passage suggests that such loss, while painful, can lead to a more authentic sense of self rather than a hollow accumulation of worldly security.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'endurance' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:LUK.9.23-27"
+ },
+ "prayer": {
+  "reference": "1 Samuel 1:9-18",
+  "heading": "Hannah Prays for a Son",
+  "heading_source": "translation",
+  "text": "So after they had finished eating and drinking in Shiloh, Hannah stood up. Now Eli the priest was sitting on a chair by the doorpost of the temple of the LORD. In her bitter distress, Hannah prayed to the LORD and wept with many tears. And she made a vow, saying, “O LORD of Hosts, if only You will look upon the affliction of Your maidservant and remember me, not forgetting Your maidservant but giving her a son, then I will dedicate him to the LORD all the days of his life, and no razor shall ever touch his head.” As Hannah kept on praying before the LORD, Eli watched her mouth. Hannah was praying in her heart, and though her lips were moving, her voice could not be heard. So Eli thought she was drunk and said to her, “How long will you be drunk? Put away your wine!” “No, my lord,” Hannah replied. “I am a woman troubled in spirit. I have not had any wine or strong drink, but I have poured out my soul before the LORD. Do not take your servant for a wicked woman, for all this time I have been praying out of the depth of my anguish and grief.” “Go in peace,” Eli replied, “and may the God of Israel grant the petition you have asked of Him.” “May your maidservant find favor with you,” said Hannah. Then she went on her way, and she began to eat, and her face was no longer downcast.",
+  "word_count": 253,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/1SA/1/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_09_1Sa_001_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/1SA/1/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/1SA/1/audio/souer.mp3"
+  },
+  "score": 0.7218
+ },
+ "built": "2026-09-11T03:41:28Z",
+ "season": "lent"
+}

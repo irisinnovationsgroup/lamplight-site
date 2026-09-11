@@ -22,7 +22,7 @@
   "score": 0.6533,
   "margin": 0.0075,
   "context": "The prophet Jeremiah addresses the exiled people of Israel, acknowledging their deep sorrow and displacement while promising that God will restore them from captivity to a place of renewed joy and stability.",
-  "connection": "This text may echo the experience of those whose grief persists long after the initial loss, offering a perspective where mourning is acknowledged as valid rather than something to be quickly dismissed by societal expectations.",
+  "connection": "This text may echo the experience of those whose grief persists long after the initial loss, as it validates the reality of weeping even while pointing toward a future hope. It resembles the struggle to find comfort when societal expectations demand that one has already moved on from their pain.",
   "checks": [
    {
     "rule": "I",
@@ -76,8 +76,8 @@
   "register": "grief",
   "score": 0.6935,
   "margin": 0.0072,
-  "context": "Job, having lost his wealth, family, and health, delivers a monologue recalling his former days of prosperity, social respect, and divine favor in the land of Uz. He vividly describes how he was honored as a leader and protector of the vulnerable, contrasting his past glory with his current state of isolation and suffering.",
-  "connection": "This passage may echo the dissonance felt by those who mourn long-term losses, where the sharp contrast between remembered wholeness and present emptiness makes the expectation to 'move on' feel invalid. It resembles the experience of carrying a grief that remains vivid and heavy, even as the world around you assumes it has faded.",
+  "context": "Job, having lost his wealth, family, and health, delivers a monologue recalling his former days of prosperity, social respect, and divine favor in the land of Uz. He vividly describes how he was honored as a leader and protector of the vulnerable, contrasting that past glory with his current state of isolation and suffering.",
+  "connection": "This passage may echo the disorientation felt when external markers of recovery clash with internal, lingering sorrow. It resembles the experience of being expected to perform a role of strength while still carrying the weight of a loss that has not yet lifted.",
   "checks": [
    {
     "rule": "I",
@@ -127,5 +127,6 @@
   },
   "score": 0.7323
  },
- "built": "2026-09-11T03:04:16Z"
+ "built": "2026-09-11T03:39:05Z",
+ "season": null
 }

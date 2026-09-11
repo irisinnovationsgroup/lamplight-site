@@ -21,8 +21,8 @@
   "register": "repentance",
   "score": 0.6092,
   "margin": 0.0053,
-  "context": "Peter and John are confronted by a healed beggar and an astonished crowd in Solomon’s Colonnade at the temple. Peter addresses the Israelites, clarifying that the healing was not their own power but God's work through Jesus, whom they had rejected, and calls them to repentance for the blessing of Abraham.",
-  "connection": "This may echo the hesitation some feel when considering a return to a past community or faith after having distanced themselves for years. The text’s emphasis on acting in ignorance rather than malice might offer a gentle perspective on the complexity of re-engaging with something once abandoned.",
+  "context": "Peter and John are addressing a crowd in Solomon’s Colonnade who have gathered after Peter healed a lame beggar. Peter clarifies that the miracle was not their own power but God's work through Jesus, urging the people to repent and turn back to God.",
+  "connection": "This may echo the hesitation some feel when considering a return to a past community or faith after a long absence. The text acknowledges the difficulty of re-engaging with origins that were previously rejected, without guaranteeing an easy resolution.",
   "checks": [
    {
     "rule": "I",
@@ -76,8 +76,8 @@
   "register": "repentance",
   "score": 0.7008,
   "margin": 0.018,
-  "context": "The people of Israel reflect on God's past restoration of their land and forgiveness after a period of captivity, yet they now plead for renewed favor and peace as they face ongoing uncertainty and fear of divine displeasure.",
-  "connection": "This plea may echo the hesitation of someone who has left a past life behind and wonders if they can ever return to a sense of wholeness or home. The text suggests that seeking peace is possible even when one feels unworthy or distant from where they once stood.",
+  "context": "The people of Israel reflect on God's past restoration of their land and forgiveness after a period of captivity, while simultaneously pleading for renewed favor and asking if divine anger will persist indefinitely.",
+  "connection": "This may echo the tentative hope of those who have distanced themselves from their roots, wondering if the path back to comfort is still open despite years of absence. It resembles the fragile desire for reconciliation when one fears that past departures have permanently severed the possibility of return.",
   "checks": [
    {
     "rule": "I",
@@ -127,5 +127,6 @@
   },
   "score": 0.6872
  },
- "built": "2026-09-11T03:05:29Z"
+ "built": "2026-09-11T03:40:21Z",
+ "season": null
 }

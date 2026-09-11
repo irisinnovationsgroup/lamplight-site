@@ -21,8 +21,8 @@
   "register": "fear",
   "score": 0.6291,
   "margin": 0.0163,
-  "context": "The prophet Isaiah receives a vision regarding the impending fall of Babylon, describing the terror of approaching invaders and his own visceral anguish as he waits for news from a lookout post.",
-  "connection": "This may echo the modern experience of living in a state of anticipatory anxiety, where the waiting itself becomes a source of dread. It resembles the feeling of being paralyzed by fear while watching events unfold, unable to stop bracing for an impact that has not yet arrived.",
+  "context": "The prophet Isaiah receives a vision concerning the impending fall of Babylon, describing the terror of approaching invaders and his own visceral anguish as he watches for their arrival from the lookout post.",
+  "connection": "This imagery may echo the modern experience of waiting in suspense for a potential crisis, where the anticipation of harm creates a sense of dread that feels as immediate and overwhelming as the event itself.",
   "checks": [
    {
     "rule": "I",
@@ -77,7 +77,7 @@
   "score": 0.6908,
   "margin": 0.0009,
   "context": "Jesus speaks these words to his disciples in an upper room during the final hours before his arrest and crucifixion, acknowledging their impending distress and his imminent departure from them.",
-  "connection": "This may echo the tension of waiting for a feared outcome while trying to maintain inner stability, suggesting that peace is not the absence of trouble but a distinct presence within it. It offers a framework for enduring uncertainty without assuming the current anxiety dictates the final reality.",
+  "connection": "This may echo the tension of waiting for a feared outcome while trying to maintain inner stability. It suggests that peace is not the absence of trouble, but a presence that persists even when circumstances remain uncertain.",
   "checks": [
    {
     "rule": "I",
@@ -127,5 +127,6 @@
   },
   "score": 0.7131
  },
- "built": "2026-09-11T03:06:24Z"
+ "built": "2026-09-11T03:41:15Z",
+ "season": null
 }

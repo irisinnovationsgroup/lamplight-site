@@ -5,24 +5,24 @@
  "situation": "I go through most days without anyone really knowing how I am.",
  "echo": {
   "slot": "echo",
-  "reference": "Isaiah 53:1-8",
-  "heading": "The Suffering Servant",
+  "reference": "Luke 17:20-37",
+  "heading": "The Coming of the Kingdom",
   "heading_source": "translation",
-  "book_id": "ISA",
-  "text": "Who has believed our message? And to whom has the arm of the LORD been revealed? He grew up before Him like a tender shoot, and like a root out of dry ground. He had no stately form or majesty to attract us, no beauty that we should desire Him. He was despised and rejected by men, a man of sorrows, acquainted with grief. Like one from whom men hide their faces, He was despised, and we esteemed Him not. Surely He took up our infirmities and carried our sorrows; yet we considered Him stricken, struck down by God, and afflicted. But He was pierced for our transgressions, He was crushed for our iniquities; the punishment that brought us peace was upon Him, and by His stripes we are healed. We all like sheep have gone astray, each one has turned to his own way; and the LORD has laid upon Him the iniquity of us all. He was oppressed and afflicted, yet He did not open His mouth. He was led like a lamb to the slaughter, and as a sheep before her shearers is silent, so He did not open His mouth. By oppression and judgment He was taken away, and who can recount His descendants? For He was cut off from the land of the living; He was stricken for the transgression of My people.",
-  "word_count": 228,
+  "book_id": "LUK",
+  "text": "When asked by the Pharisees when the kingdom of God would come, Jesus replied, “The kingdom of God will not come with observable signs. Nor will people say, ‘Look, here it is,’ or ‘There it is.’ For you see, the kingdom of God is in your midst. ” Then He said to the disciples, “The time is coming when you will long to see one of the days of the Son of Man, but you will not see it. People will tell you, ‘Look, there He is!’ or ‘Look, here He is!’ Do not go out or chase after them. For just as the lightning flashes and lights up the sky from one end to the other, so will be the Son of Man in His day. But first He must suffer many things and be rejected by this generation. Just as it was in the days of Noah, so also will it be in the days of the Son of Man: People were eating and drinking, marrying and being given in marriage, up to the day Noah entered the ark. Then the flood came and destroyed them all. It was the same in the days of Lot: People were eating and drinking, buying and selling, planting and building. But on the day Lot left Sodom, fire and sulfur rained down from heaven and destroyed them all. It will be just like that on the day the Son of Man is revealed. On that day, let no one on the housetop come down to retrieve his possessions. Likewise, let no one in the field return for anything he has left behind. Remember Lot’s wife! Whoever tries to save his life will lose it, but whoever loses his life will preserve it. I tell you, on that night two people will be in one bed: one will be taken and the other left. Two women will be grinding grain together: one will be taken and the other left.” “Where, Lord?” they asked. Jesus answered, “Wherever there is a carcass, there the vultures will gather.”",
+  "word_count": 343,
   "audio": {
-   "david": "https://audio.bible.helloao.org/api/BSB/ISA/53/audio/david.mp3",
-   "gilbert": "https://openbible.com/audio/gilbert/BSB_23_Isa_053_G.mp3",
-   "hays": "https://audio.bible.helloao.org/api/BSB/ISA/53/audio/hays.mp3",
-   "souer": "https://audio.bible.helloao.org/api/BSB/ISA/53/audio/souer.mp3"
+   "david": "https://audio.bible.helloao.org/api/BSB/LUK/17/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_42_Luk_017_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/LUK/17/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/LUK/17/audio/souer.mp3"
   },
-  "situation": "People feel isolated and misunderstood by those around them, suffering silently while bearing burdens that others wrongly attribute to their own faults.",
-  "register": "grief",
-  "score": 0.6979,
-  "margin": 0.0095,
-  "context": "The text describes a figure who is socially isolated and despised by his community, growing up in obscurity without status or beauty to command respect. He suffers silently under oppression and affliction, bearing the burdens of others while being rejected and hidden from by those around him.",
-  "connection": "This narrative may echo the profound isolation felt when one's internal struggles remain invisible to a world that does not seek to understand them. It resembles the experience of carrying heavy grief alone, where the pain is real yet unrecognized by observers who look away.",
+  "situation": "People are anxiously searching for signs of an impending event while remaining distracted by their daily routines, unaware that change will arrive suddenly and without warning.",
+  "register": "waiting",
+  "score": 0.6084,
+  "margin": 0.0123,
+  "context": "Jesus addresses Pharisees and disciples regarding the nature of the Kingdom of God, warning that it is not an observable political event but a present spiritual reality, while also describing a future time of sudden judgment where people are caught in their mundane routines. He uses the examples of Noah’s day and Lot’s day to illustrate how ordinary activities like eating, drinking, and building will continue until disaster strikes unexpectedly.",
+  "connection": "This passage may echo the isolation felt when one's internal spiritual or emotional state remains invisible to others who are absorbed in daily routines. It suggests that even amidst a world seemingly unaware of deeper struggles, there is a profound, unseen reality occurring within those who feel disconnected from their surroundings.",
   "checks": [
    {
     "rule": "I",
@@ -55,8 +55,16 @@
     "detail": "register 'waiting' does not require lament"
    }
   ],
-  "rejected_before_this": [],
-  "passage_id": "BSB:ISA.53.1-8"
+  "rejected_before_this": [
+   {
+    "reference": "Isaiah 53:1-8",
+    "heading": "The Suffering Servant",
+    "blocked_by": [
+     "Rule IV — no hedging — reads as a claim"
+    ]
+   }
+  ],
+  "passage_id": "BSB:LUK.17.20-37"
  },
  "promise": {
   "slot": "promise",
@@ -76,8 +84,8 @@
   "register": "waiting",
   "score": 0.7161,
   "margin": 0.0077,
-  "context": "The psalmist, likely David, expresses deep personal distress and isolation while facing numerous enemies who hate him without cause. He pleads for God's mercy and deliverance from his affliction, acknowledging his loneliness and the weight of his sins.",
-  "connection": "This ancient cry may echo the quiet desperation of someone whose internal struggles remain invisible to those around them. The text resembles the experience of seeking solace in faith when human connection feels insufficient or absent.",
+  "context": "The psalmist, likely David, expresses deep personal distress and isolation while facing numerous enemies who hate him without cause. He pleads for God's mercy and deliverance from his affliction, acknowledging his own sins but trusting in divine compassion.",
+  "connection": "This ancient cry of solitude may echo the quiet despair of those who feel unseen by their community, where the weight of internal struggles is carried alone. It suggests that even when human connection fails, there remains a space to voice one's pain and seek grace amidst the uncertainty.",
   "checks": [
    {
     "rule": "I",
@@ -127,5 +135,6 @@
   },
   "score": 0.7036
  },
- "built": "2026-09-11T03:04:57Z"
+ "built": "2026-09-11T03:39:47Z",
+ "season": null
 }

@@ -1,0 +1,101 @@
+{
+ "slug": "easter-the-stone-moved",
+ "title": "Easter · the stone moved",
+ "register": "joy",
+ "situation": "Something I had given up on has turned out not to be finished.",
+ "echo": {
+  "slot": "echo",
+  "reference": "Mark 16:1-8",
+  "heading": "The Resurrection",
+  "heading_source": "translation",
+  "book_id": "MRK",
+  "text": "When the Sabbath was over, Mary Magdalene, Mary the mother of James, and Salome bought spices so they could go and anoint the body of Jesus. Very early on the first day of the week, just after sunrise, they went to the tomb. They were asking one another, “Who will roll away the stone from the entrance of the tomb?” But when they looked up, they saw that the stone had been rolled away, even though it was extremely large. When they entered the tomb, they saw a young man dressed in a white robe sitting on the right side, and they were alarmed. But he said to them, “Do not be alarmed. You are looking for Jesus the Nazarene, who was crucified. He has risen! He is not here! See the place where they put Him. But go, tell His disciples and Peter, ‘He is going ahead of you into Galilee. There you will see Him, just as He told you.’” So the women left the tomb and ran away, trembling and bewildered. And in their fear they did not say a word to anyone.",
+  "word_count": 186,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/MRK/16/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_41_Mrk_016_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/MRK/16/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/MRK/16/audio/souer.mp3"
+  },
+  "situation": "People who have lost someone close are visiting the final resting place to perform last rites, only to discover the body is gone and receive news of a miraculous return that leaves them stunned and speechless.",
+  "register": "fear",
+  "score": null,
+  "pinned": true,
+  "context": "",
+  "connection": "",
+  "checks": [],
+  "rejected_before_this": [],
+  "passage_id": "BSB:MRK.16.1-8"
+ },
+ "promise": {
+  "slot": "promise",
+  "reference": "Zephaniah 3:14-20",
+  "heading": "Israel’s Restoration",
+  "heading_source": "translation",
+  "book_id": "ZEP",
+  "text": "Sing for joy, O Daughter of Zion; shout aloud, O Israel! Be glad and rejoice with all your heart, O Daughter of Jerusalem! The LORD has taken away your punishment; He has turned back your enemy. Israel’s King, the LORD, is among you; no longer will you fear any harm. On that day they will say to Jerusalem: “Do not fear, O Zion; do not let your hands fall limp. The LORD your God is among you; He is mighty to save. He will rejoice over you with gladness; He will quiet you with His love; He will rejoice over you with singing.” “I will gather those among you who grieve over the appointed feasts, so that you will no longer suffer reproach. Behold, at that time, I will deal with all who afflict you. I will save the lame and gather the scattered; and I will appoint praise and fame for the disgraced throughout the earth. At that time I will bring you in; yes, at that time I will gather you. For I will give you fame and praise among all the peoples of the earth when I restore your captives before your very eyes,” says the LORD.",
+  "word_count": 200,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/ZEP/3/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_36_Zep_003_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/ZEP/3/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/ZEP/3/audio/souer.mp3"
+  },
+  "situation": "People who have suffered defeat and shame are being comforted by the promise that their suffering is over and they will be restored to honor and community.",
+  "register": "joy",
+  "score": 0.6607,
+  "margin": 0.0031,
+  "context": "The prophet addresses the people of Zion and Jerusalem, announcing that God has removed their punishment and driven back their enemies, restoring them from a state of fear and disgrace to one of safety and joy.",
+  "connection": "This text may echo the relief felt when a long-standing struggle concludes unexpectedly, offering a sense of divine companionship during a moment where hope is restored after a period of giving up.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'joy' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:ZEP.3.14-20"
+ },
+ "prayer": {
+  "reference": "1 Samuel 1:9-18",
+  "heading": "Hannah Prays for a Son",
+  "heading_source": "translation",
+  "text": "So after they had finished eating and drinking in Shiloh, Hannah stood up. Now Eli the priest was sitting on a chair by the doorpost of the temple of the LORD. In her bitter distress, Hannah prayed to the LORD and wept with many tears. And she made a vow, saying, “O LORD of Hosts, if only You will look upon the affliction of Your maidservant and remember me, not forgetting Your maidservant but giving her a son, then I will dedicate him to the LORD all the days of his life, and no razor shall ever touch his head.” As Hannah kept on praying before the LORD, Eli watched her mouth. Hannah was praying in her heart, and though her lips were moving, her voice could not be heard. So Eli thought she was drunk and said to her, “How long will you be drunk? Put away your wine!” “No, my lord,” Hannah replied. “I am a woman troubled in spirit. I have not had any wine or strong drink, but I have poured out my soul before the LORD. Do not take your servant for a wicked woman, for all this time I have been praying out of the depth of my anguish and grief.” “Go in peace,” Eli replied, “and may the God of Israel grant the petition you have asked of Him.” “May your maidservant find favor with you,” said Hannah. Then she went on her way, and she began to eat, and her face was no longer downcast.",
+  "word_count": 253,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/1SA/1/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_09_1Sa_001_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/1SA/1/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/1SA/1/audio/souer.mp3"
+  },
+  "score": 0.6848
+ },
+ "built": "2026-09-11T03:41:38Z",
+ "season": "easter"
+}

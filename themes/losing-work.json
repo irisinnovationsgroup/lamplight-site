@@ -21,8 +21,8 @@
   "register": "provision",
   "score": 0.66,
   "margin": 0.011,
-  "context": "The disciples return to their former occupation of fishing after Jesus' resurrection, spending a night catching nothing before recognizing Jesus on the shore and sharing a meal with Him.",
-  "connection": "This narrative may echo the disorientation felt when one's professional identity is stripped away, leaving a sense of emptiness that precedes unexpected restoration. It suggests that even in the void of lost purpose, there may be space for communal sustenance and renewed presence.",
+  "context": "The disciples return to their former occupation of fishing after Jesus' resurrection, spending a fruitless night on the Sea of Tiberias before encountering the risen Christ at dawn.",
+  "connection": "This scene may echo the disorientation felt when familiar routines vanish, leaving individuals in a state of uncertainty until unexpected grace restores purpose. It resembles the quiet moment when loss is met not with immediate answers, but with a presence that invites renewed engagement.",
   "checks": [
    {
     "rule": "I",
@@ -76,8 +76,8 @@
   "register": "grief",
   "score": 0.7013,
   "margin": 0.003,
-  "context": "A psalmist in distress describes physical wasting and social isolation while feeling abandoned by God, yet affirms that the Lord remains eternally enthroned and attentive to the prayers of the destitute.",
-  "connection": "This lament may echo the profound disorientation felt when a defining role is suddenly removed, mirroring the psalmist's experience of days vanishing like shadows. It offers a space for honest grief without promising immediate restoration, pointing instead to the enduring nature of hope beyond personal loss.",
+  "context": "A psalmist describes intense personal suffering and isolation, feeling abandoned by God while facing physical decay and public ridicule in a state of distress.",
+  "connection": "This lament may echo the profound sense of disorientation and loss experienced when one's daily structure is abruptly removed. It offers a space to voice grief without demanding immediate resolution or assigning blame.",
   "checks": [
    {
     "rule": "I",
@@ -127,5 +127,6 @@
   },
   "score": 0.6511
  },
- "built": "2026-09-11T03:04:36Z"
+ "built": "2026-09-11T03:39:25Z",
+ "season": null
 }

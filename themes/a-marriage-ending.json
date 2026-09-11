@@ -21,8 +21,8 @@
   "register": "grief",
   "score": 0.5779,
   "margin": 0.0317,
-  "context": "The prophet Jeremiah follows God's command to hide a new linen loincloth in a rock crevice at Perath, only to retrieve it later and find it ruined and useless due to decay. This act serves as a tangible symbol of how God intended Israel and Judah to cling to Him for their renown, but because they refused to listen and followed stubborn hearts, He declares He will ruin their pride just as the cloth was ruined.",
-  "connection": "The deterioration of something once carefully preserved may echo the painful reality of a relationship that has lost its original vitality through neglect or time. It resembles the grief of watching a shared foundation become unusable, reflecting the honest sorrow of a bond that can no longer serve its intended purpose.",
+  "context": "The prophet Jeremiah follows God's command to hide a new linen loincloth in a rock crevice at Perath, where it remains for many days before being retrieved. Upon digging it up, he finds the garment ruined and useless, serving as a visual metaphor for how God intends to ruin the pride of Judah and Jerusalem due to their stubborn refusal to listen to His words.",
+  "connection": "The deterioration of something once pristine and intimate may echo the quiet decay of a relationship that was intended to be enduring. This passage resembles the grief of realizing that what was carefully preserved has become unusable, reflecting the loss inherent in a union coming apart.",
   "checks": [
    {
     "rule": "I",
@@ -76,8 +76,8 @@
   "register": "grief",
   "score": 0.6796,
   "margin": 0.0022,
-  "context": "The prophet Jeremiah addresses the exiled people of Israel, acknowledging their current state of displacement and loss while promising that God will restore them from the lands where they were scattered. The text moves from descriptions of weeping and mourning to a divine declaration that sorrow will be transformed into joy and comfort.",
-  "connection": "This passage may echo the experience of those navigating the end of a significant relationship, where the initial grief of separation is met with the possibility of future healing. It suggests that even in the midst of personal loss, there is room for hope and the gradual rebuilding of one's life.",
+  "context": "The prophet Jeremiah addresses the exiled people of Israel, promising that despite their current displacement and mourning, God will restore them to their land and transform their sorrow into joy.",
+  "connection": "This may echo the experience of those navigating a painful separation, suggesting that even in the midst of loss, there is potential for future comfort and renewal.",
   "checks": [
    {
     "rule": "I",
@@ -127,5 +127,6 @@
   },
   "score": 0.7096
  },
- "built": "2026-09-11T03:04:44Z"
+ "built": "2026-09-11T03:39:33Z",
+ "season": null
 }

@@ -21,8 +21,8 @@
   "register": "fear",
   "score": 0.7623,
   "margin": 0.0457,
-  "context": "In ancient Egypt, a Levite mother hides her newborn son to save him from Pharaoh's decree ordering the death of Hebrew male infants, eventually placing him in a waterproof basket among the Nile reeds where he is discovered by Pharaoh's daughter.",
-  "connection": "This narrative may echo the profound anxiety of parents who feel powerless to shield their children from systemic dangers beyond their control. It reflects the desperate hope that compassion from unexpected sources might intervene when human protection fails.",
+  "context": "In Egypt, a Levite mother hides her newborn son from Pharaoh's decree to kill Hebrew boys, eventually placing him in a waterproof basket among the Nile reeds where Pharaoh’s daughter discovers and adopts him.",
+  "connection": "This narrative may echo the profound anxiety of parents who feel powerless to shield their children from systemic dangers beyond their control. It reflects the desperate hope that compassion might intervene where protection fails, without guaranteeing safety or a positive resolution.",
   "checks": [
    {
     "rule": "I",
@@ -76,8 +76,8 @@
   "register": "fear",
   "score": 0.7508,
   "margin": 0.0195,
-  "context": "The psalmist expresses personal trust in divine protection against various forms of sudden violence and disease, describing a scenario where the faithful are shielded from harm while observing the downfall of others.",
-  "connection": "This text may echo the profound anxiety of parents who feel powerless to protect their children from external dangers, offering a metaphorical sense of shelter rather than a guarantee of physical safety.",
+  "context": "The psalmist expresses personal trust in divine protection against various forms of sudden violence and disease, describing a scenario where the faithful are shielded from harm while witnessing the downfall of others.",
+  "connection": "This text may echo the profound anxiety of parents who feel powerless to shield their children from external dangers, offering a metaphorical sense of shelter rather than a guarantee of physical safety.",
   "checks": [
    {
     "rule": "I",
@@ -127,5 +127,6 @@
   },
   "score": 0.7284
  },
- "built": "2026-09-11T03:04:20Z"
+ "built": "2026-09-11T03:39:08Z",
+ "season": null
 }

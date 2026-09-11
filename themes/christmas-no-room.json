@@ -1,0 +1,101 @@
+{
+ "slug": "christmas-no-room",
+ "title": "Christmas · no room",
+ "register": "displacement",
+ "situation": "There was nowhere for us, and we made do in a place not meant for it.",
+ "echo": {
+  "slot": "echo",
+  "reference": "Matthew 2:13-15",
+  "heading": "The Flight to Egypt",
+  "heading_source": "translation",
+  "book_id": "MAT",
+  "text": "When the Magi had gone, an angel of the Lord appeared to Joseph in a dream. “Get up!” he said. “Take the Child and His mother and flee to Egypt. Stay there until I tell you, for Herod is going to search for the Child to kill Him.” So he got up, took the Child and His mother by night, and withdrew to Egypt, where he stayed until the death of Herod. This fulfilled what the Lord had spoken through the prophet: “Out of Egypt I called My Son.”",
+  "word_count": 89,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/MAT/2/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_40_Mat_002_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/MAT/2/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/MAT/2/audio/souer.mp3"
+  },
+  "situation": "A family is forced to leave their home in secret at night to escape an imminent threat from a powerful ruler seeking to harm a child.",
+  "register": "displacement",
+  "score": null,
+  "pinned": true,
+  "context": "",
+  "connection": "",
+  "checks": [],
+  "rejected_before_this": [],
+  "passage_id": "BSB:MAT.2.13-15"
+ },
+ "promise": {
+  "slot": "promise",
+  "reference": "Mark 11:12-14",
+  "heading": "Jesus Curses the Fig Tree",
+  "heading_source": "translation",
+  "book_id": "MRK",
+  "text": "The next day, when they had left Bethany, Jesus was hungry. Seeing in the distance a fig tree in leaf, He went to see if there was any fruit on it. But when He reached it, He found nothing on it except leaves, since it was not the season for figs. Then He said to the tree, “May no one ever eat of your fruit again.” And His disciples heard this statement.",
+  "word_count": 72,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/MRK/11/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_41_Mrk_011_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/MRK/11/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/MRK/11/audio/souer.mp3"
+  },
+  "situation": "A person eagerly anticipates relief from their needs but encounters disappointment when they find no resources available to help them.",
+  "register": "displacement",
+  "score": 0.6779,
+  "margin": 0.0152,
+  "context": "Jesus approaches a fig tree that appears fruitful due to its leaves but finds it barren because it is not the season for fruit. Disappointed by this deception, He pronounces a curse on the tree, causing it to wither.",
+  "connection": "This scene may echo the experience of those who find themselves in spaces that promised sustenance or shelter but offered only an empty facade. It resonates with the grief of making do in places that were never truly meant to hold us.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'displacement' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:MRK.11.12-14"
+ },
+ "prayer": {
+  "reference": "Psalms 114:1-8",
+  "heading": "A Psalm of Exodus",
+  "heading_source": "translation",
+  "text": "When Israel departed from Egypt, the house of Jacob from a people of foreign tongue, Judah became God’s sanctuary, Israel His dominion. The sea observed and fled; the Jordan turned back; the mountains skipped like rams, the hills like lambs. Why was it, O sea, that you fled, O Jordan, that you turned back, O mountains, that you skipped like rams, O hills, like lambs? Tremble, O earth, at the presence of the Lord, at the presence of the God of Jacob, who turned the rock into a pool, the flint into a fountain of water!",
+  "word_count": 96,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/PSA/114/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_19_Psa_114_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/PSA/114/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/PSA/114/audio/souer.mp3"
+  },
+  "score": 0.6297
+ },
+ "built": "2026-09-11T03:41:24Z",
+ "season": "christmas"
+}

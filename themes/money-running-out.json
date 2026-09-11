@@ -21,8 +21,8 @@
   "register": "fear",
   "score": 0.618,
   "margin": 0.008,
-  "context": "Jacob’s sons travel to Egypt to purchase grain during a severe famine that threatens their family's survival in Canaan. Upon arriving, they encounter Joseph, who is now the ruler of Egypt, and he accuses them of being spies before imprisoning them to test their honesty.",
-  "connection": "The anxiety surrounding the scarcity of essential resources may echo the modern fear of not having enough to sustain one's household. This narrative resembles the profound stress families feel when economic instability makes basic needs seem unattainable.",
+  "context": "Jacob sends his ten sons to Egypt to buy grain because a famine has devastated Canaan and threatened their survival. Upon arrival, they encounter Joseph, who is now the powerful ruler of Egypt but hides his identity from them, accusing them of spying and demanding they bring their youngest brother as proof of their honesty.",
+  "connection": "The desperate journey to secure basic necessities may echo the anxiety of those today who fear they cannot provide for their families' essential needs. The uncertainty surrounding whether help will arrive or if conditions will improve resembles the precariousness felt when resources seem insufficient.",
   "checks": [
    {
     "rule": "I",
@@ -76,8 +76,8 @@
   "register": "fear",
   "score": 0.6748,
   "margin": 0.0338,
-  "context": "Jesus addresses his disciples in a rural setting, using examples from nature to illustrate God's care for creation and to counter their anxiety about basic survival needs like food and clothing.",
-  "connection": "This teaching may echo the quiet desperation of those facing financial precarity, suggesting that seeking spiritual grounding might offer a different perspective on material scarcity than striving alone.",
+  "context": "Jesus addresses his disciples in a rural setting, using examples from nature to illustrate God's provision for daily needs. He challenges their anxiety about material survival by pointing out that the Creator cares for birds and flowers, implying equal care for those who follow him.",
+  "connection": "This text may echo the quiet desperation of individuals facing financial uncertainty, reminding them that their worth is not defined by their bank accounts. It offers a perspective that seeks peace amidst worry rather than promising a resolution to the economic hardship.",
   "checks": [
    {
     "rule": "I",
@@ -127,5 +127,6 @@
   },
   "score": 0.6485
  },
- "built": "2026-09-11T03:04:31Z"
+ "built": "2026-09-11T03:39:21Z",
+ "season": null
 }

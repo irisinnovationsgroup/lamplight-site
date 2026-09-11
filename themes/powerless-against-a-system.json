@@ -21,8 +21,8 @@
   "register": "injustice",
   "score": 0.6017,
   "margin": 0.0035,
-  "context": "The psalmist, likely David, describes being surrounded by hostile accusers who repay his kindness with hatred and deceit during a time of intense personal persecution.",
-  "connection": "This text may echo the profound isolation felt when an individual struggles against an impersonal system that ignores their pleas. It resembles the grief of feeling powerless and unseen while fighting for justice against forces that appear indifferent to human suffering.",
+  "context": "The psalmist, likely David, describes being surrounded by hostile accusers who repay his kindness with hatred and false charges, leaving him physically weakened and socially isolated.",
+  "connection": "This intense feeling of being overwhelmed by an indifferent or malicious system may echo the experience of individuals fighting institutions that seem to ignore their pleas. The text’s raw expression of exhaustion and grief resonates with those who feel powerless against structures that outlast their personal efforts.",
   "checks": [
    {
     "rule": "I",
@@ -84,8 +84,8 @@
   "register": "injustice",
   "score": 0.6484,
   "margin": 0.0017,
-  "context": "The psalmist, likely David, stands before God feeling isolated and threatened by deceitful enemies who use lies and slander to undermine his standing. He pleads for divine attention and justice against these adversaries while affirming his trust in God's righteousness as his only refuge.",
-  "connection": "This plea may echo the experience of individuals who feel invisible to powerful institutions, pouring out their grief into prayer when they perceive no immediate response from the system itself. It offers a space to voice the exhaustion of fighting forces that seem indifferent to personal suffering.",
+  "context": "The psalmist, likely David, stands before God as an individual facing hostility from powerful adversaries who use deceit and slander to undermine him. He pleads for divine attention and justice against these enemies while affirming his trust in God's righteousness despite their malicious intent.",
+  "connection": "This plea may echo the experience of individuals who feel invisible to vast, impersonal systems that seem indifferent to their suffering or integrity. It resonates with the tension between the desire for accountability from a higher power and the reality of feeling powerless against structures that do not acknowledge one's existence.",
   "checks": [
    {
     "rule": "I",
@@ -135,5 +135,6 @@
   },
   "score": 0.6873
  },
- "built": "2026-09-11T03:05:08Z"
+ "built": "2026-09-11T03:39:59Z",
+ "season": null
 }

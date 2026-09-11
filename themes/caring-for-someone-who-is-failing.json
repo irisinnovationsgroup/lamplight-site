@@ -21,8 +21,8 @@
   "register": "mercy",
   "score": 0.7793,
   "margin": 0.0084,
-  "context": "Jesus visits Peter’s home and finds his mother-in-law suffering from a high fever in bed. He touches her hand, curing her illness, and subsequently heals many others brought to him that evening.",
-  "connection": "This narrative may echo the exhaustion of those providing continuous care for someone with a deteriorating condition. It acknowledges the physical toll of caregiving while highlighting the dignity found in small moments of relief and service.",
+  "context": "Jesus visits Peter's home and finds his mother-in-law suffering from a high fever in bed. He touches her hand, curing her illness, and subsequently heals many others brought to him that evening.",
+  "connection": "This narrative may echo the exhaustion of those providing continuous care for someone with a declining condition. It acknowledges the physical toll of caregiving while highlighting the immediate relief found in compassionate presence.",
   "checks": [
    {
     "rule": "I",
@@ -76,8 +76,8 @@
   "register": "mercy",
   "score": 0.7806,
   "margin": 0.0009,
-  "context": "A man suffering from leprosy approaches Jesus in a crowded area, kneeling to ask for healing while acknowledging his own helplessness. Jesus responds by physically touching the outcast and commanding him to be cleansed, followed by instructions to present himself to religious authorities.",
-  "connection": "This narrative may echo the exhaustion of those caring for loved ones whose conditions deteriorate without hope of recovery. It offers a glimpse of comfort through presence and touch, acknowledging the weight of grief while suggesting that compassion can exist even when outcomes remain uncertain.",
+  "context": "A man suffering from leprosy approaches Jesus in a crowded area, kneeling to ask for healing while acknowledging his own inability to cure himself. Jesus responds by physically touching the outcast and commanding him to be cleansed, then instructing him to follow religious protocols for restoration.",
+  "connection": "This narrative may echo the exhaustion of caregivers who feel their efforts are met with only decline, offering a glimpse of hope through compassionate presence rather than immediate solutions. It suggests that being witnessed in one's helplessness can provide a form of comfort even when the outcome remains uncertain.",
   "checks": [
    {
     "rule": "I",
@@ -127,5 +127,6 @@
   },
   "score": 0.7521
  },
- "built": "2026-09-11T03:04:27Z"
+ "built": "2026-09-11T03:39:16Z",
+ "season": null
 }

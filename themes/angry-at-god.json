@@ -21,8 +21,8 @@
   "register": "repentance",
   "score": 0.7148,
   "margin": 0.0368,
-  "context": "After the prophet Elijah condemns King Ahab of Israel for his idolatry and the murder of Naboth, Ahab responds by tearing his clothes, wearing sackcloth, and fasting in a display of deep humility. God acknowledges this repentance to Elijah and delays the impending disaster, choosing instead to let it occur during Ahab's son's reign.",
-  "connection": "This narrative may echo the complex tension between holding onto faith while grappling with feelings of betrayal or anger toward the divine after a traumatic event. It suggests that humility and lament can coexist with unresolved grief, rather than requiring immediate resolution or forgiveness.",
+  "context": "After the prophet Elijah condemns King Ahab of Israel for his idolatry and the murder of Naboth, Ahab responds by tearing his clothes, wearing sackcloth, and fasting in a display of deep humility. In response to this contrition, God tells Elijah that He will withhold the immediate execution of judgment during Ahab's lifetime, though the consequences will still fall upon his household.",
+  "connection": "This narrative may echo the complex tension between holding onto faith and feeling anger toward the divine when faced with unforgivable events. It suggests a space where raw grief and humility coexist, acknowledging that spiritual struggle does not necessarily resolve into immediate comfort or clear answers.",
   "checks": [
    {
     "rule": "I",
@@ -76,8 +76,8 @@
   "register": "doubt",
   "score": 0.7499,
   "margin": 0.0225,
-  "context": "The psalmist, likely in ancient Israel, describes a period of intense personal distress and spiritual dryness where they feel abandoned by God despite their persistent prayers. They wrestle with doubt, questioning if divine favor has permanently ceased, before choosing to remember God's past mighty deeds and redemptive history.",
-  "connection": "This text may echo the experience of those who hold onto faith while grappling with an unforgivable event that leaves them feeling isolated from their deity. It resembles a process where one acknowledges deep grief and anger toward God without resolving the pain, yet finds a way to continue speaking to Him by recalling past moments of grace.",
+  "context": "The psalmist, likely in ancient Israel, describes a period of intense personal distress and spiritual dryness, crying out to God while feeling abandoned by Him. The text recalls historical acts of divine power, such as the Exodus, to wrestle with the tension between past faithfulness and present perceived silence.",
+  "connection": "This may echo the experience of those who hold onto belief despite feeling that their prayers are unanswered or that God's compassion has withdrawn. It mirrors the struggle to maintain trust in a higher power when current circumstances offer no immediate comfort or resolution.",
   "checks": [
    {
     "rule": "I",
@@ -127,5 +127,6 @@
   },
   "score": 0.7303
  },
- "built": "2026-09-11T03:05:25Z"
+ "built": "2026-09-11T03:40:17Z",
+ "season": null
 }

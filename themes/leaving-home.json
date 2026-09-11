@@ -21,8 +21,8 @@
   "register": "displacement",
   "score": 0.6428,
   "margin": 0.0159,
-  "context": "The prophet Ezekiel witnesses a vision in which the divine presence departs from Jerusalem and moves eastward toward the mountain before being transported by the Spirit to the exiles in Chaldea.",
-  "connection": "This departure may echo the profound sense of loss experienced by those leaving their homes with no clear timeline for return. The imagery of a spirit lifting someone away mirrors the disorientation and uncertainty of sudden displacement.",
+  "context": "The prophet Ezekiel witnesses a vision in which the divine presence departs from Jerusalem and moves eastward toward the mountain before the city. He is then transported by the Spirit to Chaldea, where he reports this departure to the Jewish exiles already living there.",
+  "connection": "This imagery may echo the profound sense of abandonment or dislocation felt by those leaving their homes for unknown destinations. It resembles the grief and uncertainty experienced when one departs into a future that feels spiritually or emotionally empty.",
   "checks": [
    {
     "rule": "I",
@@ -76,8 +76,8 @@
   "register": "fear",
   "score": 0.7471,
   "margin": 0.0186,
-  "context": "During the Last Supper, Jesus comforts his disciples who are distressed by his announcement that he will soon leave them and go to the Father. He explains that he is departing to prepare a place for them in his Father's house so they may eventually be with him.",
-  "connection": "This narrative may echo the anxiety of those facing an uncertain departure, where the promise of preparation offers a fragile anchor against the fear of the unknown. It resembles the human need for reassurance when leaving behind familiar comforts for a destination that remains unseen and undefined.",
+  "context": "During the Last Supper, Jesus comforts his disciples who are distressed by his announcement that he will soon leave them and go to the Father. He reassures them that he is preparing a place for them in his Father's house and promises to return so they may be with him.",
+  "connection": "This narrative may echo the anxiety of those facing an uncertain departure, where the fear of the unknown is met with a promise of future reunion. It offers a framework for holding onto hope while acknowledging the grief inherent in saying goodbye without knowing when one will return.",
   "checks": [
    {
     "rule": "I",
@@ -127,5 +127,6 @@
   },
   "score": 0.6808
  },
- "built": "2026-09-11T03:06:01Z"
+ "built": "2026-09-11T03:40:55Z",
+ "season": null
 }

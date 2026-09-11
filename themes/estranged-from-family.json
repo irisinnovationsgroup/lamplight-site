@@ -21,8 +21,8 @@
   "register": "betrayal",
   "score": 0.6636,
   "margin": 0.0337,
-  "context": "Jephthah, an outcast driven from his family home by his half-brothers, is summoned years later by the elders of Gilead to lead their military defense against the Ammonites due to a critical need for his strength. He agrees to return only after securing a formal guarantee of leadership status, highlighting the transactional nature of their reconciliation and the lingering bitterness of his past rejection.",
-  "connection": "This narrative may echo the complex dynamic where estrangement persists until practical necessity forces contact, leaving the wounded party wary of renewed trust. It resembles the hesitation one feels when considering whether to bridge a gap with a relative who previously caused deep hurt, acknowledging that the path to connection is often fraught with unresolved pain.",
+  "context": "Jephthah, an outcast driven from his family home by his half-brothers, is summoned years later by the elders of Gilead to lead their military defense against the Ammonites due to a crisis of necessity rather than reconciliation.",
+  "connection": "This narrative may echo the complex dynamic where estrangement persists even when practical needs force former adversaries into cooperation. It resembles the painful reality that shared goals do not automatically heal broken familial bonds or restore trust.",
   "checks": [
    {
     "rule": "I",
@@ -76,8 +76,8 @@
   "register": "grief",
   "score": 0.68,
   "margin": 0.0077,
-  "context": "The psalmist, identified as Hezekiah or Manasseh in some traditions, describes a state of profound isolation and despair, feeling abandoned by God and cut off from friends and family while facing imminent death.",
-  "connection": "This intense expression of loneliness may echo the experience of someone who feels shut out by their own relatives, highlighting the raw pain of being unable to bridge a silence with loved ones.",
+  "context": "The psalmist, identified as Hezekiah or Manasseh depending on tradition, describes a state of profound isolation and despair, feeling abandoned by God and cut off from friends and family while facing imminent death.",
+  "connection": "This intense expression of loneliness may echo the experience of someone who feels shut out by their own relatives, highlighting how deep relational wounds can create a sense of being trapped in darkness without immediate relief.",
   "checks": [
    {
     "rule": "I",
@@ -127,5 +127,6 @@
   },
   "score": 0.6526
  },
- "built": "2026-09-11T03:04:49Z"
+ "built": "2026-09-11T03:39:37Z",
+ "season": null
 }

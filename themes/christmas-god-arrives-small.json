@@ -1,0 +1,101 @@
+{
+ "slug": "christmas-god-arrives-small",
+ "title": "Christmas · God arrives small",
+ "register": "joy",
+ "situation": "Something enormous has happened quietly, at night, to people nobody was watching.",
+ "echo": {
+  "slot": "echo",
+  "reference": "Luke 2:1-7",
+  "heading": "The Birth of Jesus",
+  "heading_source": "translation",
+  "book_id": "LUK",
+  "text": "Now in those days a decree went out from Caesar Augustus that a census should be taken of the whole empire. This was the first census to take place while Quirinius was governor of Syria. And everyone went to his own town to register. So Joseph also went up from Nazareth in Galilee to Judea, to the city of David called Bethlehem, since he was from the house and line of David. He went there to register with Mary, who was pledged to him in marriage and was expecting a child. While they were there, the time came for her Child to be born. And she gave birth to her firstborn, a Son. She wrapped Him in swaddling cloths and laid Him in a manger, because there was no room for them in the inn.",
+  "word_count": 135,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/LUK/2/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_42_Luk_002_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/LUK/2/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/LUK/2/audio/souer.mp3"
+  },
+  "situation": "People are forced to travel long distances to their ancestral homes for an official count, leading to overcrowding and a lack of basic accommodations for a birth.",
+  "register": "displacement",
+  "score": null,
+  "pinned": true,
+  "context": "",
+  "connection": "",
+  "checks": [],
+  "rejected_before_this": [],
+  "passage_id": "BSB:LUK.2.1-7"
+ },
+ "promise": {
+  "slot": "promise",
+  "reference": "Luke 2:8-20",
+  "heading": "The Shepherds and the Angels",
+  "heading_source": "translation",
+  "book_id": "LUK",
+  "text": "And there were shepherds residing in the fields nearby, keeping watch over their flocks by night. Just then an angel of the Lord stood before them, and the glory of the Lord shone around them, and they were terrified. But the angel said to them, “Do not be afraid! For behold, I bring you good news of great joy that will be for all the people: Today in the city of David a Savior has been born to you. He is Christ the Lord! And this will be a sign to you: You will find a baby wrapped in swaddling cloths and lying in a manger.” And suddenly there appeared with the angel a great multitude of the heavenly host, praising God and saying: “Glory to God in the highest, and on earth peace to men on whom His favor rests!” When the angels had left them and gone into heaven, the shepherds said to one another, “Let us go to Bethlehem and see this thing that has happened, which the Lord has made known to us.” So they hurried off and found Mary and Joseph and the Baby, who was lying in the manger. After they had seen the Child, they spread the message they had received about Him. And all who heard it were amazed at what the shepherds said to them. But Mary treasured up all these things and pondered them in her heart. The shepherds returned, glorifying and praising God for all they had heard and seen, which was just as the angel had told them.",
+  "word_count": 260,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/LUK/2/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_42_Luk_002_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/LUK/2/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/LUK/2/audio/souer.mp3"
+  },
+  "situation": "People who are working alone in the dark are suddenly confronted by an overwhelming and terrifying revelation that brings them great joy and compels them to immediately investigate and share the news with others.",
+  "register": "joy",
+  "score": 0.7188,
+  "margin": 0.0023,
+  "context": "Shepherds working night shifts in the fields near Bethlehem are visited by angels announcing the birth of a Savior, prompting them to rush to the town to find a newborn lying in a manger.",
+  "connection": "This may echo moments when profound hope arrives unexpectedly to those on the margins, reminding us that significant change often occurs quietly among people who are overlooked. It suggests that even in times of uncertainty, small acts of witness and shared wonder can offer a fragile but real sense of peace.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'joy' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:LUK.2.8-20"
+ },
+ "prayer": {
+  "reference": "Isaiah 42:10-17",
+  "heading": "A New Song of Praise",
+  "heading_source": "translation",
+  "text": "Sing to the LORD a new song— His praise from the ends of the earth— you who go down to the sea, and all that is in it, you islands, and all who dwell in them. Let the desert and its cities raise their voices; let the villages of Kedar cry aloud. Let the people of Sela sing for joy; let them cry out from the mountaintops. Let them give glory to the LORD and declare His praise in the islands. The LORD goes forth like a mighty one; He stirs up His zeal like a warrior. He shouts; yes, He roars in triumph over His enemies: “I have kept silent from ages past; I have remained quiet and restrained. But now I will groan like a woman in labor; I will at once gasp and pant. I will lay waste the mountains and hills and dry up all their vegetation. I will turn the rivers into dry land and drain the marshes. I will lead the blind by a way they did not know; I will guide them on unfamiliar paths. I will turn darkness into light before them and rough places into level ground. These things I will do for them, and I will not forsake them. But those who trust in idols and say to molten images, ‘You are our gods!’ will be turned back in utter shame.",
+  "word_count": 231,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/ISA/42/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_23_Isa_042_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/ISA/42/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/ISA/42/audio/souer.mp3"
+  },
+  "score": 0.6923
+ },
+ "built": "2026-09-11T03:41:22Z",
+ "season": "christmas"
+}

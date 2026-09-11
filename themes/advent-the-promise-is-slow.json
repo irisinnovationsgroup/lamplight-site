@@ -1,8 +1,8 @@
 {
- "slug": "waiting-for-something-that-may-not-come",
- "title": "Waiting for something that may not come",
- "register": "waiting",
- "situation": "I have been hoping for the same thing for years with no sign of it.",
+ "slug": "advent-the-promise-is-slow",
+ "title": "Advent · the promise is slow",
+ "register": "endurance",
+ "situation": "What I was promised is taking so long that I have started to doubt I heard it right.",
  "echo": {
   "slot": "echo",
   "reference": "Luke 2:25-35",
@@ -19,42 +19,11 @@
   },
   "situation": "A person who has lived with patience and hope for a long time finally witnesses the fulfillment of their deepest longing, bringing both profound relief and a foreboding sense of future pain to those close to them.",
   "register": "waiting",
-  "score": 0.6114,
-  "margin": 0.015,
-  "context": "In the Jerusalem temple, a devout man named Simeon, guided by the Holy Spirit, encounters the infant Jesus and recognizes him as the long-awaited salvation for Israel and the Gentiles. After blessing God and the child's parents, Simeon prophesies that this child will bring division and reveal inner thoughts, warning Mary that her soul will be pierced by sorrow.",
-  "connection": "This narrative may echo the complex emotions of those who have waited years for a hoped-for resolution, only to face the reality that its arrival brings both relief and profound grief. It resembles the experience of holding onto a long-held hope while simultaneously acknowledging the pain and uncertainty that often accompany such prolonged anticipation.",
-  "checks": [
-   {
-    "rule": "I",
-    "name": "No verdicts",
-    "passed": true,
-    "detail": "no judgment, prophecy or collective violence"
-   },
-   {
-    "rule": "II",
-    "name": "No sides",
-    "passed": true,
-    "detail": "0 entities checked, no collision"
-   },
-   {
-    "rule": "III",
-    "name": "Context attached",
-    "passed": true,
-    "detail": "heading and context line present"
-   },
-   {
-    "rule": "IV",
-    "name": "Offered, not asserted",
-    "passed": true,
-    "detail": "offered as resonance"
-   },
-   {
-    "rule": "V",
-    "name": "Comfort not cheap",
-    "passed": true,
-    "detail": "register 'waiting' does not require lament"
-   }
-  ],
+  "score": null,
+  "pinned": true,
+  "context": "",
+  "connection": "",
+  "checks": [],
   "rejected_before_this": [],
   "passage_id": "BSB:LUK.2.25-35"
  },
@@ -74,10 +43,10 @@
   },
   "situation": "People who have waited patiently for a promised outcome find comfort in knowing that the guarantee of that promise is absolute and unbreakable.",
   "register": "waiting",
-  "score": 0.7121,
-  "margin": 0.0371,
-  "context": "The author addresses early Christian believers who are enduring prolonged hardship and spiritual fatigue while awaiting the fulfillment of God's promises to Abraham. To encourage their perseverance, the text highlights that God confirmed His unchangeable purpose with an oath, providing a secure anchor for their hope despite the long wait.",
-  "connection": "This narrative may echo the experience of those who have waited years for a specific outcome without visible change, offering a sense of stability rather than immediate resolution. It suggests that holding onto a firm hope can provide strength during periods of uncertainty, even when the desired result remains unseen.",
+  "score": 0.7229,
+  "margin": 0.0104,
+  "context": "The author addresses Jewish Christians facing persecution and spiritual fatigue who are tempted to abandon their faith because the fulfillment of God's promises has been delayed. He points to Abraham’s long wait for the birth of Isaac as a historical precedent, urging them to remain steadfast in hope despite the apparent silence of divine intervention.",
+  "connection": "This narrative may echo the experience of those whose personal hopes feel stalled by time, reminding them that uncertainty does not necessarily equate to absence. It offers a perspective where patience is not passive waiting but an active holding onto a secure foundation during periods of doubt.",
   "checks": [
    {
     "rule": "I",
@@ -107,26 +76,26 @@
     "rule": "V",
     "name": "Comfort not cheap",
     "passed": true,
-    "detail": "register 'waiting' does not require lament"
+    "detail": "register 'endurance' does not require lament"
    }
   ],
   "rejected_before_this": [],
   "passage_id": "BSB:HEB.6.13-20"
  },
  "prayer": {
-  "reference": "Psalms 130:1-8",
-  "heading": "Out of the Depths",
+  "reference": "1 Samuel 1:9-18",
+  "heading": "Hannah Prays for a Son",
   "heading_source": "translation",
-  "text": "Out of the depths I cry to You, O LORD! O Lord, hear my voice; let Your ears be attentive to my plea for mercy. If You, O LORD, kept track of iniquities, then who, O Lord, could stand? But with You there is forgiveness, so that You may be feared. I wait for the LORD; my soul does wait, and in His word I put my hope. My soul waits for the Lord more than watchmen wait for the morning— more than watchmen wait for the morning. O Israel, put your hope in the LORD, for with the LORD is loving devotion, and with Him is redemption in abundance. And He will redeem Israel from all iniquity.",
-  "word_count": 118,
+  "text": "So after they had finished eating and drinking in Shiloh, Hannah stood up. Now Eli the priest was sitting on a chair by the doorpost of the temple of the LORD. In her bitter distress, Hannah prayed to the LORD and wept with many tears. And she made a vow, saying, “O LORD of Hosts, if only You will look upon the affliction of Your maidservant and remember me, not forgetting Your maidservant but giving her a son, then I will dedicate him to the LORD all the days of his life, and no razor shall ever touch his head.” As Hannah kept on praying before the LORD, Eli watched her mouth. Hannah was praying in her heart, and though her lips were moving, her voice could not be heard. So Eli thought she was drunk and said to her, “How long will you be drunk? Put away your wine!” “No, my lord,” Hannah replied. “I am a woman troubled in spirit. I have not had any wine or strong drink, but I have poured out my soul before the LORD. Do not take your servant for a wicked woman, for all this time I have been praying out of the depth of my anguish and grief.” “Go in peace,” Eli replied, “and may the God of Israel grant the petition you have asked of Him.” “May your maidservant find favor with you,” said Hannah. Then she went on her way, and she began to eat, and her face was no longer downcast.",
+  "word_count": 253,
   "audio": {
-   "david": "https://audio.bible.helloao.org/api/BSB/PSA/130/audio/david.mp3",
-   "gilbert": "https://openbible.com/audio/gilbert/BSB_19_Psa_130_G.mp3",
-   "hays": "https://audio.bible.helloao.org/api/BSB/PSA/130/audio/hays.mp3",
-   "souer": "https://audio.bible.helloao.org/api/BSB/PSA/130/audio/souer.mp3"
+   "david": "https://audio.bible.helloao.org/api/BSB/1SA/1/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_09_1Sa_001_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/1SA/1/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/1SA/1/audio/souer.mp3"
   },
-  "score": 0.655
+  "score": 0.6589
  },
- "built": "2026-09-11T03:40:43Z",
- "season": null
+ "built": "2026-09-11T03:41:20Z",
+ "season": "advent"
 }

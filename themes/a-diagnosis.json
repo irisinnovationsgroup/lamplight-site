@@ -21,8 +21,8 @@
   "register": "fear",
   "score": 0.6657,
   "margin": 0.0275,
-  "context": "Jesus leads Peter, James, and John up a high mountain where His appearance is transformed and Moses and Elijah appear. The disciples are overcome by terror at the divine manifestation until Jesus touches them and tells them not to be afraid.",
-  "connection": "The sudden shift from overwhelming awe to fear may resemble the disorientation one feels when receiving frightening news about one's health. Jesus' gentle touch and command to 'not be afraid' offers a model of comfort that resembles the human need for reassurance amidst uncertainty.",
+  "context": "Jesus takes Peter, James, and John up a high mountain where His appearance is transformed and Moses and Elijah appear, causing the disciples to fall in terror before Jesus touches them and tells them not to be afraid.",
+  "connection": "The sudden shift from overwhelming awe to terror may echo the disorientation felt when receiving frightening news about one's health. The gentle touch and command to 'not be afraid' might offer a sense of presence amidst the fear, without promising that the outcome will be different.",
   "checks": [
    {
     "rule": "I",
@@ -76,8 +76,8 @@
   "register": "fear",
   "score": 0.6874,
   "margin": 0.0093,
-  "context": "During the Last Supper in Jerusalem, Jesus speaks to his disciples, who are anxious and troubled by his prediction that he will soon leave them through death and resurrection.",
-  "connection": "The promise of a peace distinct from worldly circumstances may echo the need for inner steadiness when facing frightening medical news. This text offers a reminder that one is not abandoned in fear, even while awaiting uncertain outcomes.",
+  "context": "During the Last Supper in Jerusalem, Jesus speaks to his disciples, who are troubled by his announcement that he will soon leave them and be betrayed. He reassures them of his impending return to the Father while preparing them for the distress they will face.",
+  "connection": "The promise of a peace distinct from worldly circumstances may echo the need for inner stability when facing frightening medical news. This text resembles the experience of seeking comfort not by denying fear, but by anchoring oneself in a presence that transcends immediate anxiety.",
   "checks": [
    {
     "rule": "I",
@@ -127,5 +127,6 @@
   },
   "score": 0.6734
  },
- "built": "2026-09-11T03:04:24Z"
+ "built": "2026-09-11T03:39:12Z",
+ "season": null
 }

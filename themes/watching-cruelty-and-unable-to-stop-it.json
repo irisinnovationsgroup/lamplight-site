@@ -21,8 +21,8 @@
   "register": "fear",
   "score": 0.7181,
   "margin": 0.0015,
-  "context": "The people of Judah and Jerusalem are suffering from a severe drought that has caused famine and despair, leading God to command Jeremiah not to pray for their relief but to warn them of impending judgment by sword, famine, and plague.",
-  "connection": "This text may echo the profound helplessness felt when witnessing widespread suffering without the power to intervene. It resonates with the grief of observing systemic harm while feeling powerless to stop it.",
+  "context": "The people of Judah and Jerusalem are suffering from a severe drought that has caused crop failure, water scarcity, and widespread famine, leading to deep shame and physical distress among farmers and nobles alike.",
+  "connection": "This text may echo the profound helplessness felt when observing systemic crises where individual agency is insufficient to alleviate the suffering of others. It resonates with the grief of witnessing harm without the power to intervene, highlighting the tension between human vulnerability and the desire for divine presence.",
   "checks": [
    {
     "rule": "I",
@@ -76,8 +76,8 @@
   "register": "fear",
   "score": 0.7792,
   "margin": 0.0244,
-  "context": "The speaker, likely a pilgrim traveling to Jerusalem, looks toward the hills surrounding the city and questions whether safety can be found in those high places or in human allies. The text affirms that divine protection, rather than geographical advantage or military might, is the source of their security.",
-  "connection": "This ancient anxiety about relying on visible sources of safety may echo the modern feeling of helplessness when observing harm unfold from a distance. It resonates with the experience of seeking hope in the face of suffering where direct intervention feels impossible.",
+  "context": "The speaker, likely a pilgrim traveling to Jerusalem, looks toward the hills surrounding the city and questions whether safety can be found in those high places or in human allies. The text affirms that divine protection, rather than geographical advantage or military might, is the source of their security against harm.",
+  "connection": "This ancient plea may echo the feeling of helplessness when observing suffering from a distance, where one's own resources feel insufficient to intervene. It resembles the search for stability and meaning when confronted with events that exceed human capacity to control or prevent.",
   "checks": [
    {
     "rule": "I",
@@ -127,5 +127,6 @@
   },
   "score": 0.7036
  },
- "built": "2026-09-11T03:05:12Z"
+ "built": "2026-09-11T03:40:03Z",
+ "season": null
 }

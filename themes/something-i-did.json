@@ -21,8 +21,8 @@
   "register": "repentance",
   "score": 0.6618,
   "margin": 0.0392,
-  "context": "A woman known for her sins visits the home of Simon the Pharisee to anoint Jesus' feet with perfume while weeping, prompting Simon to judge her character internally. Jesus responds by illustrating that those who recognize the magnitude of their forgiveness often demonstrate greater love and gratitude than those who feel they have little need for it.",
-  "connection": "This narrative may echo the experience of someone grappling with deep shame over an irreversible mistake, where the weight of past actions feels overwhelming. It suggests a possibility that acknowledging one's own vulnerability and need for grace can sometimes open a path to peace, even when the specific error cannot be undone.",
+  "context": "In the house of Simon the Pharisee, a woman known for her sinful reputation weeps at Jesus' feet, wiping them with her hair and anointing them with perfume while Simon judges her internally. Jesus responds by illustrating that those who recognize the magnitude of their forgiven debt love more deeply, ultimately declaring the woman's sins forgiven and commending her faith.",
+  "connection": "This narrative may echo the experience of someone grappling with shame over a past action they feel cannot be undone, seeking relief from self-condemnation. It suggests that acknowledging one's own limitations and failures might open a path to inner peace, even when external circumstances remain unchanged.",
   "checks": [
    {
     "rule": "I",
@@ -76,8 +76,8 @@
   "register": "repentance",
   "score": 0.7388,
   "margin": 0.0024,
-  "context": "The prophet addresses the exiled people of Israel, who are struggling with spiritual alienation and the consequences of their past idolatry. God promises to clear the path for their return and offers healing and peace specifically to those who are humble and contrite in spirit.",
-  "connection": "This text may echo the experience of someone seeking relief from the heavy burden of regret over irreversible actions. It suggests that acknowledging one's brokenness can be a starting point for internal restoration, even while the memory of the loss remains.",
+  "context": "The prophet addresses exiled Israelites in Babylon who feel abandoned by God due to their past idolatry and sin. The text reassures this humbled community that despite their history of rebellion, God dwells with the contrite to heal their spirits and restore peace.",
+  "connection": "This may echo the experience of someone seeking relief from the heavy burden of irreversible regret. It suggests a possibility that comfort can be found not by erasing the past, but by accepting a presence that does not hold onto anger.",
   "checks": [
    {
     "rule": "I",
@@ -127,5 +127,6 @@
   },
   "score": 0.7195
  },
- "built": "2026-09-11T03:05:34Z"
+ "built": "2026-09-11T03:40:26Z",
+ "season": null
 }

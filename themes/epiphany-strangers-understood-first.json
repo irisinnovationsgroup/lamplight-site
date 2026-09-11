@@ -1,0 +1,101 @@
+{
+ "slug": "epiphany-strangers-understood-first",
+ "title": "Epiphany · strangers understood first",
+ "register": "mercy",
+ "situation": "People from outside saw what those closest to it could not.",
+ "echo": {
+  "slot": "echo",
+  "reference": "Matthew 2:1-12",
+  "heading": "The Pilgrimage of the Magi",
+  "heading_source": "translation",
+  "book_id": "MAT",
+  "text": "After Jesus was born in Bethlehem in Judea, during the time of King Herod, Magi from the east arrived in Jerusalem, asking, “Where is the One who has been born King of the Jews? We saw His star in the east and have come to worship Him.” When King Herod heard this, he was disturbed, and all Jerusalem with him. And when he had assembled all the chief priests and scribes of the people, he asked them where the Christ was to be born. “In Bethlehem in Judea,” they replied, “for this is what the prophet has written: ‘But you, Bethlehem, in the land of Judah, are by no means least among the rulers of Judah, for out of you will come a ruler who will be the shepherd of My people Israel.’ ” Then Herod called the Magi secretly and learned from them the exact time the star had appeared. And sending them to Bethlehem, he said: “Go and search carefully for the Child, and when you find Him, report to me, so that I too may go and worship Him.” After they had heard the king, they went on their way, and the star they had seen in the east went ahead of them until it stood over the place where the Child was. When they saw the star, they rejoiced with great delight. On coming to the house, they saw the Child with His mother Mary, and they fell down and worshiped Him. Then they opened their treasures and presented Him with gifts of gold and frankincense and myrrh. And having been warned in a dream not to return to Herod, they withdrew to their country by another route.",
+  "word_count": 282,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/MAT/2/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_40_Mat_002_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/MAT/2/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/MAT/2/audio/souer.mp3"
+  },
+  "situation": "People travel a long distance guided by a sign to find and honor someone they believe holds great significance, bringing valuable gifts while avoiding those who might cause them harm.",
+  "register": "courage",
+  "score": null,
+  "pinned": true,
+  "context": "",
+  "connection": "",
+  "checks": [],
+  "rejected_before_this": [],
+  "passage_id": "BSB:MAT.2.1-12"
+ },
+ "promise": {
+  "slot": "promise",
+  "reference": "Hebrews 4:12-16",
+  "heading": "The Living Word",
+  "heading_source": "translation",
+  "book_id": "HEB",
+  "text": "For the word of God is living and active. Sharper than any double-edged sword, it pierces even to dividing soul and spirit, joints and marrow. It judges the thoughts and intentions of the heart. Nothing in all creation is hidden from God’s sight; everything is uncovered and exposed before the eyes of Him to whom we must give account. Therefore, since we have a great high priest who has passed through the heavens, Jesus the Son of God, let us hold firmly to what we profess. For we do not have a high priest who is unable to sympathize with our weaknesses, but we have one who was tempted in every way that we are, yet was without sin. Let us then approach the throne of grace with confidence, so that we may receive mercy and find grace to help us in our time of need.",
+  "word_count": 146,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/HEB/4/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_58_Heb_004_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/HEB/4/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/HEB/4/audio/souer.mp3"
+  },
+  "situation": "People feel exposed and judged by their own inner thoughts and intentions, yet they seek comfort and strength from a compassionate guide who understands human weakness.",
+  "register": "mercy",
+  "score": 0.6672,
+  "margin": 0.013,
+  "context": "The author addresses Jewish Christians facing social isolation and potential persecution, urging them to maintain their faith in Jesus despite feeling abandoned by their community. They are encouraged to approach God directly through Jesus, who understands human weakness because he was tempted yet remained sinless.",
+  "connection": "This may echo the experience of those who find clarity or compassion from outsiders when their own communities fail to see their needs. It resembles a moment where external perspective offers grace and understanding that internal familiarity obscured.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'mercy' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:HEB.4.12-16"
+ },
+ "prayer": {
+  "reference": "Matthew 8:1-4",
+  "heading": "The Leper’s Prayer",
+  "heading_source": "translation",
+  "text": "When Jesus came down from the mountain, large crowds followed Him. Suddenly a leper came and knelt before Him, saying, “Lord, if You are willing, You can make me clean.” Jesus reached out His hand and touched the man. “I am willing,” He said. “Be clean!” And immediately his leprosy was cleansed. Then Jesus instructed him, “See that you don’t tell anyone. But go, show yourself to the priest and offer the gift prescribed by Moses, as a testimony to them.”",
+  "word_count": 81,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/MAT/8/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_40_Mat_008_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/MAT/8/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/MAT/8/audio/souer.mp3"
+  },
+  "score": 0.637
+ },
+ "built": "2026-09-11T03:41:26Z",
+ "season": "epiphany"
+}

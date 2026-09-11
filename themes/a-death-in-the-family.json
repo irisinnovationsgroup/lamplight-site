@@ -21,8 +21,8 @@
   "register": "grief",
   "score": 0.7009,
   "margin": 0.0137,
-  "context": "In the wilderness near Edom, Moses follows divine instruction to transfer Aaron’s priestly garments to his son Eleazar on Mount Hor before Aaron dies in the sight of the Israelite congregation. The people then descend and observe a thirty-day period of mourning for their leader.",
-  "connection": "This narrative may echo the sudden weight of loss when a loved one departs, leaving others to navigate the quiet aftermath without them. It resembles the long, ordinary days of grief where the world continues while one’s internal landscape is permanently altered.",
+  "context": "In Numbers 20:22-29, Moses leads Aaron and his son Eleazar up Mount Hor near Edom, where Aaron dies after his priestly garments are transferred to Eleazar, prompting thirty days of mourning from the Israelite congregation.",
+  "connection": "This narrative may echo the profound disorientation felt when a loved one’s passing disrupts the rhythm of daily life. It resembles the collective pause and grief that follows such a loss, acknowledging the weight of an ordinary day made heavy by absence.",
   "checks": [
    {
     "rule": "I",
@@ -76,8 +76,8 @@
   "register": "grief",
   "score": 0.7222,
   "margin": 0.0011,
-  "context": "The psalmist recounts a personal crisis where they faced imminent death or divine abandonment, crying out to God for deliverance from the grave. After being restored to life and health, they celebrate the transition from deep mourning to joy.",
-  "connection": "This narrative may echo the experience of those navigating the sudden void left by a loved one's passing, where ordinary days feel unmanageable. It offers a tentative parallel to the hope that even in the depth of grief, moments of peace or strength might eventually emerge.",
+  "context": "The psalmist recounts a personal crisis where they faced imminent death and divine abandonment, crying out to God for mercy before experiencing deliverance and restoration.",
+  "connection": "This narrative may echo the disorientation of sudden loss, acknowledging that while grief feels like a long night, the text offers a framework for finding moments of joy amidst the mourning.",
   "checks": [
    {
     "rule": "I",
@@ -127,5 +127,6 @@
   },
   "score": 0.7294
  },
- "built": "2026-09-11T03:04:05Z"
+ "built": "2026-09-11T03:39:00Z",
+ "season": null
 }

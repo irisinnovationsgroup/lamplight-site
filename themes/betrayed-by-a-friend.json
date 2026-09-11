@@ -21,8 +21,8 @@
   "register": "betrayal",
   "score": 0.7174,
   "margin": 0.0562,
-  "context": "Sisera, a Canaanite military commander fleeing from battle, seeks refuge in the tent of Jael, the wife of Heber the Kenite, who is allied with his enemy. Jael offers him hospitality and rest, lulling him into a false sense of security before killing him while he sleeps.",
-  "connection": "This narrative may echo the profound shock of discovering that a trusted ally or friend was never truly on your side, using intimacy as a weapon. It reflects the grief of realizing that safety was an illusion maintained by deception.",
+  "context": "Sisera, a fleeing military commander, seeks refuge in the tent of Jael, the wife of Heber the Kenite, under the protection of a peace treaty between their respective houses. Jael exploits his trust and exhaustion by offering hospitality before secretly killing him with a tent peg while he sleeps.",
+  "connection": "This narrative may echo the profound grief and shock that follows when someone we trusted completely turns out to be untrustworthy. It resembles the vulnerability felt when safety is violated by those who appear to offer protection rather than harm.",
   "checks": [
    {
     "rule": "I",
@@ -76,8 +76,8 @@
   "register": "endurance",
   "score": 0.722,
   "margin": 0.0137,
-  "context": "The speaker in Micah addresses a time of profound social betrayal and national instability where trusted allies have become adversaries, leaving the community in a state of shame and displacement.",
-  "connection": "This text may echo the deep disorientation felt when a close relationship collapses, mirroring the grief of realizing that one's sense of security was misplaced rather than offering immediate resolution.",
+  "context": "Micah addresses a community in Judah experiencing social collapse and betrayal by close associates, prompting a lament that transitions into a declaration of trust in God's justice despite their current state of shame and darkness.",
+  "connection": "This text may echo the profound disorientation felt when a trusted relationship fractures, suggesting that waiting for clarity can be a way to navigate the grief of such personal betrayal without immediately assigning blame or seeking immediate resolution.",
   "checks": [
    {
     "rule": "I",
@@ -127,5 +127,6 @@
   },
   "score": 0.6777
  },
- "built": "2026-09-11T03:04:53Z"
+ "built": "2026-09-11T03:39:41Z",
+ "season": null
 }

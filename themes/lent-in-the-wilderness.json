@@ -1,0 +1,101 @@
+{
+ "slug": "lent-in-the-wilderness",
+ "title": "Lent · in the wilderness",
+ "register": "doubt",
+ "situation": "I am in an empty stretch with nothing to distract me from what I actually want.",
+ "echo": {
+  "slot": "echo",
+  "reference": "Mark 1:12-15",
+  "heading": "The Temptation and Preaching of Jesus",
+  "heading_source": "translation",
+  "book_id": "MRK",
+  "text": "At once the Spirit drove Jesus into the wilderness, and He was there for forty days, being tempted by Satan. He was with the wild animals, and the angels ministered to Him. After the arrest of John, Jesus went into Galilee and proclaimed the gospel of God. “The time is fulfilled,” He said, “and the kingdom of God is near. Repent and believe in the gospel!”",
+  "word_count": 66,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/MRK/1/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_41_Mrk_001_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/MRK/1/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/MRK/1/audio/souer.mp3"
+  },
+  "situation": "A person faces intense pressure and isolation while preparing for a new beginning, ultimately deciding to change their path and trust in a positive message.",
+  "register": "courage",
+  "score": null,
+  "pinned": true,
+  "context": "",
+  "connection": "",
+  "checks": [],
+  "rejected_before_this": [],
+  "passage_id": "BSB:MRK.1.12-15"
+ },
+ "promise": {
+  "slot": "promise",
+  "reference": "Hebrews 11:1-3",
+  "heading": "Faith and Assurance",
+  "heading_source": "translation",
+  "book_id": "HEB",
+  "text": "Now faith is the assurance of what we hope for and the certainty of what we do not see. This is why the ancients were commended. By faith we understand that the universe was formed at God’s command, so that what is seen was not made out of what was visible.",
+  "word_count": 51,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/HEB/11/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_58_Heb_011_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/HEB/11/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/HEB/11/audio/souer.mp3"
+  },
+  "situation": "You are holding onto hope for an outcome that has not yet happened and trusting in realities you cannot perceive with your senses.",
+  "register": "doubt",
+  "score": 0.6928,
+  "margin": 0.0134,
+  "context": "The author addresses early Christian believers who face social ostracism and material loss for their convictions, urging them to maintain confidence in God's promises despite lacking visible evidence of fulfillment.",
+  "connection": "This may echo the experience of those in isolation who must sustain hope without external distractions or immediate validation. It suggests that faith can provide a sense of certainty even when the future remains unseen and uncertain.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'doubt' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:HEB.11.1-3"
+ },
+ "prayer": {
+  "reference": "Psalms 77:1-20",
+  "heading": "In the Day of Trouble I Sought the Lord",
+  "heading_source": "translation",
+  "text": "I cried out to God; I cried aloud to God to hear me. In the day of trouble I sought the Lord; through the night my outstretched hands did not grow weary; my soul refused to be comforted. I remembered You, O God, and I groaned; I mused and my spirit grew faint. Selah You have kept my eyes from closing; I am too troubled to speak. I considered the days of old, the years long in the past. At night I remembered my song; in my heart I mused, and my spirit pondered: “Will the Lord spurn us forever and never show His favor again? Is His loving devotion gone forever? Has His promise failed for all time? Has God forgotten to be gracious? Has His anger shut off His compassion?” Selah So I said, “I am grieved that the right hand of the Most High has changed.” I will remember the works of the LORD; yes, I will remember Your wonders of old. I will reflect on all You have done and ponder Your mighty deeds. Your way, O God, is holy. What god is so great as our God? You are the God who works wonders; You display Your strength among the peoples. With power You redeemed Your people, the sons of Jacob and Joseph. Selah The waters saw You, O God; the waters saw You and swirled; even the depths were shaken. The clouds poured down water; the skies resounded with thunder; Your arrows flashed back and forth. Your thunder resounded in the whirlwind; the lightning lit up the world; the earth trembled and quaked. Your path led through the sea, Your way through the mighty waters, but Your footprints were not to be found. You led Your people like a flock by the hand of Moses and Aaron.",
+  "word_count": 303,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/PSA/77/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_19_Psa_077_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/PSA/77/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/PSA/77/audio/souer.mp3"
+  },
+  "score": 0.6749
+ },
+ "built": "2026-09-11T03:41:30Z",
+ "season": "lent"
+}

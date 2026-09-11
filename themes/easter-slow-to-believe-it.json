@@ -1,8 +1,8 @@
 {
- "slug": "doubt",
- "title": "Doubt",
+ "slug": "easter-slow-to-believe-it",
+ "title": "Easter · slow to believe it",
  "register": "doubt",
- "situation": "I am not sure any of what I believed is true, and I cannot say so out loud.",
+ "situation": "Good news has arrived and I cannot let myself trust it yet.",
  "echo": {
   "slot": "echo",
   "reference": "John 20:24-29",
@@ -19,65 +19,34 @@
   },
   "situation": "A person struggles to accept a truth that others claim to have experienced firsthand because they lack direct personal evidence.",
   "register": "doubt",
-  "score": 0.6689,
-  "margin": 0.0431,
-  "context": "Thomas, one of Jesus' twelve disciples, was absent when Jesus first appeared to the group after his resurrection. When the others reported seeing the Lord, Thomas demanded physical proof of the wounds before he would believe.",
-  "connection": "This narrative may echo the isolation felt by those who hold private doubts that contradict their community's shared convictions. It resembles the tension between the need for tangible evidence and the pressure to conform to a collective certainty without speaking one's uncertainty aloud.",
-  "checks": [
-   {
-    "rule": "I",
-    "name": "No verdicts",
-    "passed": true,
-    "detail": "no judgment, prophecy or collective violence"
-   },
-   {
-    "rule": "II",
-    "name": "No sides",
-    "passed": true,
-    "detail": "0 entities checked, no collision"
-   },
-   {
-    "rule": "III",
-    "name": "Context attached",
-    "passed": true,
-    "detail": "heading and context line present"
-   },
-   {
-    "rule": "IV",
-    "name": "Offered, not asserted",
-    "passed": true,
-    "detail": "offered as resonance"
-   },
-   {
-    "rule": "V",
-    "name": "Comfort not cheap",
-    "passed": true,
-    "detail": "register 'doubt' does not require lament"
-   }
-  ],
+  "score": null,
+  "pinned": true,
+  "context": "",
+  "connection": "",
+  "checks": [],
   "rejected_before_this": [],
   "passage_id": "BSB:JHN.20.24-29"
  },
  "promise": {
   "slot": "promise",
-  "reference": "Luke 7:18-23",
-  "heading": "John’s Inquiry",
+  "reference": "Hebrews 11:1-3",
+  "heading": "Faith and Assurance",
   "heading_source": "translation",
-  "book_id": "LUK",
-  "text": "Then John’s disciples informed him about all these things. So John called two of his disciples and sent them to ask the Lord, “Are You the One who was to come, or should we look for someone else?” When the men came to Jesus, they said, “John the Baptist sent us to ask, ‘Are You the One who was to come, or should we look for someone else?’” At that very hour Jesus healed many people of their diseases, afflictions, and evil spirits, and He gave sight to many who were blind. So He replied, “Go back and report to John what you have seen and heard: The blind receive sight, the lame walk, the lepers are cleansed, the deaf hear, the dead are raised, and the good news is preached to the poor. Blessed is the one who does not fall away on account of Me. ”",
-  "word_count": 148,
+  "book_id": "HEB",
+  "text": "Now faith is the assurance of what we hope for and the certainty of what we do not see. This is why the ancients were commended. By faith we understand that the universe was formed at God’s command, so that what is seen was not made out of what was visible.",
+  "word_count": 51,
   "audio": {
-   "david": "https://audio.bible.helloao.org/api/BSB/LUK/7/audio/david.mp3",
-   "gilbert": "https://openbible.com/audio/gilbert/BSB_42_Luk_007_G.mp3",
-   "hays": "https://audio.bible.helloao.org/api/BSB/LUK/7/audio/hays.mp3",
-   "souer": "https://audio.bible.helloao.org/api/BSB/LUK/7/audio/souer.mp3"
+   "david": "https://audio.bible.helloao.org/api/BSB/HEB/11/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_58_Heb_011_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/HEB/11/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/HEB/11/audio/souer.mp3"
   },
-  "situation": "A person in deep uncertainty questions whether their long-held hope is real or if they have been misled, seeking confirmation through tangible evidence of change and restoration.",
+  "situation": "You are holding onto hope for an outcome that has not yet happened and trusting in realities you cannot perceive with your senses.",
   "register": "doubt",
-  "score": 0.7381,
-  "margin": 0.0093,
-  "context": "John the Baptist, imprisoned in a dungeon, sends disciples to Jesus to verify if He is the expected Messiah, expressing uncertainty amidst his suffering. Jesus responds by pointing to His miracles of healing and preaching as evidence of His identity, concluding with a blessing for those who remain steadfast despite confusion.",
-  "connection": "This narrative may echo the quiet isolation of individuals who feel their foundational beliefs are crumbling but cannot voice their doubt due to social pressure or fear. It suggests that such internal turmoil is not necessarily a failure of faith, but a human experience where one must navigate uncertainty without immediate resolution.",
+  "score": 0.7312,
+  "margin": 0.0211,
+  "context": "The author addresses early Christian believers who are facing social ostracism and potential persecution for their faith in Jesus. They are encouraged to remain steadfast because their spiritual inheritance is secure, even though they cannot yet see its full realization.",
+  "connection": "This may echo the hesitation of those who find it difficult to fully accept comforting news while still navigating uncertainty. The tension between intellectual assent and emotional trust mirrors the struggle to believe in hope when immediate evidence is absent.",
   "checks": [
    {
     "rule": "I",
@@ -111,7 +80,7 @@
    }
   ],
   "rejected_before_this": [],
-  "passage_id": "BSB:LUK.7.18-23"
+  "passage_id": "BSB:HEB.11.1-3"
  },
  "prayer": {
   "reference": "Psalms 77:1-20",
@@ -125,8 +94,8 @@
    "hays": "https://audio.bible.helloao.org/api/BSB/PSA/77/audio/hays.mp3",
    "souer": "https://audio.bible.helloao.org/api/BSB/PSA/77/audio/souer.mp3"
   },
-  "score": 0.64
+  "score": 0.6853
  },
- "built": "2026-09-11T03:40:07Z",
- "season": null
+ "built": "2026-09-11T03:41:39Z",
+ "season": "easter"
 }

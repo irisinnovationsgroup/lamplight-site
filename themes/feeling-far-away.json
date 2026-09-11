@@ -21,8 +21,8 @@
   "register": "waiting",
   "score": 0.6063,
   "margin": 0.017,
-  "context": "The remaining disciples gather in an upper room in Jerusalem to select a replacement for Judas Iscariot, casting lots to choose Matthias from two candidates to join their number as witnesses to Jesus' resurrection.",
-  "connection": "This may echo the feeling of spiritual emptiness when prayer seems unanswered, as the group navigates uncertainty and seeks divine guidance through communal discernment rather than immediate clarity.",
+  "context": "The remaining disciples and followers of Jesus gather in an upper room in Jerusalem to pray and select a replacement for Judas Iscariot among two candidates, Matthias and Joseph Barsabbas, by casting lots to determine God's choice. This occurs shortly after Jesus' ascension, as the group seeks to restore their number to twelve while waiting for the promised Holy Spirit.",
+  "connection": "The experience of praying into silence may resemble the uncertainty felt when seeking guidance or clarity during times of transition and loss. Just as the early believers waited with anxious hope for divine direction amidst their grief, one might find resonance in the shared human struggle to trust that presence remains even when it feels distant.",
   "checks": [
    {
     "rule": "I",
@@ -76,8 +76,8 @@
   "register": "waiting",
   "score": 0.7081,
   "margin": 0.0208,
-  "context": "The psalmist expresses deep distress from a place of spiritual or emotional desolation, crying out to God for mercy while acknowledging human unworthiness before divine justice.",
-  "connection": "This text may echo the experience of those who feel their prayers are unheard, offering a framework for expressing despair without abandoning hope. It resembles the tension between feeling isolated in suffering and trusting in the possibility of redemption despite that distance.",
+  "context": "The psalmist expresses deep distress and spiritual isolation, crying out from a place of profound despair while acknowledging human unworthiness before God. The text shifts to an expression of steadfast hope and trust in divine forgiveness and redemption.",
+  "connection": "This may echo the experience of those who feel their prayers are unanswered or unheard, resembling the sensation of speaking into an empty room. It offers a parallel for finding comfort not in immediate resolution, but in the persistent act of waiting and hoping despite the weight of grief.",
   "checks": [
    {
     "rule": "I",
@@ -127,5 +127,6 @@
   },
   "score": 0.675
  },
- "built": "2026-09-11T03:05:20Z"
+ "built": "2026-09-11T03:40:12Z",
+ "season": null
 }

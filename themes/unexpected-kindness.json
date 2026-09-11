@@ -21,8 +21,8 @@
   "register": "mercy",
   "score": 0.6632,
   "margin": 0.0104,
-  "context": "Ten lepers in Samaria and Galilee approach Jesus for mercy, and upon following His instruction to show themselves to priests, they are healed. Only one, a Samaritan who returns to give thanks, receives specific affirmation of his faith.",
-  "connection": "This narrative may echo the quiet resonance of unexpected kindness, where a stranger’s unmerited help prompts a moment of profound gratitude. It suggests that while relief is often shared, the act of recognizing and returning that grace remains a distinct, personal response.",
+  "context": "Ten lepers, marginalized by disease and social isolation, approach Jesus in a village between Samaria and Galilee, pleading for mercy while standing at a distance. Jesus instructs them to present themselves to the priests, and as they obey, they are miraculously cleansed of their condition.",
+  "connection": "This narrative may echo the experience of receiving unearned help from a stranger, highlighting how such unexpected kindness can disrupt our routine and prompt a moment of profound gratitude. It resembles the quiet reflection that often follows an act of grace, reminding us to acknowledge the source of relief even when others remain silent.",
   "checks": [
    {
     "rule": "I",
@@ -76,8 +76,8 @@
   "register": "mercy",
   "score": 0.6746,
   "margin": 0.0025,
-  "context": "The author addresses Jewish believers who feel alienated and fearful, explaining that Jesus fully shared their human nature and suffering to become a merciful high priest who helps those being tempted.",
-  "connection": "This may echo the comfort found when a stranger offers unexpected aid, reminding us that we are not alone in our struggles. It suggests that such kindness can reflect a shared humanity where grace bridges the gap between strangers.",
+  "context": "The author addresses Jewish believers who feel marginalized and fearful, explaining that Jesus fully shared their human nature and suffering to become a merciful high priest who helps those being tempted.",
+  "connection": "This may echo the profound relief felt when a stranger offers unexpected aid, reminding us that shared vulnerability can bridge divides and offer genuine comfort in times of distress.",
   "checks": [
    {
     "rule": "I",
@@ -127,5 +127,6 @@
   },
   "score": 0.6447
  },
- "built": "2026-09-11T03:06:15Z"
+ "built": "2026-09-11T03:41:08Z",
+ "season": null
 }

@@ -1,0 +1,101 @@
+{
+ "slug": "holy-week-the-night-before",
+ "title": "Holy Week · the night before",
+ "register": "fear",
+ "situation": "I know what is coming tomorrow and I cannot make it not come.",
+ "echo": {
+  "slot": "echo",
+  "reference": "Matthew 26:36-46",
+  "heading": "Jesus Prays at Gethsemane",
+  "heading_source": "translation",
+  "book_id": "MAT",
+  "text": "Then Jesus went with His disciples to a place called Gethsemane, and He told them, “Sit here while I go over there and pray.” He took with Him Peter and the two sons of Zebedee and began to be sorrowful and deeply distressed. Then He said to them, “My soul is consumed with sorrow to the point of death. Stay here and keep watch with Me.” Going a little farther, He fell facedown and prayed, “My Father, if it is possible, let this cup pass from Me. Yet not as I will, but as You will.” Then Jesus returned to the disciples and found them sleeping. “Were you not able to keep watch with Me for one hour?” He asked Peter. “Watch and pray so that you will not enter into temptation. For the spirit is willing, but the body is weak.” A second time He went away and prayed, “My Father, if this cup cannot pass unless I drink it, may Your will be done.” And again Jesus returned and found them sleeping, for their eyes were heavy. So He left them and went away once more and prayed a third time, saying the same thing. Then He returned to the disciples and said, “Are you still sleeping and resting? Look, the hour is near, and the Son of Man is betrayed into the hands of sinners. Rise, let us go! See, My betrayer is approaching!”",
+  "word_count": 237,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/MAT/26/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_40_Mat_026_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/MAT/26/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/MAT/26/audio/souer.mp3"
+  },
+  "situation": "A person faces an overwhelming burden and intense anxiety while struggling to accept a difficult fate they cannot avoid.",
+  "register": "fear",
+  "score": null,
+  "pinned": true,
+  "context": "",
+  "connection": "",
+  "checks": [],
+  "rejected_before_this": [],
+  "passage_id": "BSB:MAT.26.36-46"
+ },
+ "promise": {
+  "slot": "promise",
+  "reference": "Hebrews 11:1-3",
+  "heading": "Faith and Assurance",
+  "heading_source": "translation",
+  "book_id": "HEB",
+  "text": "Now faith is the assurance of what we hope for and the certainty of what we do not see. This is why the ancients were commended. By faith we understand that the universe was formed at God’s command, so that what is seen was not made out of what was visible.",
+  "word_count": 51,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/HEB/11/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_58_Heb_011_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/HEB/11/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/HEB/11/audio/souer.mp3"
+  },
+  "situation": "You are holding onto hope for an outcome that has not yet happened and trusting in realities you cannot perceive with your senses.",
+  "register": "doubt",
+  "score": 0.7314,
+  "margin": 0.0224,
+  "context": "The author addresses early Christian believers who face social ostracism and material loss for their trust in God's promises. They are encouraged to view their unseen spiritual realities as more certain than their visible, temporary circumstances.",
+  "connection": "This may echo the experience of those who hold onto hope while facing an inevitable future they cannot prevent. It suggests that faith can provide a sense of certainty even when the outcome remains unseen and grief is present.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'fear' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:HEB.11.1-3"
+ },
+ "prayer": {
+  "reference": "Psalms 86:1-17",
+  "heading": "Tried but Trusting",
+  "heading_source": "translation",
+  "text": "Incline Your ear, O LORD, and answer me, for I am poor and needy. Preserve my soul, for I am godly. You are my God; save Your servant who trusts in You. Be merciful to me, O Lord, for I call to You all day long. Bring joy to Your servant, for to You, O Lord, I lift up my soul. For You, O Lord, are kind and forgiving, rich in loving devotion to all who call on You. Hear my prayer, O LORD, and attend to my plea for mercy. In the day of my distress I call on You, because You answer me. O Lord, there is none like You among the gods, nor any works like Yours. All the nations You have made will come and bow before You, O Lord, and they will glorify Your name. For You are great and perform wonders; You alone are God. Teach me Your way, O LORD, that I may walk in Your truth. Give me an undivided heart, that I may fear Your name. I will praise You, O Lord my God, with all my heart; I will glorify Your name forever. For great is Your loving devotion to me; You have delivered me from the depths of Sheol. The arrogant rise against me, O God; a band of ruthless men seeks my life; they have no regard for You. But You, O Lord, are a compassionate and gracious God, slow to anger, abounding in loving devotion and faithfulness. Turn to me and have mercy; grant Your strength to Your servant; save the son of Your maidservant. Show me a sign of Your goodness, that my enemies may see and be ashamed; for You, O LORD, have helped me and comforted me.",
+  "word_count": 293,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/PSA/86/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_19_Psa_086_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/PSA/86/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/PSA/86/audio/souer.mp3"
+  },
+  "score": 0.6301
+ },
+ "built": "2026-09-11T03:41:33Z",
+ "season": "holy-week"
+}

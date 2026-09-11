@@ -22,7 +22,7 @@
   "score": 0.7288,
   "margin": 0.0262,
   "context": "On the Mount of Olives, Jesus withdraws to pray in deep anguish before his arrest, while his disciples fall asleep nearby due to exhaustion and sorrow.",
-  "connection": "This scene may resemble the quiet, persistent fatigue of those who feel worn down by long-term stress rather than acute crisis. It offers a space where spiritual struggle and physical depletion are acknowledged without immediate resolution.",
+  "connection": "This scene may echo the quiet, persistent fatigue of those who are not in acute crisis but are worn down by a long season of strain. It resembles the feeling of being spiritually or emotionally drained, where even the desire to stay vigilant is overwhelmed by sheer weariness.",
   "checks": [
    {
     "rule": "I",
@@ -76,8 +76,8 @@
   "register": "endurance",
   "score": 0.7114,
   "margin": 0.009,
-  "context": "Paul writes to the believers in Thessalonica, who were facing social disruption and anxiety due to rumors about the end times, to offer them a final blessing of peace and grace.",
-  "connection": "This greeting may echo the quiet longing for stability felt by those who are not in acute crisis but are worn down by prolonged fatigue. It resembles a gentle reminder that peace is a gift offered even when one feels too exhausted to seek it.",
+  "context": "Paul writes to the church in Thessalonica, concluding his letter with a personal greeting and a blessing for peace amidst their ongoing struggles. He emphasizes that despite the challenges they face, the grace of the Lord Jesus Christ remains with them.",
+  "connection": "This message may echo the quiet resilience of those who feel worn down by long-term fatigue rather than acute crisis. It offers a gentle reminder that peace and grace are available even when one is simply exhausted and seeking rest.",
   "checks": [
    {
     "rule": "I",
@@ -127,5 +127,6 @@
   },
   "score": 0.7287
  },
- "built": "2026-09-11T03:05:53Z"
+ "built": "2026-09-11T03:40:47Z",
+ "season": null
 }
