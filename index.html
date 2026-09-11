@@ -5,6 +5,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="Today's news, read by an older light. A daily reading that sets the world's news beside Scripture.">
 <meta name="robots" content="noindex">
+<meta name="theme-color" content="#141611" media="(prefers-color-scheme: dark)">
+<meta name="theme-color" content="#EDEAE1" media="(prefers-color-scheme: light)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Lamplight">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icon.svg">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 34 44'%3E%3Cpath d='M17 20c0 5 4 6 4 10a4 4 0 0 1-8 0c0-4 4-5 4-10Z' fill='%23D9A63C'/%3E%3C/svg%3E">
 <style>html{color-scheme:light dark}body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>
 </head>
@@ -42,7 +48,14 @@
 body{background:var(--ground);color:var(--ink);
   font-family:"Archivo","Helvetica Neue",Arial,sans-serif;font-size:16px;line-height:1.6;
   -webkit-font-smoothing:antialiased;padding-block:0;margin:0}
-.app{max-width:620px;margin:0 auto;padding-inline:20px;padding-bottom:96px}
+.app{max-width:620px;margin:0 auto;padding-inline:20px;padding-bottom:96px;display:block}
+.app:focus{outline:none}
+.visually-hidden{position:absolute;width:1px;height:1px;padding:0;margin:-1px;
+  overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;border:0}
+.skip{position:absolute;left:-9999px;top:8px;z-index:100;background:var(--surface);
+  color:var(--ink);border:1px solid var(--brass);border-radius:6px;padding:10px 16px;
+  font-size:14px;text-decoration:none}
+.skip:focus{left:12px}
 h1,h2,h3,h4{margin:0;text-wrap:balance}
 p{margin:0}
 a{color:inherit}
@@ -61,7 +74,8 @@ header{padding-block:26px 18px;border-bottom:1px solid var(--rule);margin-bottom
 .brand .sub{font-family:"IBM Plex Mono",monospace;font-size:9px;letter-spacing:.18em;
   text-transform:uppercase;color:var(--brass);display:block;margin-top:3px}
 .today-date{font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--ink-soft)}
-.register-line{font-family:"EB Garamond",Georgia,serif;font-size:22px;line-height:1.34;margin-top:18px}
+.register-line{font-family:"EB Garamond",Georgia,serif;font-size:22px;line-height:1.34;
+  margin-top:18px;font-weight:500}
 .provenance{display:flex;flex-wrap:wrap;gap:6px;margin-top:14px}
 .pv{font-family:"IBM Plex Mono",monospace;font-size:9.5px;letter-spacing:.06em;
   text-transform:uppercase;border:1px solid var(--rule-firm);border-radius:3px;
@@ -79,7 +93,7 @@ header{padding-block:26px 18px;border-bottom:1px solid var(--rule);margin-bottom
   color:var(--brass);flex:none}
 .chip.grief,.chip.lament,.chip.injustice,.chip.betrayal{color:var(--lament)}
 .chip.mercy,.chip.reconciliation,.chip.provision,.chip.joy{color:var(--good)}
-.theme-name{font-family:"EB Garamond",Georgia,serif;font-size:25px;line-height:1.15}
+.theme-name{font-family:"EB Garamond",Georgia,serif;font-size:25px;line-height:1.15;font-weight:500}
 .theme-desc{font-size:13.5px;color:var(--ink-mid);line-height:1.5}
 .caret{transition:transform .22s ease;color:var(--ink-soft);flex:none}
 .theme[data-open="true"] .caret{transform:rotate(180deg)}
@@ -109,7 +123,7 @@ header{padding-block:26px 18px;border-bottom:1px solid var(--rule);margin-bottom
 .plabel{font-family:"IBM Plex Mono",monospace;font-size:9.5px;letter-spacing:.16em;
   text-transform:uppercase;color:var(--ink-soft);margin-bottom:7px;display:flex;align-items:center;gap:7px}
 .plabel .dot{width:3px;height:3px;border-radius:50%;background:var(--brass)}
-.passage h4{font-family:"EB Garamond",Georgia,serif;font-size:18px;font-weight:600;margin-bottom:3px}
+.passage h3,.passage h4{font-family:"EB Garamond",Georgia,serif;font-size:18px;font-weight:600;margin-bottom:3px}
 .passage .ref{display:block;margin-bottom:9px}
 .ptext{font-family:"EB Garamond",Georgia,serif;font-size:18.5px;line-height:1.5;
   max-height:11.2em;overflow:hidden;position:relative;transition:max-height .3s ease}
@@ -326,7 +340,10 @@ header{padding-block:26px 18px;border-bottom:1px solid var(--rule);margin-bottom
   background:none;color:var(--ink-mid);cursor:pointer;flex:none}
 .quiet-bar button[aria-pressed="true"]{border-color:var(--brass);color:var(--brass);
   background:color-mix(in srgb,var(--brass) 10%,transparent)}
-body.quiet .stories,body.quiet .echo-slot{display:none}
+/* Panel finding, 52 of 100: nobody objected to hiding headlines; every objection
+   was to hiding the Echo. A hard day means wanting less NEWS and more COMPANY,
+   and the first version served only the first half. The Echo always stays. */
+body.quiet .stories{display:none}
 .wrong{font-family:"IBM Plex Mono",monospace;font-size:9.5px;letter-spacing:.08em;
   text-transform:uppercase;color:var(--ink-soft);background:none;border:0;cursor:pointer;
   padding:5px 0;text-decoration:underline;text-underline-offset:3px}
@@ -337,10 +354,61 @@ body.quiet .stories,body.quiet .echo-slot{display:none}
   font-size:13.5px;line-height:1.5;resize:vertical;min-height:66px}
 .notebox:focus-visible{outline:2px solid var(--brass);outline-offset:1px}
 .saved-note{font-family:"IBM Plex Mono",monospace;font-size:9.5px;color:var(--good);margin-top:5px}
+
+/* lectionary */
+.lect{border:1px solid var(--rule);border-radius:10px;background:var(--surface);
+  padding:16px 18px;margin-bottom:16px}
+.lect .hd{display:flex;justify-content:space-between;align-items:baseline;gap:10px;margin-bottom:10px}
+.lect .rd{display:grid;grid-template-columns:auto 1fr;gap:6px 12px;font-size:13.5px;
+  align-items:baseline}
+.lect .kd{font-family:"IBM Plex Mono",monospace;font-size:9.5px;letter-spacing:.08em;
+  text-transform:uppercase;color:var(--ink-soft);white-space:nowrap}
+.lect .ct{color:var(--ink)}
+.lect .note{padding:10px 0 0;background:none;font-size:12px;margin-top:8px;
+  border-top:1px solid var(--rule)}
+
+/* share sheet */
+.sheet{position:fixed;inset:0;z-index:70;background:color-mix(in srgb,var(--ground) 94%,transparent);
+  display:flex;flex-direction:column;align-items:center;justify-content:center;padding:20px;overflow-y:auto}
+.sheet[hidden]{display:none}
+.sheet-card{background:var(--surface);border:1px solid var(--rule);border-radius:12px;
+  padding:20px;max-width:460px;width:100%}
+.sheet-card h3{font-family:"EB Garamond",Georgia,serif;font-size:21px;font-weight:500;margin-bottom:6px}
+.sheet-card canvas{width:100%;height:auto;border-radius:8px;border:1px solid var(--rule);
+  margin-top:14px;display:block}
+.sheet-acts{display:flex;gap:8px;margin-top:14px;flex-wrap:wrap}
+.sheet-acts button{flex:1;min-width:120px;font-family:"IBM Plex Mono",monospace;font-size:10.5px;
+  letter-spacing:.1em;text-transform:uppercase;padding:11px;border-radius:6px;
+  border:1px solid var(--rule-firm);background:none;color:var(--ink-mid);cursor:pointer}
+.sheet-acts button.primary{border-color:var(--brass);color:var(--brass)}
+
+/* first run */
+.firstrun{position:fixed;inset:0;z-index:80;background:var(--ground);display:flex;
+  align-items:center;justify-content:center;padding:22px;overflow-y:auto}
+.firstrun[hidden]{display:none}
+.fr-card{max-width:430px;width:100%}
+.fr-card h2{font-family:"EB Garamond",Georgia,serif;font-size:27px;font-weight:500;
+  line-height:1.15;margin-bottom:8px}
+.fr-card p{font-size:14px;color:var(--ink-mid);line-height:1.6;margin-bottom:18px}
+.fr-opt{display:grid;grid-template-columns:18px 1fr auto;gap:12px;align-items:start;
+  padding:14px;border:1px solid var(--rule);border-radius:9px;margin-bottom:8px;width:100%;
+  text-align:left;background:var(--surface);color:inherit;font:inherit;cursor:pointer}
+.fr-opt[aria-checked="true"]{border-color:var(--brass);background:color-mix(in srgb,var(--brass) 9%,transparent)}
+.fr-opt .nm{font-size:14.5px;font-weight:600;margin-bottom:2px}
+.fr-opt .dt{font-size:12.5px;color:var(--ink-mid);line-height:1.45}
+.fr-opt .ct{font-family:"IBM Plex Mono",monospace;font-size:10px;color:var(--ink-soft);white-space:nowrap}
+
+/* daily reminder */
+.remind{display:flex;align-items:center;gap:10px;padding:13px 16px;border-bottom:1px solid var(--rule)}
+.remind label{font-size:13.5px;color:var(--ink-mid);flex:1;line-height:1.45}
+.remind input[type=time]{font-family:"IBM Plex Mono",monospace;font-size:13px;padding:7px 9px;
+  border:1px solid var(--rule-firm);border-radius:5px;background:var(--ground);color:var(--ink)}
+.remind input[type=time]:focus-visible{outline:2px solid var(--brass);outline-offset:1px}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
 </style>
 
-<div class="app">
+<a class="skip" href="#main">Skip to today&rsquo;s reading</a>
+<main class="app" id="main" tabindex="-1">
   <header>
     <div class="brandline">
       <div class="brand">
@@ -349,7 +417,7 @@ body.quiet .stories,body.quiet .echo-slot{display:none}
       </div>
       <span class="today-date" id="hdr-date"></span>
     </div>
-    <p class="register-line" id="hdr-register"></p>
+    <h1 class="register-line" id="hdr-register"></h1>
     <div class="provenance" id="hdr-prov"></div>
   </header>
 
@@ -359,18 +427,56 @@ body.quiet .stories,body.quiet .echo-slot{display:none}
   <div class="pane" id="pane-about" hidden></div>
   <div class="pane" id="pane-review" hidden></div>
   <div class="pane" id="pane-settings" hidden></div>
+</main>
+<div id="live" class="visually-hidden" role="status" aria-live="polite"></div>
+
+<div class="sheet" id="sheet" hidden role="dialog" aria-modal="true" aria-labelledby="sheet-h">
+  <div class="sheet-card">
+    <h3 id="sheet-h">Share this passage</h3>
+    <p style="font-size:13px;color:var(--ink-mid);line-height:1.5" id="sheet-sub"></p>
+    <canvas id="sheet-canvas" width="1000" height="1000" aria-label="The passage, set as an image"></canvas>
+    <div class="sheet-acts">
+      <button type="button" class="primary" data-share-copy>Copy the text</button>
+      <button type="button" data-share-save>Save the image</button>
+      <button type="button" data-share-close>Close</button>
+    </div>
+    <p style="font-size:11.5px;color:var(--ink-soft);margin-top:10px;line-height:1.5" id="sheet-hint"></p>
+  </div>
+</div>
+
+<div class="firstrun" id="firstrun" hidden role="dialog" aria-modal="true" aria-labelledby="fr-h">
+  <div class="fr-card">
+    <div class="eyebrow">Lamplight &middot; The Second Reading</div>
+    <h2 id="fr-h">Which Bible should this read from?</h2>
+    <p>You can change this at any time in Settings. It decides which books a passage may be drawn from &mdash; nothing else about the app changes.</p>
+    <button type="button" class="fr-opt" data-canon="protestant" aria-checked="true" role="radio">
+      <span class="radio"></span>
+      <span><span class="nm">Protestant</span><span class="dt">Berean Standard Bible. Chapter audio in four narrations.</span></span>
+      <span class="ct">66 books</span></button>
+    <button type="button" class="fr-opt" data-canon="catholic" aria-checked="false" role="radio">
+      <span class="radio"></span>
+      <span><span class="nm">Catholic</span><span class="dt">Adds Tobit, Judith, Wisdom, Sirach, Baruch and 1&ndash;2 Maccabees.</span></span>
+      <span class="ct">73 books</span></button>
+    <button type="button" class="fr-opt" data-canon="orthodox" aria-checked="false" role="radio">
+      <span class="radio"></span>
+      <span><span class="nm">Eastern Orthodox</span><span class="dt">Adds 3&ndash;4 Maccabees, 1&ndash;2 Esdras, Psalm 151 and the Greek additions.</span></span>
+      <span class="ct">81 books</span></button>
+    <div style="display:flex;gap:8px;margin-top:14px">
+      <button type="button" class="big solid" data-canon-done>Start reading</button>
+    </div>
+  </div>
 </div>
 
 <nav class="tabbar" role="tablist"><div class="tabbar-inner">
-  <button class="tab" role="tab" aria-selected="true" data-pane="today">
+  <button type="button" class="tab" role="tab" aria-selected="true" data-pane="today">
     <svg width="17" height="17" viewBox="0 0 34 44" aria-hidden="true"><path d="M17 2C17 12 27 15 27 26a10 10 0 0 1-20 0C7 19 12 17 13 11c3 3 4 6 4 9 0-6 0-12 0-18Z" fill="none" stroke="currentColor" stroke-width="2.6"/><path d="M17 20c0 5 4 6 4 10a4 4 0 0 1-8 0c0-4 4-5 4-10Z" fill="currentColor"/></svg><span>Today</span></button>
-  <button class="tab" role="tab" aria-selected="false" data-pane="pray">
+  <button type="button" class="tab" role="tab" aria-selected="false" data-pane="pray">
     <svg width="17" height="17" viewBox="0 0 18 18" aria-hidden="true"><path d="M9 15.5s-5.2-3.1-5.2-7A3.1 3.1 0 0 1 9 6.3a3.1 3.1 0 0 1 5.2 2.2c0 3.9-5.2 7-5.2 7Z" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/><path d="M9 6.3V2.5M7.3 4h3.4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg><span>Pray</span></button>
-  <button class="tab" role="tab" aria-selected="false" data-pane="archive">
+  <button type="button" class="tab" role="tab" aria-selected="false" data-pane="archive">
     <svg width="17" height="17" viewBox="0 0 18 18" aria-hidden="true"><rect x="2.5" y="3.5" width="13" height="12" rx="1.5" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M2.5 7h13M6.5 2v3M11.5 2v3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg><span>Archive</span></button>
-  <button class="tab" role="tab" aria-selected="false" data-pane="about">
+  <button type="button" class="tab" role="tab" aria-selected="false" data-pane="about">
     <svg width="17" height="17" viewBox="0 0 18 18" aria-hidden="true"><circle cx="9" cy="9" r="6.6" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M9 8v4.2M9 5.6v.9" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg><span>About</span></button>
-  <button class="tab" role="tab" aria-selected="false" data-pane="settings">
+  <button type="button" class="tab" role="tab" aria-selected="false" data-pane="settings">
     <svg width="17" height="17" viewBox="0 0 18 18" aria-hidden="true"><circle cx="9" cy="9" r="2.6" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M9 1.5v2M9 14.5v2M1.5 9h2M14.5 9h2M3.7 3.7l1.4 1.4M12.9 12.9l1.4 1.4M14.3 3.7l-1.4 1.4M5.1 12.9l-1.4 1.4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/></svg><span>Settings</span></button>
 </div></nav>
 
@@ -412,23 +518,24 @@ function passage(p, label){
   const isEcho = /Echo/.test(label);
   return `<div class="passage${isEcho ? " echo-slot" : ""}">
     <div class="plabel"><span class="dot"></span>${esc(label)}</div>
-    <h4 class="scripture">${esc(p.heading||"")}${gen}</h4>
+    <h3 class="scripture">${esc(p.heading||"")}${gen}</h3>
     <span class="ref">${esc(p.reference.toUpperCase())} · ${esc(T.translation)} · ${p.word_count} WORDS</span>
     <div class="ptext" data-text tabindex="0" role="region" aria-label="Passage text, scrollable">${esc(p.text)}</div>
     <div class="ctx"><b>What is happening here:</b> ${esc(p.context)}</div>
     <div class="conn">${esc(p.connection)}</div>
     <div class="acts">
-      <button class="act" data-expand>Read in full</button>
+      <button type="button" class="act" data-expand>Read in full</button>
       ${audio?`<a class="act" href="${esc(audio)}" target="_blank" rel="noopener">Listen ▸</a>`:""}
-      <button class="act" data-checks>Why this passage</button>
-      <button class="act" data-note="${esc(p.reference)}">Note</button>
+      <button type="button" class="act" data-checks>Why this passage</button>
+      <button type="button" class="act" data-note="${esc(p.reference)}">Note</button>
+      <button type="button" class="act" data-share="${esc(p.reference)}">Share</button>
     </div>
     <div class="notewrap" hidden>
       <textarea class="notebox" id="note-${esc(p.reference).replace(/[^a-zA-Z0-9]/g,"-")}"
         placeholder="Anything you want to keep about this passage. Stays on this device."></textarea>
       <div class="saved-note" hidden>Saved on this device</div>
     </div>
-    <div style="margin-top:8px"><button class="wrong" data-wrong="${esc(p.reference)}" aria-pressed="false">This reading was wrong</button></div>
+    <div style="margin-top:8px"><button type="button" class="wrong" data-wrong="${esc(p.reference)}" aria-pressed="false">This reading was wrong</button></div>
     <div class="checks">${checks}${blocked?"":""}</div>
     ${blocked}
   </div>`;
@@ -447,21 +554,38 @@ const staleBanner = ageDays >= 1
       is from ${fmtDate(T.date)}, not from today.</div>`
   : "";
 
+const LECT = T.lectionary;
+const lectBlock = LECT ? `
+  <section class="lect" aria-labelledby="lect-h">
+    <div class="hd">
+      <h2 id="lect-h" style="font-family:'EB Garamond',Georgia,serif;font-size:18px;font-weight:500">
+        Appointed for today</h2>
+      <span class="ref">${esc((LECT.tradition||"").toUpperCase())}</span>
+    </div>
+    <div class="rd">
+      ${LECT.readings.map(r=>`<span class="kd">${esc(r.kind)}</span><span class="ct">${esc(r.citation)}</span>`).join("")}
+    </div>
+    <p class="note">What the church appointed for ${esc(LECT.day_of_week||"")}, ${esc(LECT.is_for_date||LECT.date||"")},
+      shown alongside today's reading and never in place of it. Lamplight's contribution is the news, not the calendar.
+      Source: ${esc(LECT.source||"")}.</p>
+  </section>` : "";
+
 document.getElementById("pane-today").innerHTML = `
   ${staleBanner}
+  ${lectBlock}
   <div class="quiet-bar">
-    <span class="t">Some days the news is not what you need. This hides the headlines and the story parallels, and leaves the promises.</span>
-    <button data-quiet aria-pressed="false">Just the hope</button>
+    <span class="t">Some days you can carry the passage but not the headlines. This hides the news and keeps everything else &mdash; the story that echoes it stays.</span>
+    <button type="button" data-quiet aria-pressed="false">Skip the news today</button>
   </div>
   <div class="themes">
   ${T.themes.map((t,i)=>`
     <article class="theme" data-open="false">
-      <button class="theme-btn" aria-expanded="false" aria-controls="tb${i}">
+      <button type="button" class="theme-btn" aria-expanded="false" aria-controls="tb${i}">
         <div class="theme-top">
           <span class="chip ${esc(t.register)}">${esc(t.register)}</span>
           <svg class="caret" width="14" height="14" viewBox="0 0 14 14" aria-hidden="true"><path d="M3 5.5 7 9.5 11 5.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
         </div>
-        <h3 class="theme-name">${esc(t.name)}</h3>
+        <h2 class="theme-name">${esc(t.name)}</h2>
         <p class="theme-desc">${esc(t.description)}</p>
       </button>
       <div class="theme-body" id="tb${i}" hidden>
@@ -489,7 +613,7 @@ document.getElementById("pane-today").innerHTML = `
 
 /* ---------- archive ---------- */
 document.getElementById("pane-archive").innerHTML =
-  DATA.archive.map(d=>`<button class="day-card">
+  DATA.archive.map(d=>`<button type="button" class="day-card">
     <div class="d">${fmtDate(d.date)}</div>
     <div class="r">${esc(d.register)}</div>
   </button>`).join("") +
@@ -528,9 +652,9 @@ document.getElementById("pane-review").innerHTML = `
             </div>
           </div>` : `<div class="blocked"><b>${esc(k)}: abstained.</b> Nothing cleared the Rule.</div>`).join("")}
         <div class="rev-actions">
-          <button class="rbtn primary" data-approve>Approve</button>
-          <button class="rbtn">Next candidate</button>
-          <button class="rbtn">Reject with a reason</button>
+          <button type="button" class="rbtn primary" data-approve>Approve</button>
+          <button type="button" class="rbtn">Next candidate</button>
+          <button type="button" class="rbtn">Reject with a reason</button>
         </div>
       </div>
     </div>`).join("")}
@@ -546,23 +670,38 @@ document.getElementById("pane-review").innerHTML = `
 document.getElementById("pane-settings").innerHTML = `
   <div class="setting">
     <h3>Canon</h3>
-    <button class="opt" role="radio" aria-checked="true"><span class="radio"></span>
+    <button type="button" class="opt" role="radio" aria-checked="true"><span class="radio"></span>
       <span><span class="nm">Protestant</span><span class="dt">Berean Standard Bible. Headings by the translators; chapter audio in four narrations.</span></span>
       <span class="ct">66 books<br>3,083 passages</span></button>
-    <button class="opt" role="radio" aria-checked="false"><span class="radio"></span>
+    <button type="button" class="opt" role="radio" aria-checked="false"><span class="radio"></span>
       <span><span class="nm">Catholic</span><span class="dt">Adds Tobit, Judith, Wisdom, Sirach, Baruch and 1–2 Maccabees.</span></span>
       <span class="ct">73 books<br>+147 chapters</span></button>
-    <button class="opt" role="radio" aria-checked="false"><span class="radio"></span>
+    <button type="button" class="opt" role="radio" aria-checked="false"><span class="radio"></span>
       <span><span class="nm">Eastern Orthodox</span><span class="dt">Adds 3–4 Maccabees, 1–2 Esdras, Psalm 151, the Prayer of Manasseh and the Greek additions.</span></span>
       <span class="ct">81 books<br>+213 chapters</span></button>
     <p class="note"><b>Disclosure.</b> Section titles in the deuterocanonical books are written by Lamplight — no free English translation supplies them. Every one is marked <span class="gen-note" style="margin:0">Title ours</span> where it appears. The verse text is untouched and verbatim.</p>
   </div>
   <div class="setting">
+    <h3>A daily reminder</h3>
+    <div class="remind">
+      <label for="remind-time">Remind me to read at</label>
+      <input type="time" id="remind-time" value="07:00">
+    </div>
+    <div style="padding:12px 16px">
+      <button type="button" class="big" data-remind-on>Turn reminders on</button>
+    </div>
+    <p class="note" id="remind-note"><b>Honest about how this works.</b> Lamplight has no server
+      that can wake your phone, so the reminder is set by the page itself and fires only while
+      your browser is running. Add Lamplight to your home screen and it becomes far more
+      reliable. If you need a reminder that always arrives, set one in your phone's clock app
+      for the same time &mdash; that will never fail, and it costs us nothing to say so.</p>
+  </div>
+  <div class="setting">
     <h3>Appearance</h3>
     <div class="seg" role="group" aria-label="Theme">
-      <button data-theme-set="system" aria-pressed="false">Auto</button>
-      <button data-theme-set="light" aria-pressed="false">Light</button>
-      <button data-theme-set="dark" aria-pressed="false">Dark</button>
+      <button type="button" data-theme-set="system" aria-pressed="false">Auto</button>
+      <button type="button" data-theme-set="light" aria-pressed="false">Light</button>
+      <button type="button" data-theme-set="dark" aria-pressed="false">Dark</button>
     </div>
     <p class="note">Auto follows your device. Lamplight is designed to be read at either end of the day — pale paper in the morning, lamplight after dark.</p>
   </div>
@@ -571,7 +710,7 @@ document.getElementById("pane-settings").innerHTML = `
     <p class="note">${(T.review && T.review.status === "held_for_review")
       ? "This day stopped for a person. Most days do not."
       : "Every match cleared the Rule with margin, so this day published on its own."}</p>
-    <div style="padding:12px 16px"><button class="rbtn" data-goto="review">Open the review queue</button></div>
+    <div style="padding:12px 16px"><button type="button" class="rbtn" data-goto="review">Open the review queue</button></div>
   </div>
   <div class="setting">
     <h3>How today was made</h3>
@@ -629,6 +768,20 @@ document.getElementById("pane-about").innerHTML = `
         <li><b>Matched by a machine.</b> Retrieval is statistical. It has already been wrong in testing — twice it offered a passage about God destroying a people as though it were comfort — and both times a person caught it, not the rules. That is why a person still reads the days that look uncertain.</li>
       </ul>
     </div>
+  </div>
+
+  <div class="about-sec">
+    <h3>Who this is not for</h3>
+    <p>Said plainly, because the wrong reader deserves ten seconds rather than ten days.</p>
+    <p><b>If you have deliberately stopped reading the news, this is probably not for you.</b>
+      Quitting the news is a reasonable thing to have done, and Lamplight reintroduces it —
+      gently and once a day, but it does reintroduce it. There are better daily readings that
+      do not.</p>
+    <p><b>If you want to be told what today means,</b> this will frustrate you. It sets two
+      things beside each other and stops. It will not tell you who was right, what God is doing,
+      or what is coming.</p>
+    <p><b>If you are in acute crisis,</b> please tell a person. This is four minutes of reading
+      from a machine that cannot see you.</p>
   </div>
 
   <div class="about-sec">
@@ -708,8 +861,8 @@ document.getElementById("pane-pray").innerHTML = `
       </div>
     </div>
     <div style="padding:0 16px 16px;display:flex;flex-direction:column;gap:8px">
-      <button class="big solid" data-meditate="full">Begin · ${Math.round(MED.total_seconds/60)} minutes</button>
-      <button class="big" data-meditate="short">Short form · ${Math.max(1,Math.round(MED.total_seconds*MED.short_factor/60))} minutes</button>
+      <button type="button" class="big solid" data-meditate="full">Begin · ${Math.round(MED.total_seconds/60)} minutes</button>
+      <button type="button" class="big" data-meditate="short">Short form · ${Math.max(1,Math.round(MED.total_seconds*MED.short_factor/60))} minutes</button>
     </div>
   </div>
 `;
@@ -721,7 +874,7 @@ player.hidden = true;
 player.innerHTML = `
   <div class="player-top">
     <span class="eyebrow" id="mv-of"></span>
-    <button class="player-close" data-med-close>Close</button>
+    <button type="button" class="player-close" data-med-close>Close</button>
   </div>
   <div class="bar"><i id="mv-bar"></i></div>
   <div class="player-body">
@@ -732,8 +885,8 @@ player.innerHTML = `
     <div class="dots" id="mv-dots"></div>
   </div>
   <div class="player-foot">
-    <button data-med-toggle class="primary"><span id="mv-toggle">Pause</span> · <span class="clock" id="mv-clock"></span></button>
-    <button data-med-next>Next movement</button>
+    <button type="button" data-med-toggle class="primary"><span id="mv-toggle">Pause</span> · <span class="clock" id="mv-clock"></span></button>
+    <button type="button" data-med-next>Next movement</button>
   </div>`;
 document.body.appendChild(player);
 
@@ -756,6 +909,7 @@ function mvRender(){
   } else { box.hidden = true; box.innerHTML = ""; }
   document.getElementById("mv-dots").innerHTML =
     MED.movements.map((_,j)=>`<i class="${j===med.i?"on":(j<med.i?"done":"")}"></i>`).join("");
+  announce(`${m.name}. ${m.english}. ${Math.round(med.left/60)} minutes. ${m.instruction}`);
   mvClock();
 }
 function mvClock(){
@@ -801,8 +955,198 @@ function mvClose(){
   player.hidden = true; document.body.style.overflow = "";
 }
 
+
+/* ---------- announcements for assistive tech ---------- */
+function announce(msg){
+  const live = document.getElementById("live");
+  if (live){ live.textContent = ""; setTimeout(() => { live.textContent = msg; }, 40); }
+}
+
+/* ---------- first run: choose a canon ---------- */
+const CANON_KEY = "lamplight.canon";
+function canonChosen(){ try { return localStorage.getItem(CANON_KEY); } catch { return "protestant"; } }
+(function firstRun(){
+  const box = document.getElementById("firstrun");
+  if (!box) return;
+  if (canonChosen()){ box.hidden = true; return; }
+  box.hidden = false;
+  const first = box.querySelector(".fr-opt");
+  if (first) first.focus();
+})();
+
+/* ---------- share ---------- */
+function passageFor(ref){
+  for (const t of T.themes){
+    for (const k of ["echo","promise"]){
+      const m = t[k];
+      if (m && !m.abstained && m.reference === ref) return m;
+    }
+  }
+  if (T.word_for_today && T.word_for_today.reference === ref) return T.word_for_today;
+  if (T.prayer && T.prayer.reference === ref) return T.prayer;
+  return null;
+}
+function wrapLines(ctx, text, maxWidth){
+  const words = text.split(/\s+/); const lines = []; let line = "";
+  for (const w of words){
+    const test = line ? line + " " + w : w;
+    if (ctx.measureText(test).width > maxWidth && line){ lines.push(line); line = w; }
+    else line = test;
+  }
+  if (line) lines.push(line);
+  return lines;
+}
+function drawShare(match){
+  const c = document.getElementById("sheet-canvas");
+  const g = c.getContext("2d");
+  const css = getComputedStyle(document.documentElement);
+  const ground = css.getPropertyValue("--surface").trim() || "#F7F5EF";
+  const ink = css.getPropertyValue("--ink").trim() || "#1B1E18";
+  const soft = css.getPropertyValue("--ink-soft").trim() || "#6E7367";
+  const brass = css.getPropertyValue("--brass").trim() || "#8A6614";
+  g.fillStyle = ground; g.fillRect(0,0,c.width,c.height);
+  const grad = g.createLinearGradient(72,0,76,c.height);
+  grad.addColorStop(0,"#7A5A12"); grad.addColorStop(.35,"#D9B45A"); grad.addColorStop(1,"#7A5A12");
+  g.fillStyle = grad; g.fillRect(72,110,6,c.height-260);
+
+  g.fillStyle = soft; g.font = "500 24px 'IBM Plex Mono', monospace";
+  g.fillText("LAMPLIGHT · THE SECOND READING", 110, 92);
+
+  g.fillStyle = ink; g.font = "600 46px 'EB Garamond', Georgia, serif";
+  wrapLines(g, match.heading || "", c.width-220).slice(0,2)
+    .forEach((l,i) => g.fillText(l, 110, 190 + i*54));
+
+  g.fillStyle = brass; g.font = "500 24px 'IBM Plex Mono', monospace";
+  g.fillText((match.reference||"").toUpperCase() + " · " + T.translation, 110, 300);
+
+  g.fillStyle = ink; g.font = "400 40px 'EB Garamond', Georgia, serif";
+  const body = (match.text||"").length > 420 ? match.text.slice(0,420).replace(/\s+\S*$/,"") + "…" : match.text;
+  wrapLines(g, body, c.width-230).slice(0,12).forEach((l,i) => g.fillText(l, 110, 372 + i*52));
+
+  g.fillStyle = soft; g.font = "400 21px 'Archivo', sans-serif";
+  g.fillText("Berean Standard Bible · public domain", 110, c.height-60);
+  return c;
+}
+function openShare(ref){
+  const m = passageFor(ref);
+  if (!m) return;
+  const sheet = document.getElementById("sheet");
+  document.getElementById("sheet-sub").textContent =
+    (m.heading || "") + " — " + (m.reference || "");
+  drawShare(m);
+  sheet.dataset.ref = ref;
+  sheet.hidden = false;
+  document.body.style.overflow = "hidden";
+  document.getElementById("sheet-hint").textContent =
+    "The image is drawn on your device. On a phone, press and hold it to save.";
+  sheet.querySelector("[data-share-copy]").focus();
+  announce("Share options for " + (m.reference || ""));
+}
+function shareText(m){
+  return `${m.heading || ""}\n${m.reference || ""} (${T.translation})\n\n${m.text || ""}\n\n— Lamplight, ${T.date}`;
+}
+
+
+/* ---------- installable, offline, and a reminder that admits its limits ---------- */
+if ("serviceWorker" in navigator){
+  window.addEventListener("load", () => {
+    navigator.serviceWorker.register("sw.js").catch(() => {});
+  });
+}
+
+const REMIND_KEY = "lamplight.remind";
+function readRemind(){
+  try { return JSON.parse(localStorage.getItem(REMIND_KEY) || "null"); } catch { return null; }
+}
+function scheduleReminder(){
+  const pref = readRemind();
+  if (!pref || !pref.on) return;
+  if (!("Notification" in window) || Notification.permission !== "granted") return;
+  const [h, m] = (pref.time || "07:00").split(":").map(Number);
+  const now = new Date();
+  const next = new Date(now);
+  next.setHours(h, m, 0, 0);
+  if (next <= now) next.setDate(next.getDate() + 1);
+  const delay = next - now;
+  // setTimeout only survives while the page lives. That is the honest limit, and the
+  // Settings copy says so rather than implying a push service we do not run.
+  if (delay < 86400000){
+    clearTimeout(window.__lampTimer);
+    window.__lampTimer = setTimeout(() => {
+      navigator.serviceWorker?.ready?.then(reg =>
+        reg.active?.postMessage({type: "notify", body: "Today's reading is ready."}));
+      scheduleReminder();
+    }, delay);
+  }
+}
+scheduleReminder();
+
 /* ---------- interactions ---------- */
 document.addEventListener("click", e => {
+  const remindOn = e.target.closest("[data-remind-on]");
+  if (remindOn){
+    const time = document.getElementById("remind-time").value || "07:00";
+    const note = document.getElementById("remind-note");
+    if (!("Notification" in window)){
+      note.textContent = "This browser cannot show notifications. Set one in your phone's clock app instead.";
+      return;
+    }
+    Notification.requestPermission().then(result => {
+      if (result === "granted"){
+        try { localStorage.setItem(REMIND_KEY, JSON.stringify({on: true, time})); } catch {}
+        remindOn.textContent = "Reminder set for " + time;
+        scheduleReminder();
+        announce("Reminder set for " + time);
+      } else {
+        note.textContent = "Notifications were declined, so no reminder is set. You can set one in your phone's clock app for the same time.";
+      }
+    });
+    return;
+  }
+  const canonPick = e.target.closest("[data-canon]");
+  if (canonPick){
+    document.querySelectorAll("[data-canon]").forEach(b => b.setAttribute("aria-checked","false"));
+    canonPick.setAttribute("aria-checked","true");
+    try { localStorage.setItem(CANON_KEY, canonPick.dataset.canon); } catch {}
+    announce(canonPick.querySelector(".nm").textContent + " selected");
+    return;
+  }
+  if (e.target.closest("[data-canon-done]")){
+    try { if (!localStorage.getItem(CANON_KEY)) localStorage.setItem(CANON_KEY,"protestant"); } catch {}
+    document.getElementById("firstrun").hidden = true;
+    document.getElementById("main").focus();
+    return;
+  }
+  const shareBtn = e.target.closest("[data-share]");
+  if (shareBtn){ openShare(shareBtn.dataset.share); return; }
+  if (e.target.closest("[data-share-close]")){
+    document.getElementById("sheet").hidden = true;
+    document.body.style.overflow = "";
+    return;
+  }
+  if (e.target.closest("[data-share-copy]")){
+    const m = passageFor(document.getElementById("sheet").dataset.ref);
+    if (m && navigator.clipboard){
+      navigator.clipboard.writeText(shareText(m)).then(
+        () => announce("Passage copied"),
+        () => announce("Could not copy"));
+    }
+    return;
+  }
+  if (e.target.closest("[data-share-save]")){
+    const c = document.getElementById("sheet-canvas");
+    const hint = document.getElementById("sheet-hint");
+    try {
+      const a = document.createElement("a");
+      a.download = "lamplight-" + T.date + ".png";
+      a.href = c.toDataURL("image/png");
+      a.click();
+      hint.textContent = "If nothing downloaded, press and hold the image above to save it — some browsers block downloads from embedded pages.";
+    } catch {
+      hint.textContent = "Press and hold the image above to save it.";
+    }
+    return;
+  }
   const medOpen = e.target.closest("[data-meditate]");
   if (medOpen){ mvOpen(medOpen.dataset.meditate); return; }
   if (e.target.closest("[data-med-close]")){ mvClose(); return; }
@@ -815,7 +1159,7 @@ document.addEventListener("click", e => {
   if (quiet){
     const on = document.body.classList.toggle("quiet");
     quiet.setAttribute("aria-pressed", String(on));
-    quiet.textContent = on ? "Show the news" : "Just the hope";
+    quiet.textContent = on ? "Show the news" : "Skip the news today";
     try { localStorage.setItem("lamplight.quiet", on ? "1" : "0"); } catch {}
     return;
   }
@@ -896,7 +1240,11 @@ document.addEventListener("input", e => {
 });
 
 document.addEventListener("keydown", e => {
-  if (e.key === "Escape" && !player.hidden) mvClose();
+  if (e.key === "Escape" && !player.hidden){ mvClose(); return; }
+  const sheet = document.getElementById("sheet");
+  if (e.key === "Escape" && sheet && !sheet.hidden){
+    sheet.hidden = true; document.body.style.overflow = "";
+  }
 });
 </script>
 
