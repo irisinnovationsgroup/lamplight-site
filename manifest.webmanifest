@@ -1,0 +1,14 @@
+{
+ "name": "Lamplight — The Second Reading",
+ "short_name": "Lamplight",
+ "description": "Today's news, read by an older light.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#141611",
+ "theme_color": "#141611",
+ "icons": [
+  {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+ ]
+}
