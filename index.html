@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="Today's news, read by an older light. A daily reading that sets the world's news beside Scripture.">
 <meta name="robots" content="noindex">
-<meta name="lamplight-build" content="20260911-001355">
+<meta name="lamplight-build" content="20260911-004208">
 <meta name="theme-color" content="#141611" media="(prefers-color-scheme: dark)">
 <meta name="theme-color" content="#EDEAE1" media="(prefers-color-scheme: light)">
 <meta name="apple-mobile-web-app-capable" content="yes">
@@ -435,6 +435,11 @@ body.quiet .stories{display:none}
 .finding{font-size:13px;color:var(--ink-soft);padding:14px 0}
 
 /* season */
+.seasonline{display:flex;align-items:center;gap:9px;padding:9px 0 13px;margin-bottom:4px;
+  font-family:"IBM Plex Mono",monospace;font-size:10.5px;letter-spacing:.1em;
+  text-transform:uppercase;color:var(--ink-soft);border-bottom:1px solid var(--rule)}
+.seasonline .swatch{width:3px;height:14px;border-radius:2px;flex:none}
+.seasonline b{color:var(--brass);font-weight:500}
 .season{display:flex;align-items:center;gap:12px;padding:12px 15px;border-radius:10px;
   border:1px solid var(--rule);background:var(--surface);margin-bottom:14px}
 .season .swatch{width:4px;align-self:stretch;border-radius:3px;flex:none;min-height:38px}
@@ -457,8 +462,10 @@ body.quiet .stories{display:none}
   background:none;color:var(--ink-mid);cursor:pointer;flex:none}
 .goodbar button[aria-pressed="true"]{border-color:var(--good);color:var(--good);
   background:color-mix(in srgb,var(--good) 12%,transparent)}
-body.goodonly .themes,body.goodonly .word,body.goodonly .quiet-bar,
-body.goodonly .lect,body.goodonly #stale{display:none}
+/* Panel v2, 50 of 100: a button that hides the day contradicts the product's own
+   claim that it does not look away. The good news is a PLACE you can go, not a filter
+   that removes anything. Nothing is hidden. */
+.good:target,.good.flash{box-shadow:0 0 0 2px var(--good)}
 .good{border:1px solid var(--rule);border-left:3px solid var(--good);border-radius:10px;
   background:var(--surface);padding:16px;margin-bottom:16px}
 .good h2{font-family:"EB Garamond",Georgia,serif;font-size:24px;font-weight:500;line-height:1.15;
@@ -522,8 +529,14 @@ body.goodonly .lect,body.goodonly #stale{display:none}
 <div class="firstrun" id="firstrun" hidden role="dialog" aria-modal="true" aria-labelledby="fr-h">
   <div class="fr-card">
     <div class="eyebrow">Lamplight &middot; The Second Reading</div>
-    <h2 id="fr-h">Which Bible should this read from?</h2>
-    <p>You can change this at any time in Settings. It decides which books a passage may be drawn from &mdash; nothing else about the app changes.</p>
+    <h2 id="fr-h">Before you start</h2>
+    <p><b style="color:var(--ink)">Lamplight reads the day's news and sets it beside a passage of scripture.</b>
+      If you have deliberately stopped reading the news, this brings it back &mdash; gently, and
+      once a day, but it does bring it back. And it will not tell you what today means; it puts
+      two things beside each other and stops. If neither of those is what you want, this is
+      probably not for you, and it costs nothing to find that out now.</p>
+    <h2 style="font-size:21px;margin-top:20px">Which Bible should it read from?</h2>
+    <p>Changeable at any time in Settings. It decides only which books a passage may be drawn from.</p>
     <button type="button" class="fr-opt" data-canon="protestant" aria-checked="true" role="radio">
       <span class="radio"></span>
       <span><span class="nm">Protestant</span><span class="dt">Berean Standard Bible. Chapter audio in four narrations.</span></span>
@@ -635,25 +648,20 @@ const LECT = T.lectionary;
 const SEASON = T.season;
 const GOOD = T.good_news;
 
+// One line on Today. The season's note, the monthly devotion and the appointed
+// readings moved to Pray: panel v2 found complaints about the feature set rose from
+// 19 to 59, and what every high-scoring evaluation praised in BOTH passes is that the
+// app ends. Today is the reading; everything else belongs behind a tab.
 const seasonBlock = SEASON ? `
-  <div class="season">
+  <div class="seasonline">
     <span class="swatch" style="background:${esc(SEASON.colour)}"></span>
-    <div>
-      <div class="nm">${esc(SEASON.name)}<span class="ref" style="margin-left:8px">DAY ${SEASON.day_of_season}</span></div>
-      <div class="dt">${esc(SEASON.note)}</div>
-      ${SEASON.feast ? `<span class="feast">Today: ${esc(SEASON.feast)}</span>` : ""}
-    </div>
-  </div>
-  <div class="devotion">
-    <b>This month: ${esc(SEASON.devotion_title)}.</b> ${esc(SEASON.devotion_note)}
-    <span class="src">The traditional dedication of the month &mdash; not the Pope's annual
-      intention, which is published separately and changes each year.</span>
+    <span>${esc(SEASON.name)}<span class="ref" style="margin-left:8px">DAY ${SEASON.day_of_season}</span>${SEASON.feast ? ` &middot; <b>${esc(SEASON.feast)}</b>` : ""}</span>
   </div>` : "";
 
 const goodBar = GOOD ? `
   <div class="goodbar">
-    <span class="t">${GOOD.story_count} stories today were scored as positive in tone. You can read only those.</span>
-    <button type="button" data-goodonly aria-pressed="false">Good news only</button>
+    <span class="t">${GOOD.story_count} of today's stories were scored as positive in tone. They are further down, with their own passage &mdash; nothing else is hidden to show them.</span>
+    <button type="button" data-goodjump>Today's good news</button>
   </div>` : "";
 
 const goodBlock = GOOD ? `
@@ -700,9 +708,6 @@ const lectBlock = LECT ? `
 document.getElementById("pane-today").innerHTML = `
   ${staleBanner}
   ${seasonBlock}
-  ${goodBar}
-  ${goodBlock}
-  ${lectBlock}
   <div class="quiet-bar">
     <span class="t">Some days you can carry the passage but not the headlines. This hides the news and keeps everything else &mdash; the story that echoes it stays.</span>
     <button type="button" data-quiet aria-pressed="false">Skip the news today</button>
@@ -732,6 +737,8 @@ document.getElementById("pane-today").innerHTML = `
       </div>
     </article>`).join("")}
   </div>
+  ${goodBar}
+  ${goodBlock}
   ${T.word_for_today && !T.word_for_today.abstained ? `
   <div class="word">
     <div class="eyebrow">The word for today</div>
@@ -948,9 +955,7 @@ try {
   if (localStorage.getItem("lamplight.quiet") === "1"){
     document.body.classList.add("quiet");
   }
-  if (localStorage.getItem("lamplight.goodonly") === "1"){
-    document.body.classList.add("goodonly");
-  }
+  localStorage.removeItem("lamplight.goodonly");  // retired: it hid the day
 } catch {}
 
 function showPane(name){
@@ -964,6 +969,21 @@ function showPane(name){
 /* ---------- pray + meditate ---------- */
 const PR = T.prayer, MED = T.meditation;
 document.getElementById("pane-pray").innerHTML = `
+  ${SEASON ? `
+  <div class="season">
+    <span class="swatch" style="background:${esc(SEASON.colour)}"></span>
+    <div>
+      <div class="nm">${esc(SEASON.name)}<span class="ref" style="margin-left:8px">DAY ${SEASON.day_of_season}</span></div>
+      <div class="dt">${esc(SEASON.note)}</div>
+      ${SEASON.feast ? `<span class="feast">Today: ${esc(SEASON.feast)}</span>` : ""}
+    </div>
+  </div>
+  <div class="devotion">
+    <b>This month: ${esc(SEASON.devotion_title)}.</b> ${esc(SEASON.devotion_note)}
+    <span class="src">The traditional dedication of the month &mdash; not the Pope's annual
+      intention, which is published separately and changes each year.</span>
+  </div>` : ""}
+  ${lectBlock}
   ${PR ? `
   <div class="pray-card">
     <div class="eyebrow">A prayer for today</div>
@@ -1302,6 +1322,22 @@ async function loadSearch(){
 const STOPW = new Set("a an and are as at be but by for from had has have he her his i in is it its me my not of on or our she that the their them they this to was we were what when which who will with you your".split(" "));
 function qtok(t){ return (t.toLowerCase().match(/[a-z]{3,}/g) || []).filter(w => !STOPW.has(w)); }
 
+/* A NOTE ON WHAT WAS TRIED AND REJECTED, so nobody repeats it.
+   Free-text search here is lexical over the abstracts and gets the best passage first
+   about 5 times in 7. Two attempts to do better both measured WORSE and were dropped:
+
+   · Approximating the query vector in the browser as the mean of its words' embeddings
+     scored 4/7 — below plain lexical. A true sentence embedding scores 6/7 but needs a
+     model the browser does not have.
+   · Auto-suggesting the closest of the 46 standing readings scored 4/8 on a judgement
+     set, failing on literal phrase overlap ("I am too tired to KEEP GOING" matched
+     Addiction, whose situation reads "I KEEP GOING back to the thing"). A confident
+     "this one was matched properly" that is wrong half the time is worse than a search
+     hit already labelled as weak.
+
+   So search stays lexical and honest, and the properly-matched readings are offered as
+   a place to browse rather than as a guess. */
+
 function runSearch(query){
   const out = document.getElementById("findout");
   const terms = qtok(query);
@@ -1335,7 +1371,12 @@ function runSearch(query){
   }
   scored.sort((a,b) => b[0]-a[0]);
   const top = scored.slice(0, 12);
+  const nearBlock = `
+    <p class="finding" style="padding:4px 0 16px">Searching matches your wording, not your
+      meaning, so scroll past these if none of them fit &mdash; the ${STANDING.length} readings
+      below the results were matched properly and may get closer than a search can.</p>`;
   out.innerHTML = top.length ? `
+    ${nearBlock}`+`
     <div class="groupname">${top.length} passages matched by wording</div>
     ${top.map(([, it]) => `
       <button type="button" class="hit" data-passage="${esc(it.i)}">
@@ -1396,20 +1437,71 @@ async function openTheme(slug){
   announce(`${t.title} opened`);
 }
 
+
+/* ---------- opening a search result ---------- */
+/* search.json carries no scripture text — adding it would take the index from 1.2 MB
+   to about 6 MB for every reader, searching or not. The text ships one file per book
+   and is fetched only when a result is opened. */
+const TEXTCACHE = {};
+async function loadBook(book){
+  if (TEXTCACHE[book]) return TEXTCACHE[book];
+  try {
+    const r = await fetch(`text/${book}.json`);
+    if (!r.ok) throw new Error(r.status);
+    TEXTCACHE[book] = await r.json();
+  } catch { TEXTCACHE[book] = null; }
+  return TEXTCACHE[book];
+}
+
+async function openPassage(key){
+  const out = document.getElementById("findout");
+  const book = key.split(".")[0];
+  const meta = (SEARCH && SEARCH.items.find(x => x.i === key)) || {};
+  out.innerHTML = `<p class="finding">Opening&hellip;</p>`;
+  const shard = await loadBook(book);
+  const found = shard && shard[key];
+  if (!found){
+    out.innerHTML = `<p class="finding"><b>Could not load that passage</b> &mdash;
+      <code>text/${esc(book)}.json</code> did not load.
+      ${location.hostname === "localhost" || location.hostname === "127.0.0.1"
+        ? "Restart the dev server so it stages the text files."
+        : "It may not have deployed yet."}</p>`;
+    return;
+  }
+  out.innerHTML = `
+    <div class="setting" style="margin-bottom:18px">
+      <h3>${esc(found.h || "")}</h3>
+      <div class="note">
+        <span class="ref">${esc((found.r || "").toUpperCase())} &middot; ${esc(T.translation)}</span>
+        ${meta.s ? `<div style="margin-top:6px">${esc(meta.s)}</div>` : ""}
+      </div>
+      <div style="padding:16px">
+        <div class="passage">
+          <div class="plabel"><span class="dot"></span>${meta.p ? "A passage you can pray" : "The passage"}</div>
+          <div class="ptext open">${esc(found.t || "")}</div>
+          <div class="acts">
+            ${found.a ? `<a class="act" href="${esc(found.a)}" target="_blank" rel="noopener">Listen &#9656;</a>` : ""}
+            <button type="button" class="act" data-copy-passage>Copy</button>
+          </div>
+        </div>
+        <p class="finding" style="padding-top:14px">Found by matching your words against a
+          plain-language description of this passage. No reading has been built around it and
+          the Rule's commentary checks have not run &mdash; only the exclusion of judgment and
+          apocalyptic material, which is precomputed.</p>
+      </div>
+      <div style="padding:0 16px 16px;display:flex;gap:8px;flex-wrap:wrap">
+        <button type="button" class="big" data-find-back>Back to all readings</button>
+      </div>
+    </div>`;
+  window.__lastPassage = found;
+  window.scrollTo({top:0});
+  announce(`${found.r} opened`);
+}
+
 /* ---------- interactions ---------- */
 document.addEventListener("click", e => {
   // NOT [data-theme] — that attribute lives on <html> for light/dark, and
   // closest() would match the root element for every click on the page.
-  const goodBtn = e.target.closest("[data-goodonly]");
-  if (goodBtn){
-    const on = document.body.classList.toggle("goodonly");
-    goodBtn.setAttribute("aria-pressed", String(on));
-    goodBtn.textContent = on ? "Show the whole day" : "Good news only";
-    try { localStorage.setItem("lamplight.goodonly", on ? "1" : "0"); } catch {}
-    announce(on ? "Showing good news only" : "Showing the whole day");
-    window.scrollTo({top:0});
-    return;
-  }
   const lect = e.target.closest("[data-lect]");
   if (lect){
     const body = document.getElementById("lb" + lect.dataset.lect);
@@ -1418,6 +1510,27 @@ document.addEventListener("click", e => {
     lect.setAttribute("aria-expanded", String(!open));
     const chev = lect.querySelector(".chev");
     if (chev && chev.textContent.trim()) chev.textContent = open ? "READ +" : "CLOSE −";
+    return;
+  }
+  const hit = e.target.closest("[data-passage]");
+  if (hit){ openPassage(hit.dataset.passage); return; }
+  if (e.target.closest("[data-copy-passage]")){
+    const f = window.__lastPassage;
+    if (f && navigator.clipboard){
+      navigator.clipboard.writeText(`${f.h}\n${f.r} (${T.translation})\n\n${f.t}`)
+        .then(() => announce("Passage copied"), () => announce("Could not copy"));
+    }
+    return;
+  }
+  const goodJump = e.target.closest("[data-goodjump]");
+  if (goodJump){
+    const target = document.querySelector(".good");
+    if (target){
+      target.scrollIntoView({behavior: "smooth", block: "start"});
+      target.classList.add("flash");
+      setTimeout(() => target.classList.remove("flash"), 1600);
+      announce("Today's good news");
+    }
     return;
   }
   const themeCard = e.target.closest("[data-standing]");

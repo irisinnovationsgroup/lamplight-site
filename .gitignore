@@ -1,6 +1,8 @@
-# Only the built page, its PWA files and the search data belong here.
+# Only the built page, its PWA files and the data it loads belong here.
 # Deny everything, allow by name. Tooling in the parent directory has written stray
 # state into this checkout before, and a 1.5 MB database reached a public repo.
+# deploy.py asserts that everything it wrote is tracked, so a missing entry here
+# fails the deploy rather than silently 404-ing in the browser.
 *
 !.gitignore
 !index.html
@@ -12,3 +14,5 @@
 !search.json
 !themes/
 !themes/*.json
+!text/
+!text/*.json
