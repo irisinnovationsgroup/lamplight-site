@@ -1,31 +1,58 @@
-const CACHE = "lamplight-v1";
-const SHELL = ["./", "./index.html", "./manifest.webmanifest", "./icon.svg"];
+// Cache name carries the build stamp, so every deploy retires the previous cache.
+const BUILD = "20260910-235700";
+const CACHE = "lamplight-" + BUILD;
+const ASSETS = ["./manifest.webmanifest", "./icon.svg"];
 
 self.addEventListener("install", event => {
-  event.waitUntil(caches.open(CACHE).then(c => c.addAll(SHELL)).then(() => self.skipWaiting()));
+  event.waitUntil(
+    caches.open(CACHE).then(c => c.addAll(ASSETS)).then(() => self.skipWaiting()));
 });
 
 self.addEventListener("activate", event => {
   event.waitUntil(
     caches.keys()
       .then(keys => Promise.all(keys.filter(k => k !== CACHE).map(k => caches.delete(k))))
-      .then(() => self.clients.claim()));
+      .then(() => self.clients.claim())
+      .then(() => self.clients.matchAll({type: "window"}))
+      .then(list => list.forEach(c => c.postMessage({type: "updated", build: BUILD}))));
 });
 
-// Stale-while-revalidate. The reading opens instantly from cache even with no signal,
-// and the next open shows whatever the morning job published.
+// NETWORK FIRST for the page and its data. The previous version answered
+// `cached || fresh`, which pinned every returning reader one build behind - they kept
+// getting yesterday's index.html while the network copy only refreshed the cache for
+// next time. For a product whose entire point is TODAY's reading, stale-first is the
+// wrong default. Cache is the offline fallback, not the primary source.
+const NETWORK_FIRST = /\/$|\.html$|\.json$/;
+
 self.addEventListener("fetch", event => {
   const request = event.request;
-  if (request.method !== "GET" || new URL(request.url).origin !== self.location.origin) return;
-  event.respondWith(
-    caches.open(CACHE).then(cache =>
-      cache.match(request).then(cached => {
-        const fresh = fetch(request).then(response => {
-          if (response && response.status === 200) cache.put(request, response.clone());
+  if (request.method !== "GET") return;
+  const url = new URL(request.url);
+  if (url.origin !== self.location.origin) return;
+
+  if (request.mode === "navigate" || NETWORK_FIRST.test(url.pathname)) {
+    event.respondWith(
+      fetch(request)
+        .then(response => {
+          if (response && response.status === 200) {
+            const copy = response.clone();
+            caches.open(CACHE).then(c => c.put(request, copy));
+          }
           return response;
-        }).catch(() => cached);
-        return cached || fresh;
-      })));
+        })
+        .catch(() => caches.match(request).then(
+          hit => hit || caches.match("./index.html"))));
+    return;
+  }
+
+  event.respondWith(
+    caches.match(request).then(hit => hit || fetch(request).then(response => {
+      if (response && response.status === 200) {
+        const copy = response.clone();
+        caches.open(CACHE).then(c => c.put(request, copy));
+      }
+      return response;
+    })));
 });
 
 self.addEventListener("message", event => {
@@ -38,6 +65,7 @@ self.addEventListener("message", event => {
       requireInteraction: false,
     });
   }
+  if (event.data && event.data.type === "skipWaiting") self.skipWaiting();
 });
 
 self.addEventListener("notificationclick", event => {
