@@ -1,0 +1,131 @@
+{
+ "slug": "something-i-did",
+ "title": "Something I did",
+ "register": "repentance",
+ "situation": "I did something I am ashamed of and I cannot undo it.",
+ "echo": {
+  "slot": "echo",
+  "reference": "Luke 7:36-50",
+  "heading": "A Sinful Woman Anoints Jesus",
+  "heading_source": "translation",
+  "book_id": "LUK",
+  "text": "Then one of the Pharisees invited Jesus to eat with him, and He entered the Pharisee’s house and reclined at the table. When a sinful woman from that town learned that Jesus was dining there, she brought an alabaster jar of perfume. As she stood behind Him at His feet weeping, she began to wet His feet with her tears and wipe them with her hair. Then she kissed His feet and anointed them with the perfume. When the Pharisee who had invited Jesus saw this, he said to himself, “If this man were a prophet, He would know who this is and what kind of woman is touching Him—for she is a sinner!” But Jesus answered him, “Simon, I have something to tell you.” “Tell me, Teacher,” he said. “Two men were debtors to a certain moneylender. One owed him five hundred denarii, and the other fifty. When they were unable to repay him, he forgave both of them. Which one, then, will love him more?” “I suppose the one who was forgiven more,” Simon replied. “You have judged correctly,” Jesus said. And turning toward the woman, He said to Simon, “Do you see this woman? When I entered your house, you did not give Me water for My feet, but she wet My feet with her tears and wiped them with her hair. You did not greet Me with a kiss, but she has not stopped kissing My feet since I arrived. You did not anoint My head with oil, but she has anointed My feet with perfume. Therefore I tell you, her many sins have been forgiven, for she has loved much. But he who has been forgiven little loves little.” Then Jesus said to her, “Your sins are forgiven.” But those at the table began to say to themselves, “Who is this who even forgives sins?” And Jesus told the woman, “Your faith has saved you; go in peace.”",
+  "word_count": 323,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/LUK/7/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_42_Luk_007_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/LUK/7/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/LUK/7/audio/souer.mp3"
+  },
+  "situation": "A person deeply ashamed of their past mistakes seeks out someone they believe can offer forgiveness and finds acceptance instead of judgment.",
+  "register": "repentance",
+  "score": 0.6618,
+  "margin": 0.0392,
+  "context": "A woman known for her sins visits the home of Simon the Pharisee to anoint Jesus' feet with perfume while weeping, prompting Simon to judge her character internally. Jesus responds by illustrating that those who recognize the magnitude of their forgiveness often demonstrate greater love and gratitude than those who feel they have little need for it.",
+  "connection": "This narrative may echo the experience of someone grappling with deep shame over an irreversible mistake, where the weight of past actions feels overwhelming. It suggests a possibility that acknowledging one's own vulnerability and need for grace can sometimes open a path to peace, even when the specific error cannot be undone.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'repentance' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:LUK.7.36-50"
+ },
+ "promise": {
+  "slot": "promise",
+  "reference": "Isaiah 57:14-21",
+  "heading": "Healing for the Repentant",
+  "heading_source": "translation",
+  "book_id": "ISA",
+  "text": "And it will be said, “Build it up, build it up, prepare the way, take every obstacle out of the way of My people.” For thus says the One who is high and lifted up, who inhabits eternity, whose name is Holy: “I dwell in a high and holy place, and with the oppressed and humble in spirit, to restore the spirit of the lowly and revive the heart of the contrite. For I will not accuse you forever, nor will I always be angry; for then the spirit of man would grow weak before Me— the breath of life I have made. I was enraged by his sinful greed, so I struck him and hid My face in anger; yet he kept turning back to the desires of his heart. I have seen his ways, but I will heal him; I will guide him and restore comfort to him and his mourners, bringing praise to their lips. Peace, peace to those far and near,” says the LORD, “and I will heal them.” But the wicked are like the storm-tossed sea, for it cannot be still, and its waves churn up mire and muck. “There is no peace,” says my God, “for the wicked.”",
+  "word_count": 204,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/ISA/57/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_23_Isa_057_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/ISA/57/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/ISA/57/audio/souer.mp3"
+  },
+  "situation": "A person who has made mistakes and feels broken seeks forgiveness and restoration after realizing their past errors.",
+  "register": "repentance",
+  "score": 0.7388,
+  "margin": 0.0024,
+  "context": "The prophet addresses the exiled people of Israel, who are struggling with spiritual alienation and the consequences of their past idolatry. God promises to clear the path for their return and offers healing and peace specifically to those who are humble and contrite in spirit.",
+  "connection": "This text may echo the experience of someone seeking relief from the heavy burden of regret over irreversible actions. It suggests that acknowledging one's brokenness can be a starting point for internal restoration, even while the memory of the loss remains.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'repentance' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:ISA.57.14-21"
+ },
+ "prayer": {
+  "reference": "Psalms 51:1-19",
+  "heading": "Create in Me a Clean Heart, O God",
+  "heading_source": "translation",
+  "text": "Have mercy on me, O God, according to Your loving devotion; according to Your great compassion, blot out my transgressions. Wash me clean of my iniquity and cleanse me from my sin. For I know my transgressions, and my sin is always before me. Against You, You only, have I sinned and done what is evil in Your sight, so that You may be proved right when You speak and blameless when You judge. Surely I was brought forth in iniquity; I was sinful when my mother conceived me. Surely You desire truth in the inmost being; You teach me wisdom in the inmost place. Purify me with hyssop, and I will be clean; wash me, and I will be whiter than snow. Let me hear joy and gladness; let the bones You have crushed rejoice. Hide Your face from my sins and blot out all my iniquities. Create in me a clean heart, O God, and renew a right spirit within me. Cast me not away from Your presence; take not Your Holy Spirit from me. Restore to me the joy of Your salvation, and sustain me with a willing spirit. Then I will teach transgressors Your ways, and sinners will return to You. Deliver me from bloodguilt, O God, the God of my salvation, and my tongue will sing of Your righteousness. O Lord, open my lips, and my mouth will declare Your praise. For You do not delight in sacrifice, or I would bring it; You take no pleasure in burnt offerings. The sacrifices of God are a broken spirit; a broken and a contrite heart, O God, You will not despise. In Your good pleasure, cause Zion to prosper; build up the walls of Jerusalem. Then You will delight in righteous sacrifices, in whole burnt offerings; then bulls will be offered on Your altar.",
+  "word_count": 308,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/PSA/51/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_19_Psa_051_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/PSA/51/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/PSA/51/audio/souer.mp3"
+  },
+  "score": 0.7195
+ },
+ "built": "2026-09-11T03:05:34Z"
+}

@@ -1,0 +1,131 @@
+{
+ "slug": "a-new-child",
+ "title": "A new child",
+ "register": "joy",
+ "situation": "A baby has arrived and I am overwhelmed by love and by fear at the same time.",
+ "echo": {
+  "slot": "echo",
+  "reference": "Genesis 38:27-30",
+  "heading": "The Birth of Perez and Zerah",
+  "heading_source": "translation",
+  "book_id": "GEN",
+  "text": "When the time came for Tamar to give birth, there were twins in her womb. And as she was giving birth, one of them put out his hand; so the midwife took a scarlet thread and tied it around his wrist. “This one came out first,” she announced. But when he pulled his hand back and his brother came out, she said, “You have broken out first!” So he was named Perez. Then his brother came out with the scarlet thread around his wrist, and he was named Zerah.",
+  "word_count": 89,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/GEN/38/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_01_Gen_038_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/GEN/38/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/GEN/38/audio/souer.mp3"
+  },
+  "situation": "A person experiences anxiety and uncertainty during a critical moment of delivery, relying on external signs to determine which child arrives first amidst a complex family dynamic.",
+  "register": "fear",
+  "score": 0.7146,
+  "margin": 0.0074,
+  "context": "Tamar gives birth to twins in Canaan; a midwife marks one infant's wrist with a scarlet thread as he initially extends his hand, but the other brother emerges first, leading to the naming of Perez and Zerah.",
+  "connection": "The scene may echo the sudden, unpredictable shifts that accompany new life, where initial expectations are overturned by reality. It resembles the complex mix of awe and anxiety felt when a future arrives in ways that defy prior preparation.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'joy' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:GEN.38.27-30"
+ },
+ "promise": {
+  "slot": "promise",
+  "reference": "Genesis 30:17-21",
+  "heading": "Issachar, Zebulun, and Dinah",
+  "heading_source": "translation",
+  "book_id": "GEN",
+  "text": "And God listened to Leah, and she conceived and bore a fifth son to Jacob. Then Leah said, “God has rewarded me for giving my maidservant to my husband.” So she named him Issachar. Again Leah conceived and bore a sixth son to Jacob. “God has given me a good gift,” she said. “This time my husband will honor me, because I have borne him six sons.” And she named him Zebulun. After that, Leah gave birth to a daughter and named her Dinah.",
+  "word_count": 84,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/GEN/30/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_01_Gen_030_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/GEN/30/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/GEN/30/audio/souer.mp3"
+  },
+  "situation": "A woman experiences relief and hope as she bears children after a long period of infertility, interpreting each birth as a sign that her husband will finally value her.",
+  "register": "joy",
+  "score": 0.719,
+  "margin": 0.0026,
+  "context": "Leah, who had previously been unloved by her husband Jacob, conceives and bears two sons, Issachar and Zebulun, followed by a daughter named Dinah, interpreting these births as divine reward and a path to gaining honor within her polygamous marriage.",
+  "connection": "This narrative may echo the complex mix of relief and anxiety often felt when welcoming a new life into an existing family dynamic. It resembles the human experience of seeking validation and stability through new beginnings while remaining aware of the uncertainties that accompany such profound changes.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'joy' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:GEN.30.17-21"
+ },
+ "prayer": {
+  "reference": "1 Samuel 1:9-18",
+  "heading": "Hannah Prays for a Son",
+  "heading_source": "translation",
+  "text": "So after they had finished eating and drinking in Shiloh, Hannah stood up. Now Eli the priest was sitting on a chair by the doorpost of the temple of the LORD. In her bitter distress, Hannah prayed to the LORD and wept with many tears. And she made a vow, saying, “O LORD of Hosts, if only You will look upon the affliction of Your maidservant and remember me, not forgetting Your maidservant but giving her a son, then I will dedicate him to the LORD all the days of his life, and no razor shall ever touch his head.” As Hannah kept on praying before the LORD, Eli watched her mouth. Hannah was praying in her heart, and though her lips were moving, her voice could not be heard. So Eli thought she was drunk and said to her, “How long will you be drunk? Put away your wine!” “No, my lord,” Hannah replied. “I am a woman troubled in spirit. I have not had any wine or strong drink, but I have poured out my soul before the LORD. Do not take your servant for a wicked woman, for all this time I have been praying out of the depth of my anguish and grief.” “Go in peace,” Eli replied, “and may the God of Israel grant the petition you have asked of Him.” “May your maidservant find favor with you,” said Hannah. Then she went on her way, and she began to eat, and her face was no longer downcast.",
+  "word_count": 253,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/1SA/1/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_09_1Sa_001_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/1SA/1/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/1SA/1/audio/souer.mp3"
+  },
+  "score": 0.689
+ },
+ "built": "2026-09-11T03:06:05Z"
+}

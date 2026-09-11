@@ -1,0 +1,131 @@
+{
+ "slug": "loneliness",
+ "title": "Loneliness",
+ "register": "waiting",
+ "situation": "I go through most days without anyone really knowing how I am.",
+ "echo": {
+  "slot": "echo",
+  "reference": "Isaiah 53:1-8",
+  "heading": "The Suffering Servant",
+  "heading_source": "translation",
+  "book_id": "ISA",
+  "text": "Who has believed our message? And to whom has the arm of the LORD been revealed? He grew up before Him like a tender shoot, and like a root out of dry ground. He had no stately form or majesty to attract us, no beauty that we should desire Him. He was despised and rejected by men, a man of sorrows, acquainted with grief. Like one from whom men hide their faces, He was despised, and we esteemed Him not. Surely He took up our infirmities and carried our sorrows; yet we considered Him stricken, struck down by God, and afflicted. But He was pierced for our transgressions, He was crushed for our iniquities; the punishment that brought us peace was upon Him, and by His stripes we are healed. We all like sheep have gone astray, each one has turned to his own way; and the LORD has laid upon Him the iniquity of us all. He was oppressed and afflicted, yet He did not open His mouth. He was led like a lamb to the slaughter, and as a sheep before her shearers is silent, so He did not open His mouth. By oppression and judgment He was taken away, and who can recount His descendants? For He was cut off from the land of the living; He was stricken for the transgression of My people.",
+  "word_count": 228,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/ISA/53/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_23_Isa_053_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/ISA/53/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/ISA/53/audio/souer.mp3"
+  },
+  "situation": "People feel isolated and misunderstood by those around them, suffering silently while bearing burdens that others wrongly attribute to their own faults.",
+  "register": "grief",
+  "score": 0.6979,
+  "margin": 0.0095,
+  "context": "The text describes a figure who is socially isolated and despised by his community, growing up in obscurity without status or beauty to command respect. He suffers silently under oppression and affliction, bearing the burdens of others while being rejected and hidden from by those around him.",
+  "connection": "This narrative may echo the profound isolation felt when one's internal struggles remain invisible to a world that does not seek to understand them. It resembles the experience of carrying heavy grief alone, where the pain is real yet unrecognized by observers who look away.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'waiting' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:ISA.53.1-8"
+ },
+ "promise": {
+  "slot": "promise",
+  "reference": "Psalms 25:1-22",
+  "heading": "To You I Lift Up My Soul",
+  "heading_source": "translation",
+  "book_id": "PSA",
+  "text": "To You, O LORD, I lift up my soul; in You, my God, I trust. Do not let me be put to shame; do not let my enemies exult over me. Surely none who wait for You will be put to shame; but those who engage in treachery without cause will be disgraced. Show me Your ways, O LORD; teach me Your paths. Guide me in Your truth and teach me, for You are the God of my salvation; all day long I wait for You. Remember, O LORD, Your compassion and loving devotion, for they are from age to age. Remember not the sins of my youth, nor my rebellious acts; remember me according to Your loving devotion, because of Your goodness, O LORD. Good and upright is the LORD; therefore He shows sinners the way. He guides the humble in what is right and teaches them His way. All the LORD’s ways are loving and faithful to those who keep His covenant and His decrees. For the sake of Your name, O LORD, forgive my iniquity, for it is great. Who is the man who fears the LORD? He will instruct him in the path chosen for him. His soul will dwell in prosperity, and his descendants will inherit the land. The LORD confides in those who fear Him, and reveals His covenant to them. My eyes are always on the LORD, for He will free my feet from the mesh. Turn to me and be gracious, for I am lonely and afflicted. The troubles of my heart increase; free me from my distress. Consider my affliction and trouble, and take away all my sins. Consider my enemies, for they are many, and they hate me with vicious hatred. Guard my soul and deliver me; let me not be put to shame, for I take refuge in You. May integrity and uprightness preserve me, because I wait for You. Redeem Israel, O God, from all its distress.",
+  "word_count": 329,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/PSA/25/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_19_Psa_025_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/PSA/25/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/PSA/25/audio/souer.mp3"
+  },
+  "situation": "A person feels overwhelmed by distress, loneliness, and numerous enemies while seeking guidance and relief from their troubles.",
+  "register": "waiting",
+  "score": 0.7161,
+  "margin": 0.0077,
+  "context": "The psalmist, likely David, expresses deep personal distress and isolation while facing numerous enemies who hate him without cause. He pleads for God's mercy and deliverance from his affliction, acknowledging his loneliness and the weight of his sins.",
+  "connection": "This ancient cry may echo the quiet desperation of someone whose internal struggles remain invisible to those around them. The text resembles the experience of seeking solace in faith when human connection feels insufficient or absent.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'waiting' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:PSA.25.1-22"
+ },
+ "prayer": {
+  "reference": "Psalms 130:1-8",
+  "heading": "Out of the Depths",
+  "heading_source": "translation",
+  "text": "Out of the depths I cry to You, O LORD! O Lord, hear my voice; let Your ears be attentive to my plea for mercy. If You, O LORD, kept track of iniquities, then who, O Lord, could stand? But with You there is forgiveness, so that You may be feared. I wait for the LORD; my soul does wait, and in His word I put my hope. My soul waits for the Lord more than watchmen wait for the morning— more than watchmen wait for the morning. O Israel, put your hope in the LORD, for with the LORD is loving devotion, and with Him is redemption in abundance. And He will redeem Israel from all iniquity.",
+  "word_count": 118,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/PSA/130/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_19_Psa_130_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/PSA/130/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/PSA/130/audio/souer.mp3"
+  },
+  "score": 0.7036
+ },
+ "built": "2026-09-11T03:04:57Z"
+}

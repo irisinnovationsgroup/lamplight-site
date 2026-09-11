@@ -1,0 +1,131 @@
+{
+ "slug": "a-diagnosis",
+ "title": "A diagnosis",
+ "register": "fear",
+ "situation": "I have been told something about my body that I am frightened of.",
+ "echo": {
+  "slot": "echo",
+  "reference": "Matthew 17:1-13",
+  "heading": "The Transfiguration",
+  "heading_source": "translation",
+  "book_id": "MAT",
+  "text": "After six days Jesus took with Him Peter, James, and John the brother of James, and led them up a high mountain by themselves. There He was transfigured before them. His face shone like the sun, and His clothes became as white as the light. Suddenly Moses and Elijah appeared before them, talking with Jesus. Peter said to Jesus, “Lord, it is good for us to be here. If You wish, I will put up three shelters —one for You, one for Moses, and one for Elijah.” While Peter was still speaking, a bright cloud enveloped them, and a voice from the cloud said, “This is My beloved Son, in whom I am well pleased. Listen to Him!” When the disciples heard this, they fell facedown in terror. Then Jesus came over and touched them. “Get up,” He said. “Do not be afraid.” And when they looked up, they saw no one except Jesus. As they were coming down the mountain, Jesus commanded them, “Do not tell anyone about this vision until the Son of Man has been raised from the dead.” The disciples asked Him, “Why then do the scribes say that Elijah must come first?” Jesus replied, “Elijah does indeed come, and he will restore all things. But I tell you that Elijah has already come, and they did not recognize him, but have done to him whatever they wished. In the same way, the Son of Man will suffer at their hands.” Then the disciples understood that He was speaking to them about John the Baptist.",
+  "word_count": 259,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/MAT/17/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_40_Mat_017_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/MAT/17/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/MAT/17/audio/souer.mp3"
+  },
+  "situation": "Witnessing an overwhelming and terrifying display of power that leaves one shaken and fearful, yet receiving gentle reassurance to stand firm.",
+  "register": "fear",
+  "score": 0.6657,
+  "margin": 0.0275,
+  "context": "Jesus leads Peter, James, and John up a high mountain where His appearance is transformed and Moses and Elijah appear. The disciples are overcome by terror at the divine manifestation until Jesus touches them and tells them not to be afraid.",
+  "connection": "The sudden shift from overwhelming awe to fear may resemble the disorientation one feels when receiving frightening news about one's health. Jesus' gentle touch and command to 'not be afraid' offers a model of comfort that resembles the human need for reassurance amidst uncertainty.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'fear' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:MAT.17.1-13"
+ },
+ "promise": {
+  "slot": "promise",
+  "reference": "John 14:27-31",
+  "heading": "Peace I Leave with You",
+  "heading_source": "translation",
+  "book_id": "JHN",
+  "text": "Peace I leave with you; My peace I give to you. I do not give to you as the world gives. Do not let your hearts be troubled; do not be afraid. You heard Me say, ‘I am going away, and I am coming back to you.’ If you loved Me, you would rejoice that I am going to the Father, because the Father is greater than I. And now I have told you before it happens, so that when it does happen, you will believe. I will not speak with you much longer, for the prince of this world is coming, and he has no claim on Me. But I do exactly what the Father has commanded Me, so that the world may know that I love the Father. Get up! Let us go on from here.",
+  "word_count": 138,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/JHN/14/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_43_Jhn_014_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/JHN/14/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/JHN/14/audio/souer.mp3"
+  },
+  "situation": "People facing imminent loss and external threats feel anxious and fearful, needing reassurance to remain calm and trust in a higher purpose despite their uncertainty.",
+  "register": "fear",
+  "score": 0.6874,
+  "margin": 0.0093,
+  "context": "During the Last Supper in Jerusalem, Jesus speaks to his disciples, who are anxious and troubled by his prediction that he will soon leave them through death and resurrection.",
+  "connection": "The promise of a peace distinct from worldly circumstances may echo the need for inner steadiness when facing frightening medical news. This text offers a reminder that one is not abandoned in fear, even while awaiting uncertain outcomes.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'fear' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:JHN.14.27-31"
+ },
+ "prayer": {
+  "reference": "Psalms 86:1-17",
+  "heading": "Tried but Trusting",
+  "heading_source": "translation",
+  "text": "Incline Your ear, O LORD, and answer me, for I am poor and needy. Preserve my soul, for I am godly. You are my God; save Your servant who trusts in You. Be merciful to me, O Lord, for I call to You all day long. Bring joy to Your servant, for to You, O Lord, I lift up my soul. For You, O Lord, are kind and forgiving, rich in loving devotion to all who call on You. Hear my prayer, O LORD, and attend to my plea for mercy. In the day of my distress I call on You, because You answer me. O Lord, there is none like You among the gods, nor any works like Yours. All the nations You have made will come and bow before You, O Lord, and they will glorify Your name. For You are great and perform wonders; You alone are God. Teach me Your way, O LORD, that I may walk in Your truth. Give me an undivided heart, that I may fear Your name. I will praise You, O Lord my God, with all my heart; I will glorify Your name forever. For great is Your loving devotion to me; You have delivered me from the depths of Sheol. The arrogant rise against me, O God; a band of ruthless men seeks my life; they have no regard for You. But You, O Lord, are a compassionate and gracious God, slow to anger, abounding in loving devotion and faithfulness. Turn to me and have mercy; grant Your strength to Your servant; save the son of Your maidservant. Show me a sign of Your goodness, that my enemies may see and be ashamed; for You, O LORD, have helped me and comforted me.",
+  "word_count": 293,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/PSA/86/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_19_Psa_086_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/PSA/86/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/PSA/86/audio/souer.mp3"
+  },
+  "score": 0.6734
+ },
+ "built": "2026-09-11T03:04:24Z"
+}

@@ -1,0 +1,131 @@
+{
+ "slug": "waiting-for-something-that-may-not-come",
+ "title": "Waiting for something that may not come",
+ "register": "waiting",
+ "situation": "I have been hoping for the same thing for years with no sign of it.",
+ "echo": {
+  "slot": "echo",
+  "reference": "Luke 2:25-35",
+  "heading": "The Prophecy of Simeon",
+  "heading_source": "translation",
+  "book_id": "LUK",
+  "text": "Now there was a man in Jerusalem named Simeon, who was righteous and devout. He was waiting for the consolation of Israel, and the Holy Spirit was upon him. The Holy Spirit had revealed to him that he would not see death before he had seen the Lord’s Christ. Led by the Spirit, he went into the temple courts. And when the parents brought in the child Jesus to do for Him what was customary under the Law, Simeon took Him in his arms and blessed God, saying: “Sovereign Lord, as You have promised, You now dismiss Your servant in peace. For my eyes have seen Your salvation, which You have prepared in the sight of all people, a light for revelation to the Gentiles, and for glory to Your people Israel.” The Child’s father and mother were amazed at what was spoken about Him. Then Simeon blessed them and said to His mother Mary: “Behold, this Child is appointed to cause the rise and fall of many in Israel, and to be a sign that will be spoken against, so that the thoughts of many hearts will be revealed— and a sword will pierce your soul as well.”",
+  "word_count": 199,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/LUK/2/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_42_Luk_002_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/LUK/2/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/LUK/2/audio/souer.mp3"
+  },
+  "situation": "A person who has lived with patience and hope for a long time finally witnesses the fulfillment of their deepest longing, bringing both profound relief and a foreboding sense of future pain to those close to them.",
+  "register": "waiting",
+  "score": 0.6114,
+  "margin": 0.015,
+  "context": "In the Jerusalem temple, the devout man Simeon encounters the infant Jesus, fulfilling a divine promise that he would see the Messiah before his death. He praises God for this salvation while simultaneously prophesying to Mary that her son will cause division and bring deep sorrow to her heart.",
+  "connection": "This narrative may echo the complex emotions of those who have waited years for a hoped-for outcome, where its arrival brings both relief and the sobering realization of future hardship. It resembles the experience of holding onto hope while acknowledging that fulfillment often comes with unexpected grief or uncertainty.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'waiting' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:LUK.2.25-35"
+ },
+ "promise": {
+  "slot": "promise",
+  "reference": "Hebrews 6:13-20",
+  "heading": "God’s Unchangeable Promise",
+  "heading_source": "translation",
+  "book_id": "HEB",
+  "text": "When God made His promise to Abraham, since He had no one greater to swear by, He swore by Himself, saying, “I will surely bless you and multiply your descendants.” And so Abraham, after waiting patiently, obtained the promise. Men swear by someone greater than themselves, and their oath serves as a confirmation to end all argument. So when God wanted to make the unchanging nature of His purpose very clear to the heirs of the promise, He guaranteed it with an oath. Thus by two unchangeable things in which it is impossible for God to lie, we who have fled to take hold of the hope set before us may be strongly encouraged. We have this hope as an anchor for the soul, firm and secure. It enters the inner sanctuary behind the curtain, where Jesus our forerunner has entered on our behalf. He has become a high priest forever in the order of Melchizedek.",
+  "word_count": 156,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/HEB/6/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_58_Heb_006_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/HEB/6/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/HEB/6/audio/souer.mp3"
+  },
+  "situation": "People who have waited patiently for a promised outcome find comfort in knowing that the guarantee of that promise is absolute and unbreakable.",
+  "register": "waiting",
+  "score": 0.7121,
+  "margin": 0.0371,
+  "context": "The author addresses early Christian believers who are enduring prolonged hardship and spiritual fatigue while awaiting the fulfillment of God's promises to Abraham. To encourage their perseverance, the text highlights that God confirmed His unchanging purpose with an oath, providing a secure anchor for their souls amidst uncertainty.",
+  "connection": "This narrative may echo the experience of those who have waited years for a specific outcome without visible change, finding comfort in the idea that hope can remain firm even when circumstances do not shift. It suggests that enduring such long waits does not negate the value of holding onto a secure foundation, even if the desired result remains unseen.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'waiting' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:HEB.6.13-20"
+ },
+ "prayer": {
+  "reference": "Psalms 130:1-8",
+  "heading": "Out of the Depths",
+  "heading_source": "translation",
+  "text": "Out of the depths I cry to You, O LORD! O Lord, hear my voice; let Your ears be attentive to my plea for mercy. If You, O LORD, kept track of iniquities, then who, O Lord, could stand? But with You there is forgiveness, so that You may be feared. I wait for the LORD; my soul does wait, and in His word I put my hope. My soul waits for the Lord more than watchmen wait for the morning— more than watchmen wait for the morning. O Israel, put your hope in the LORD, for with the LORD is loving devotion, and with Him is redemption in abundance. And He will redeem Israel from all iniquity.",
+  "word_count": 118,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/PSA/130/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_19_Psa_130_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/PSA/130/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/PSA/130/audio/souer.mp3"
+  },
+  "score": 0.655
+ },
+ "built": "2026-09-11T03:05:50Z"
+}

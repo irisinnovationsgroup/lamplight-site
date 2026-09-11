@@ -1,0 +1,131 @@
+{
+ "slug": "gratitude",
+ "title": "Gratitude",
+ "register": "praise",
+ "situation": "Things are well and I want to say so to someone.",
+ "echo": {
+  "slot": "echo",
+  "reference": "1 Thessalonians 3:6-13",
+  "heading": "Timothy’s Encouraging Report",
+  "heading_source": "translation",
+  "book_id": "1TH",
+  "text": "But just now, Timothy has returned from his visit with the good news about your faith, your love, and the fond memories you have preserved, longing to see us just as we long to see you. For this reason, brothers, in all our distress and persecution, we have been reassured about you, because of your faith. For now we can go on living, as long as you are standing firm in the Lord. How can we adequately thank God for you in return for our great joy over you in His presence? Night and day we pray most earnestly that we may see you face to face and supply what is lacking in your faith. Now may our God and Father Himself, and our Lord Jesus, direct our way to you. And may the Lord cause you to increase and overflow with love for one another and for everyone else, just as our love for you overflows, so that He may establish your hearts in blamelessness and holiness before our God and Father at the coming of our Lord Jesus with all His saints. Amen.",
+  "word_count": 185,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/1TH/3/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_52_1Th_003_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/1TH/3/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/1TH/3/audio/souer.mp3"
+  },
+  "situation": "A person feels supported and uplifted by positive news from a trusted friend during a difficult time, while also caring deeply about that friend's well-being and hoping for a future reunion to offer guidance and encouragement.",
+  "register": "endurance",
+  "score": 0.6512,
+  "margin": 0.0142,
+  "context": "Paul writes to the believers in Thessalonica from a place of distress and persecution, expressing deep relief that Timothy has returned with news of their enduring faith and love. He thanks God for their spiritual stability and prays for their continued growth in holiness as he longs to visit them again.",
+  "connection": "This passage may echo the sentiment of reaching out to someone to express gratitude for their well-being during a time when personal circumstances are challenging. It resembles the human desire to acknowledge another's strength and to offer prayers or good wishes for their continued peace and growth.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'praise' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:1TH.3.6-13"
+ },
+ "promise": {
+  "slot": "promise",
+  "reference": "Psalms 67:1-7",
+  "heading": "May God Cause His Face to Shine upon Us",
+  "heading_source": "translation",
+  "book_id": "PSA",
+  "text": "May God be gracious to us and bless us, and cause His face to shine upon us, Selah that Your ways may be known on earth, Your salvation among all nations. Let the peoples praise You, O God; let all the peoples praise You. Let the nations be glad and sing for joy, for You judge the peoples justly and lead the nations of the earth. Selah Let the peoples praise You, O God; let all the peoples praise You. The earth has yielded its harvest; God, our God, blesses us. God blesses us, that all the ends of the earth shall fear Him.",
+  "word_count": 104,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/PSA/67/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_19_Psa_067_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/PSA/67/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/PSA/67/audio/souer.mp3"
+  },
+  "situation": "People are asking for help and hope so that their positive experiences might bring comfort and recognition to others around them.",
+  "register": "praise",
+  "score": 0.7262,
+  "margin": 0.0212,
+  "context": "The psalmist addresses God in the context of communal worship, likely within the temple or assembly, celebrating divine favor and agricultural abundance as evidence of God's blessing upon the nation.",
+  "connection": "This ancient expression of thanksgiving for provision may echo a contemporary sense of relief and hope, offering a language to articulate gratitude when circumstances feel stable and secure.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'praise' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:PSA.67.1-7"
+ },
+ "prayer": {
+  "reference": "Psalms 138:1-8",
+  "heading": "A Thankful Heart",
+  "heading_source": "translation",
+  "text": "I give You thanks with all my heart; before the gods I sing Your praises. I bow down toward Your holy temple and give thanks to Your name for Your loving devotion and Your faithfulness; You have exalted Your name and Your word above all else. On the day I called, You answered me; You emboldened me and strengthened my soul. All the kings of the earth will give You thanks, O LORD, when they hear the words of Your mouth. They will sing of the ways of the LORD, for the glory of the LORD is great. Though the LORD is on high, He attends to the lowly; but the proud He knows from afar. If I walk in the midst of trouble, You preserve me from the anger of my foes; You extend Your hand, and Your right hand saves me. The LORD will fulfill His purpose for me. O LORD, Your loving devotion endures forever— do not abandon the works of Your hands.",
+  "word_count": 166,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/PSA/138/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_19_Psa_138_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/PSA/138/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/PSA/138/audio/souer.mp3"
+  },
+  "score": 0.6934
+ },
+ "built": "2026-09-11T03:06:19Z"
+}

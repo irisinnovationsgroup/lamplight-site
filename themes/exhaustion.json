@@ -1,0 +1,131 @@
+{
+ "slug": "exhaustion",
+ "title": "Exhaustion",
+ "register": "endurance",
+ "situation": "I am not in crisis. I am just very tired and have been for a long time.",
+ "echo": {
+  "slot": "echo",
+  "reference": "Luke 22:39-46",
+  "heading": "Jesus Prays on the Mount of Olives",
+  "heading_source": "translation",
+  "book_id": "LUK",
+  "text": "Jesus went out as usual to the Mount of Olives, and the disciples followed Him. When He came to the place, He told them, “Pray that you will not enter into temptation.” And He withdrew about a stone’s throw beyond them, where He knelt down and prayed, “Father, if You are willing, take this cup from Me. Yet not My will, but Yours be done.” Then an angel from heaven appeared to Him and strengthened Him. And in His anguish, He prayed more earnestly, and His sweat became like drops of blood falling to the ground. When Jesus rose from prayer and returned to the disciples, He found them asleep, exhausted from sorrow. “Why are you sleeping?” He asked. “Get up and pray so that you will not enter into temptation.”",
+  "word_count": 131,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/LUK/22/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_42_Luk_022_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/LUK/22/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/LUK/22/audio/souer.mp3"
+  },
+  "situation": "A person faces overwhelming distress and exhaustion while seeking strength to endure an imminent crisis, urging others to stay alert despite their own fatigue.",
+  "register": "fear",
+  "score": 0.7288,
+  "margin": 0.0262,
+  "context": "On the Mount of Olives, Jesus withdraws to pray in deep anguish before his arrest, while his disciples fall asleep nearby due to exhaustion and sorrow.",
+  "connection": "This scene may resemble the quiet, persistent fatigue of those who feel worn down by long-term stress rather than acute crisis. It offers a space where spiritual struggle and physical depletion are acknowledged without immediate resolution.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'endurance' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:LUK.22.39-46"
+ },
+ "promise": {
+  "slot": "promise",
+  "reference": "2 Thessalonians 3:16-18",
+  "heading": "Signature and Final Greetings",
+  "heading_source": "translation",
+  "book_id": "2TH",
+  "text": "Now may the Lord of peace Himself give you peace at all times and in every way. The Lord be with all of you. This greeting is in my own hand—Paul. This is my mark in every letter; it is the way I write. The grace of our Lord Jesus Christ be with all of you.",
+  "word_count": 56,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/2TH/3/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_53_2Th_003_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/2TH/3/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/2TH/3/audio/souer.mp3"
+  },
+  "situation": "People are seeking stability and reassurance during times of uncertainty and distress.",
+  "register": "endurance",
+  "score": 0.7114,
+  "margin": 0.009,
+  "context": "Paul writes to the believers in Thessalonica, who were facing social disruption and anxiety due to rumors about the end times, to offer them a final blessing of peace and grace.",
+  "connection": "This greeting may echo the quiet longing for stability felt by those who are not in acute crisis but are worn down by prolonged fatigue. It resembles a gentle reminder that peace is a gift offered even when one feels too exhausted to seek it.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'endurance' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:2TH.3.16-18"
+ },
+ "prayer": {
+  "reference": "Psalms 77:1-20",
+  "heading": "In the Day of Trouble I Sought the Lord",
+  "heading_source": "translation",
+  "text": "I cried out to God; I cried aloud to God to hear me. In the day of trouble I sought the Lord; through the night my outstretched hands did not grow weary; my soul refused to be comforted. I remembered You, O God, and I groaned; I mused and my spirit grew faint. Selah You have kept my eyes from closing; I am too troubled to speak. I considered the days of old, the years long in the past. At night I remembered my song; in my heart I mused, and my spirit pondered: “Will the Lord spurn us forever and never show His favor again? Is His loving devotion gone forever? Has His promise failed for all time? Has God forgotten to be gracious? Has His anger shut off His compassion?” Selah So I said, “I am grieved that the right hand of the Most High has changed.” I will remember the works of the LORD; yes, I will remember Your wonders of old. I will reflect on all You have done and ponder Your mighty deeds. Your way, O God, is holy. What god is so great as our God? You are the God who works wonders; You display Your strength among the peoples. With power You redeemed Your people, the sons of Jacob and Joseph. Selah The waters saw You, O God; the waters saw You and swirled; even the depths were shaken. The clouds poured down water; the skies resounded with thunder; Your arrows flashed back and forth. Your thunder resounded in the whirlwind; the lightning lit up the world; the earth trembled and quaked. Your path led through the sea, Your way through the mighty waters, but Your footprints were not to be found. You led Your people like a flock by the hand of Moses and Aaron.",
+  "word_count": 303,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/PSA/77/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_19_Psa_077_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/PSA/77/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/PSA/77/audio/souer.mp3"
+  },
+  "score": 0.7287
+ },
+ "built": "2026-09-11T03:05:53Z"
+}

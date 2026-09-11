@@ -1,0 +1,131 @@
+{
+ "slug": "a-death-in-the-family",
+ "title": "A death in the family",
+ "register": "grief",
+ "situation": "Someone I love has died and I do not know how to carry an ordinary day.",
+ "echo": {
+  "slot": "echo",
+  "reference": "Numbers 20:22-29",
+  "heading": "The Death of Aaron",
+  "heading_source": "translation",
+  "book_id": "NUM",
+  "text": "After they had set out from Kadesh, the whole congregation of Israel came to Mount Hor. And at Mount Hor, near the border of the land of Edom, the LORD said to Moses and Aaron, “Aaron will be gathered to his people; he will not enter the land that I have given the Israelites, because both of you rebelled against My command at the waters of Meribah. Take Aaron and his son Eleazar and bring them up Mount Hor. Remove Aaron’s priestly garments and put them on his son Eleazar. Aaron will be gathered to his people and will die there.” So Moses did as the LORD had commanded, and they climbed Mount Hor in the sight of the whole congregation. After Moses had removed Aaron’s garments and put them on his son Eleazar, Aaron died there on top of the mountain. Then Moses and Eleazar came down from the mountain. When the whole congregation saw that Aaron had died, the entire house of Israel mourned for him thirty days.",
+  "word_count": 170,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/NUM/20/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_04_Num_020_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/NUM/20/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/NUM/20/audio/souer.mp3"
+  },
+  "situation": "A respected leader passes away after failing to reach the promised destination, prompting their community to observe a formal period of mourning.",
+  "register": "grief",
+  "score": 0.7009,
+  "margin": 0.0137,
+  "context": "In the wilderness near Edom, Moses follows divine instruction to transfer Aaron’s priestly garments to his son Eleazar on Mount Hor before Aaron dies in the sight of the Israelite congregation. The people then descend and observe a thirty-day period of mourning for their leader.",
+  "connection": "This narrative may echo the sudden weight of loss when a loved one departs, leaving others to navigate the quiet aftermath without them. It resembles the long, ordinary days of grief where the world continues while one’s internal landscape is permanently altered.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "not a triumphal answer to grief"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:NUM.20.22-29"
+ },
+ "promise": {
+  "slot": "promise",
+  "reference": "Psalms 30:1-12",
+  "heading": "You Turned My Mourning into Dancing",
+  "heading_source": "translation",
+  "book_id": "PSA",
+  "text": "I will exalt You, O LORD, for You have lifted me up and have not allowed my foes to rejoice over me. O LORD my God, I cried to You for help, and You healed me. O LORD, You pulled me up from Sheol; You spared me from descending into the Pit. Sing to the LORD, O you His saints, and praise His holy name. For His anger is fleeting, but His favor lasts a lifetime. Weeping may stay the night, but joy comes in the morning. In prosperity I said, “I will never be shaken.” O LORD, You favored me; You made my mountain stand strong. When You hid Your face, I was dismayed. To You, O LORD, I called, and I begged my Lord for mercy: “What gain is there in my bloodshed, in my descent to the Pit? Will the dust praise You? Will it proclaim Your faithfulness? Hear me, O LORD, and have mercy; O LORD, be my helper.” You turned my mourning into dancing; You peeled off my sackcloth and clothed me with joy, that my heart may sing Your praises and not be silent. O LORD my God, I will give thanks forever.",
+  "word_count": 199,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/PSA/30/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_19_Psa_030_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/PSA/30/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/PSA/30/audio/souer.mp3"
+  },
+  "situation": "A person who has experienced severe loss and despair finds their sorrow transformed into joy after pleading for help during a dark time.",
+  "register": "grief",
+  "score": 0.7222,
+  "margin": 0.0011,
+  "context": "The psalmist recounts a personal crisis where they faced imminent death or divine abandonment, crying out to God for deliverance from the grave. After being restored to life and health, they celebrate the transition from deep mourning to joy.",
+  "connection": "This narrative may echo the experience of those navigating the sudden void left by a loved one's passing, where ordinary days feel unmanageable. It offers a tentative parallel to the hope that even in the depth of grief, moments of peace or strength might eventually emerge.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "lament register honoured"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:PSA.30.1-12"
+ },
+ "prayer": {
+  "reference": "Psalms 77:1-20",
+  "heading": "In the Day of Trouble I Sought the Lord",
+  "heading_source": "translation",
+  "text": "I cried out to God; I cried aloud to God to hear me. In the day of trouble I sought the Lord; through the night my outstretched hands did not grow weary; my soul refused to be comforted. I remembered You, O God, and I groaned; I mused and my spirit grew faint. Selah You have kept my eyes from closing; I am too troubled to speak. I considered the days of old, the years long in the past. At night I remembered my song; in my heart I mused, and my spirit pondered: “Will the Lord spurn us forever and never show His favor again? Is His loving devotion gone forever? Has His promise failed for all time? Has God forgotten to be gracious? Has His anger shut off His compassion?” Selah So I said, “I am grieved that the right hand of the Most High has changed.” I will remember the works of the LORD; yes, I will remember Your wonders of old. I will reflect on all You have done and ponder Your mighty deeds. Your way, O God, is holy. What god is so great as our God? You are the God who works wonders; You display Your strength among the peoples. With power You redeemed Your people, the sons of Jacob and Joseph. Selah The waters saw You, O God; the waters saw You and swirled; even the depths were shaken. The clouds poured down water; the skies resounded with thunder; Your arrows flashed back and forth. Your thunder resounded in the whirlwind; the lightning lit up the world; the earth trembled and quaked. Your path led through the sea, Your way through the mighty waters, but Your footprints were not to be found. You led Your people like a flock by the hand of Moses and Aaron.",
+  "word_count": 303,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/PSA/77/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_19_Psa_077_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/PSA/77/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/PSA/77/audio/souer.mp3"
+  },
+  "score": 0.7294
+ },
+ "built": "2026-09-11T03:04:05Z"
+}

@@ -1,0 +1,131 @@
+{
+ "slug": "grief-that-will-not-lift",
+ "title": "Grief that will not lift",
+ "register": "grief",
+ "situation": "The loss was a long time ago and everyone expects me to be better by now.",
+ "echo": {
+  "slot": "echo",
+  "reference": "Jeremiah 31:1-25",
+  "heading": "Mourning Turned to Joy",
+  "heading_source": "translation",
+  "book_id": "JER",
+  "text": "“At that time,” declares the LORD, “I will be the God of all the families of Israel, and they will be My people.” This is what the LORD says: “The people who survived the sword found favor in the wilderness when Israel went to find rest.” The LORD appeared to us in the past, saying: “I have loved you with an everlasting love; therefore I have drawn you with loving devotion. Again I will build you, and you will be rebuilt, O Virgin Israel. Again you will take up your tambourines and go out in joyful dancing. Again you will plant vineyards on the hills of Samaria; the farmers will plant and enjoy the fruit. For there will be a day when watchmen will call out on the hills of Ephraim, ‘Arise, let us go up to Zion, to the LORD our God!’” For this is what the LORD says: “Sing with joy for Jacob; shout for the foremost of the nations! Make your praises heard, and say, ‘O LORD, save Your people, the remnant of Israel!’ Behold, I will bring them from the land of the north and gather them from the farthest parts of the earth, including the blind and the lame, expectant mothers and women in labor. They will return as a great assembly! They will come with weeping, and by their supplication I will lead them; I will make them walk beside streams of waters, on a level path where they will not stumble. For I am Israel’s Father, and Ephraim is My firstborn.” Hear, O nations, the word of the LORD, and proclaim it in distant coastlands: “The One who scattered Israel will gather them and keep them as a shepherd keeps his flock. For the LORD has ransomed Jacob and redeemed him from the hand that had overpowered him. They will come and shout for joy on the heights of Zion; they will be radiant over the bounty of the LORD— the grain, new wine, and oil, and the young of the flocks and herds. Their life will be like a well-watered garden, and never again will they languish. Then the maidens will rejoice with dancing, young men and old as well. I will turn their mourning into joy, and give them comfort and joy for their sorrow. I will fill the souls of the priests abundantly, and will fill My people with My goodness,” declares the LORD. This is what the LORD says: “A voice is heard in Ramah, mourning and great weeping, Rachel weeping for her children and refusing to be comforted, because they are no more.” This is what the LORD says: “Keep your voice from weeping and your eyes from tears, for the reward for your work will come, declares the LORD. Then your children will return from the land of the enemy. So there is hope for your future, declares the LORD, and your children will return to their own land. I have surely heard Ephraim’s moaning: ‘You disciplined me severely, like an untrained calf. Restore me, that I may return, for You are the LORD my God. After I returned, I repented; and after I was instructed, I struck my thigh in grief. I was ashamed and humiliated because I bore the disgrace of my youth.’ Is not Ephraim a precious son to Me, a delightful child? Though I often speak against him, I still remember him. Therefore My heart yearns for him; I have great compassion for him,” declares the LORD. “Set up the road markers, put up the signposts. Keep the highway in mind, the road you have traveled. Return, O Virgin Israel, return to these cities of yours. How long will you wander, O faithless daughter? For the LORD has created a new thing in the land— a woman will shelter a man.” This is what the LORD of Hosts, the God of Israel, says: “When I restore them from captivity, they will once again speak this word in the land of Judah and in its cities: ‘May the LORD bless you, O righteous dwelling place, O holy mountain.’ And Judah and all its cities will dwell together in the land, the farmers and those who move with the flocks, for I will refresh the weary soul and replenish all who are weak.”",
+  "word_count": 718,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/JER/31/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_24_Jer_031_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/JER/31/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/JER/31/audio/souer.mp3"
+  },
+  "situation": "People who have suffered loss and deep sorrow are promised that their pain will be transformed into lasting happiness and comfort.",
+  "register": "grief",
+  "score": 0.6533,
+  "margin": 0.0075,
+  "context": "The prophet Jeremiah addresses the exiled people of Israel, acknowledging their deep sorrow and displacement while promising that God will restore them from captivity to a place of renewed joy and stability.",
+  "connection": "This text may echo the experience of those whose grief persists long after the initial loss, offering a perspective where mourning is acknowledged as valid rather than something to be quickly dismissed by societal expectations.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "lament register honoured"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:JER.31.1-25"
+ },
+ "promise": {
+  "slot": "promise",
+  "reference": "Job 29:1-25",
+  "heading": "Job’s Former Blessings",
+  "heading_source": "translation",
+  "book_id": "JOB",
+  "text": "And Job continued his discourse: “How I long for the months gone by, for the days when God watched over me, when His lamp shone above my head, and by His light I walked through the darkness, when I was in my prime, when the friendship of God rested on my tent, when the Almighty was still with me and my children were around me, when my steps were bathed in cream and the rock poured out for me streams of oil! When I went out to the city gate and took my seat in the public square, the young men saw me and withdrew, and the old men rose to their feet. The princes refrained from speaking and covered their mouths with their hands. The voices of the nobles were hushed, and their tongues stuck to the roofs of their mouths. For those who heard me called me blessed, and those who saw me commended me, because I rescued the poor who cried out and the fatherless who had no helper. The dying man blessed me, and I made the widow’s heart sing for joy. I put on righteousness, and it clothed me; justice was my robe and my turban. I served as eyes to the blind and as feet to the lame. I was a father to the needy, and I took up the case of the stranger. I shattered the fangs of the unjust and snatched the prey from his teeth. So I thought: ‘I will die in my nest and multiply my days as the sand. My roots will spread out to the waters, and the dew will rest nightly on my branches. My glory is ever new within me, and my bow is renewed in my hand.’ Men listened to me with expectation, waiting silently for my counsel. After my words, they spoke no more; my speech settled on them like dew. They waited for me as for rain and drank in my words like spring showers. If I smiled at them, they did not believe it; the light of my countenance was precious. I chose their course and presided as chief. So I dwelt as a king among his troops, as a comforter of the mourners.",
+  "word_count": 372,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/JOB/29/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_18_Job_029_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/JOB/29/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/JOB/29/audio/souer.mp3"
+  },
+  "situation": "A person reflects on a past time of prosperity, respect, and influence while currently experiencing loss and suffering.",
+  "register": "grief",
+  "score": 0.6935,
+  "margin": 0.0072,
+  "context": "Job, having lost his wealth, family, and health, delivers a monologue recalling his former days of prosperity, social respect, and divine favor in the land of Uz. He vividly describes how he was honored as a leader and protector of the vulnerable, contrasting his past glory with his current state of isolation and suffering.",
+  "connection": "This passage may echo the dissonance felt by those who mourn long-term losses, where the sharp contrast between remembered wholeness and present emptiness makes the expectation to 'move on' feel invalid. It resembles the experience of carrying a grief that remains vivid and heavy, even as the world around you assumes it has faded.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "lament register honoured"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:JOB.29.1-25"
+ },
+ "prayer": {
+  "reference": "Psalms 77:1-20",
+  "heading": "In the Day of Trouble I Sought the Lord",
+  "heading_source": "translation",
+  "text": "I cried out to God; I cried aloud to God to hear me. In the day of trouble I sought the Lord; through the night my outstretched hands did not grow weary; my soul refused to be comforted. I remembered You, O God, and I groaned; I mused and my spirit grew faint. Selah You have kept my eyes from closing; I am too troubled to speak. I considered the days of old, the years long in the past. At night I remembered my song; in my heart I mused, and my spirit pondered: “Will the Lord spurn us forever and never show His favor again? Is His loving devotion gone forever? Has His promise failed for all time? Has God forgotten to be gracious? Has His anger shut off His compassion?” Selah So I said, “I am grieved that the right hand of the Most High has changed.” I will remember the works of the LORD; yes, I will remember Your wonders of old. I will reflect on all You have done and ponder Your mighty deeds. Your way, O God, is holy. What god is so great as our God? You are the God who works wonders; You display Your strength among the peoples. With power You redeemed Your people, the sons of Jacob and Joseph. Selah The waters saw You, O God; the waters saw You and swirled; even the depths were shaken. The clouds poured down water; the skies resounded with thunder; Your arrows flashed back and forth. Your thunder resounded in the whirlwind; the lightning lit up the world; the earth trembled and quaked. Your path led through the sea, Your way through the mighty waters, but Your footprints were not to be found. You led Your people like a flock by the hand of Moses and Aaron.",
+  "word_count": 303,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/PSA/77/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_19_Psa_077_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/PSA/77/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/PSA/77/audio/souer.mp3"
+  },
+  "score": 0.7323
+ },
+ "built": "2026-09-11T03:04:16Z"
+}

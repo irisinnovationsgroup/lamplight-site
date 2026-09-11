@@ -1,0 +1,293 @@
+{
+ "built": "2026-09-11T03:06:24Z",
+ "themes": [
+  {
+   "slug": "a-death-in-the-family",
+   "title": "A death in the family",
+   "register": "grief",
+   "situation": "Someone I love has died and I do not know how to carry an ordinary day.",
+   "echo": "Numbers 20:22-29",
+   "promise": "Psalms 30:1-12",
+   "prayer": "Psalms 77:1-20"
+  },
+  {
+   "slug": "grief-that-will-not-lift",
+   "title": "Grief that will not lift",
+   "register": "grief",
+   "situation": "The loss was a long time ago and everyone expects me to be better by now.",
+   "echo": "Jeremiah 31:1-25",
+   "promise": "Job 29:1-25",
+   "prayer": "Psalms 77:1-20"
+  },
+  {
+   "slug": "a-child-i-am-afraid-for",
+   "title": "A child I am afraid for",
+   "register": "fear",
+   "situation": "My child is in trouble or in danger and I cannot protect them from it.",
+   "echo": "Exodus 2:1-10",
+   "promise": "Psalms 91:1-16",
+   "prayer": "Psalms 86:1-17"
+  },
+  {
+   "slug": "a-diagnosis",
+   "title": "A diagnosis",
+   "register": "fear",
+   "situation": "I have been told something about my body that I am frightened of.",
+   "echo": "Matthew 17:1-13",
+   "promise": "John 14:27-31",
+   "prayer": "Psalms 86:1-17"
+  },
+  {
+   "slug": "caring-for-someone-who-is-failing",
+   "title": "Caring for someone who is failing",
+   "register": "endurance",
+   "situation": "I am looking after someone whose condition only goes one way, and I am tired.",
+   "echo": "Matthew 8:14-17",
+   "promise": "Matthew 8:1-4",
+   "prayer": "Luke 5:12-16"
+  },
+  {
+   "slug": "money-running-out",
+   "title": "Money running out",
+   "register": "fear",
+   "situation": "I do not know how I will pay for what my family needs.",
+   "echo": "Genesis 42:1-24",
+   "promise": "Matthew 6:25-34",
+   "prayer": "1 Samuel 1:9-18"
+  },
+  {
+   "slug": "losing-work",
+   "title": "Losing work",
+   "register": "displacement",
+   "situation": "The work that gave my days their shape has been taken away.",
+   "echo": "John 21:1-14",
+   "promise": "Psalms 102:1-28",
+   "prayer": "Isaiah 5:1-7"
+  },
+  {
+   "slug": "work-that-feels-pointless",
+   "title": "Work that feels pointless",
+   "register": "doubt",
+   "situation": "I work hard at something that seems to matter to nobody, including me.",
+   "echo": "Haggai 1:1-11",
+   "promise": "1 Corinthians 3:10-15",
+   "prayer": "Psalms 132:1-18"
+  },
+  {
+   "slug": "a-marriage-ending",
+   "title": "A marriage ending",
+   "register": "grief",
+   "situation": "The person I built my life with and I are coming apart.",
+   "echo": "Jeremiah 13:1-11",
+   "promise": "Jeremiah 31:1-25",
+   "prayer": "1 Samuel 1:9-18"
+  },
+  {
+   "slug": "estranged-from-family",
+   "title": "Estranged from family",
+   "register": "betrayal",
+   "situation": "Someone in my family will not speak to me and I do not know how to reach them.",
+   "echo": "Judges 11:1-28",
+   "promise": "Psalms 88:1-18",
+   "prayer": "Matthew 8:1-4"
+  },
+  {
+   "slug": "betrayed-by-a-friend",
+   "title": "Betrayed by a friend",
+   "register": "betrayal",
+   "situation": "Someone I trusted completely has turned out not to be who I thought.",
+   "echo": "Judges 4:17-24",
+   "promise": "Micah 7:7-13",
+   "prayer": "Psalms 73:1-28"
+  },
+  {
+   "slug": "loneliness",
+   "title": "Loneliness",
+   "register": "waiting",
+   "situation": "I go through most days without anyone really knowing how I am.",
+   "echo": "Isaiah 53:1-8",
+   "promise": "Psalms 25:1-22",
+   "prayer": "Psalms 130:1-8"
+  },
+  {
+   "slug": "treated-unjustly",
+   "title": "Treated unjustly",
+   "register": "injustice",
+   "situation": "Something unfair was done to me and nobody with power seems to care.",
+   "echo": "Job 34:1-37",
+   "promise": "Job 10:1-22",
+   "prayer": "Psalms 94:1-23"
+  },
+  {
+   "slug": "powerless-against-a-system",
+   "title": "Powerless against a system",
+   "register": "injustice",
+   "situation": "I am fighting an institution that will outlast me and does not notice me.",
+   "echo": "Psalms 109:1-31",
+   "promise": "Psalms 5:1-12",
+   "prayer": "Psalms 86:1-17"
+  },
+  {
+   "slug": "watching-cruelty-and-unable-to-stop-it",
+   "title": "Watching cruelty and unable to stop it",
+   "register": "injustice",
+   "situation": "I can see people being harmed and there is nothing I can do about it.",
+   "echo": "Jeremiah 14:1-18",
+   "promise": "Psalms 121:1-8",
+   "prayer": "Job 10:1-22"
+  },
+  {
+   "slug": "doubt",
+   "title": "Doubt",
+   "register": "doubt",
+   "situation": "I am not sure any of what I believed is true, and I cannot say so out loud.",
+   "echo": "John 20:24-29",
+   "promise": "Luke 7:18-23",
+   "prayer": "Psalms 77:1-20"
+  },
+  {
+   "slug": "feeling-far-away",
+   "title": "Feeling far away",
+   "register": "waiting",
+   "situation": "I pray and it is like speaking into an empty room.",
+   "echo": "Acts 1:12-26",
+   "promise": "Psalms 130:1-8",
+   "prayer": "1 Samuel 1:9-18"
+  },
+  {
+   "slug": "angry-at-god",
+   "title": "Angry at God",
+   "register": "doubt",
+   "situation": "Something happened that I cannot forgive, and I blame the God I still believe in.",
+   "echo": "1 Kings 21:25-29",
+   "promise": "Psalms 77:1-20",
+   "prayer": "Psalms 51:1-19"
+  },
+  {
+   "slug": "coming-back-after-a-long-time-away",
+   "title": "Coming back after a long time away",
+   "register": "repentance",
+   "situation": "I left all this behind years ago and I do not know if I can return.",
+   "echo": "Acts 3:11-26",
+   "promise": "Psalms 85:1-13",
+   "prayer": "Psalms 77:1-20"
+  },
+  {
+   "slug": "something-i-did",
+   "title": "Something I did",
+   "register": "repentance",
+   "situation": "I did something I am ashamed of and I cannot undo it.",
+   "echo": "Luke 7:36-50",
+   "promise": "Isaiah 57:14-21",
+   "prayer": "Psalms 51:1-19"
+  },
+  {
+   "slug": "addiction",
+   "title": "Addiction",
+   "register": "endurance",
+   "situation": "I keep going back to the thing that is destroying me.",
+   "echo": "Mark 8:22-26",
+   "promise": "Lamentations 3:19-36",
+   "prayer": "Psalms 130:1-8"
+  },
+  {
+   "slug": "forgiving-myself",
+   "title": "Forgiving myself",
+   "register": "mercy",
+   "situation": "Other people have forgiven me and I cannot manage it myself.",
+   "echo": "1 John 2:1-6",
+   "promise": "Micah 7:7-13",
+   "prayer": "Psalms 103:1-22"
+  },
+  {
+   "slug": "someone-i-need-to-forgive",
+   "title": "Someone I need to forgive",
+   "register": "reconciliation",
+   "situation": "Someone hurt me badly and I am being asked, or asking myself, to let it go.",
+   "echo": "Matthew 27:3-10",
+   "promise": "Ezekiel 16:59-63",
+   "prayer": "1 Samuel 1:9-18"
+  },
+  {
+   "slug": "waiting-for-something-that-may-not-come",
+   "title": "Waiting for something that may not come",
+   "register": "waiting",
+   "situation": "I have been hoping for the same thing for years with no sign of it.",
+   "echo": "Luke 2:25-35",
+   "promise": "Hebrews 6:13-20",
+   "prayer": "Psalms 130:1-8"
+  },
+  {
+   "slug": "exhaustion",
+   "title": "Exhaustion",
+   "register": "endurance",
+   "situation": "I am not in crisis. I am just very tired and have been for a long time.",
+   "echo": "Luke 22:39-46",
+   "promise": "2 Thessalonians 3:16-18",
+   "prayer": "Psalms 77:1-20"
+  },
+  {
+   "slug": "starting-again",
+   "title": "Starting again",
+   "register": "courage",
+   "situation": "Something ended and I have to build a life from the beginning.",
+   "echo": "Genesis 9:1-17",
+   "promise": "1 Corinthians 15:50-58",
+   "prayer": "Psalms 116:1-19"
+  },
+  {
+   "slug": "leaving-home",
+   "title": "Leaving home",
+   "register": "displacement",
+   "situation": "I am going somewhere far away and do not know when I will return.",
+   "echo": "Ezekiel 11:22-25",
+   "promise": "John 14:1-4",
+   "prayer": "Psalms 77:1-20"
+  },
+  {
+   "slug": "a-new-child",
+   "title": "A new child",
+   "register": "joy",
+   "situation": "A baby has arrived and I am overwhelmed by love and by fear at the same time.",
+   "echo": "Genesis 38:27-30",
+   "promise": "Genesis 30:17-21",
+   "prayer": "1 Samuel 1:9-18"
+  },
+  {
+   "slug": "recovery",
+   "title": "Recovery",
+   "register": "provision",
+   "situation": "Something that was broken in me is slowly mending.",
+   "echo": "Job 42:10-17",
+   "promise": "Isaiah 57:14-21",
+   "prayer": "1 Samuel 1:9-18"
+  },
+  {
+   "slug": "unexpected-kindness",
+   "title": "Unexpected kindness",
+   "register": "mercy",
+   "situation": "A stranger did something for me that they did not have to do.",
+   "echo": "Luke 17:11-19",
+   "promise": "Hebrews 2:5-18",
+   "prayer": "Matthew 8:1-4"
+  },
+  {
+   "slug": "gratitude",
+   "title": "Gratitude",
+   "register": "praise",
+   "situation": "Things are well and I want to say so to someone.",
+   "echo": "1 Thessalonians 3:6-13",
+   "promise": "Psalms 67:1-7",
+   "prayer": "Psalms 138:1-8"
+  },
+  {
+   "slug": "fear-of-what-is-coming",
+   "title": "Fear of what is coming",
+   "register": "fear",
+   "situation": "Nothing bad has happened yet and I cannot stop bracing for it.",
+   "echo": "Isaiah 21:1-10",
+   "promise": "John 14:27-31",
+   "prayer": "Psalms 77:1-20"
+  }
+ ]
+}

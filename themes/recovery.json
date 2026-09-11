@@ -1,0 +1,131 @@
+{
+ "slug": "recovery",
+ "title": "Recovery",
+ "register": "provision",
+ "situation": "Something that was broken in me is slowly mending.",
+ "echo": {
+  "slot": "echo",
+  "reference": "Job 42:10-17",
+  "heading": "The LORD Blesses Job",
+  "heading_source": "translation",
+  "book_id": "JOB",
+  "text": "After Job had prayed for his friends, the LORD restored his prosperity and doubled his former possessions. All his brothers and sisters and prior acquaintances came and dined with him in his house. They consoled him and comforted him over all the adversity that the LORD had brought upon him. And each one gave him a piece of silver and a gold ring. So the LORD blessed Job’s latter days more than his first. He owned 14,000 sheep, 6,000 camels, 1,000 yoke of oxen, and 1,000 female donkeys. And he also had seven sons and three daughters. He named his first daughter Jemimah, his second Keziah, and his third Keren-happuch. No women as beautiful as Job’s daughters could be found in all the land, and their father granted them an inheritance among their brothers. After this, Job lived 140 years and saw his children and their children to the fourth generation. And so Job died, old and full of years.",
+  "word_count": 160,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/JOB/42/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_18_Job_042_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/JOB/42/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/JOB/42/audio/souer.mp3"
+  },
+  "situation": "After enduring severe loss and hardship, a person experiences a complete restoration of wealth and family, finding comfort and support from their community as they rebuild their life.",
+  "register": "provision",
+  "score": 0.6397,
+  "margin": 0.0149,
+  "context": "Following his severe losses and suffering, Job intercedes in prayer for his friends, prompting God to restore his material wealth and family. His community returns to offer comfort and gifts, and he lives a long life, blessing his daughters with inheritance alongside his sons.",
+  "connection": "This narrative may echo the slow process of healing where external support helps mend what was broken, though it does not promise that restoration will erase past grief or guarantee future stability.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'provision' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:JOB.42.10-17"
+ },
+ "promise": {
+  "slot": "promise",
+  "reference": "Isaiah 57:14-21",
+  "heading": "Healing for the Repentant",
+  "heading_source": "translation",
+  "book_id": "ISA",
+  "text": "And it will be said, “Build it up, build it up, prepare the way, take every obstacle out of the way of My people.” For thus says the One who is high and lifted up, who inhabits eternity, whose name is Holy: “I dwell in a high and holy place, and with the oppressed and humble in spirit, to restore the spirit of the lowly and revive the heart of the contrite. For I will not accuse you forever, nor will I always be angry; for then the spirit of man would grow weak before Me— the breath of life I have made. I was enraged by his sinful greed, so I struck him and hid My face in anger; yet he kept turning back to the desires of his heart. I have seen his ways, but I will heal him; I will guide him and restore comfort to him and his mourners, bringing praise to their lips. Peace, peace to those far and near,” says the LORD, “and I will heal them.” But the wicked are like the storm-tossed sea, for it cannot be still, and its waves churn up mire and muck. “There is no peace,” says my God, “for the wicked.”",
+  "word_count": 204,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/ISA/57/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_23_Isa_057_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/ISA/57/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/ISA/57/audio/souer.mp3"
+  },
+  "situation": "A person who has made mistakes and feels broken seeks forgiveness and restoration after realizing their past errors.",
+  "register": "repentance",
+  "score": 0.7445,
+  "margin": 0.0041,
+  "context": "The prophet addresses Israelites in exile who feel abandoned by God due to their past idolatry and sin. The text reassures them that despite their brokenness, God dwells with the humble and promises to heal their spirits and restore peace.",
+  "connection": "This may echo the experience of individuals who feel their internal fractures are too deep for simple comfort, yet find tentative hope in the idea that healing is possible through humility rather than perfection. It resembles the quiet process of mending where one accepts that restoration does not erase the memory of the break but offers a new way to carry it.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'provision' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:ISA.57.14-21"
+ },
+ "prayer": {
+  "reference": "1 Samuel 1:9-18",
+  "heading": "Hannah Prays for a Son",
+  "heading_source": "translation",
+  "text": "So after they had finished eating and drinking in Shiloh, Hannah stood up. Now Eli the priest was sitting on a chair by the doorpost of the temple of the LORD. In her bitter distress, Hannah prayed to the LORD and wept with many tears. And she made a vow, saying, “O LORD of Hosts, if only You will look upon the affliction of Your maidservant and remember me, not forgetting Your maidservant but giving her a son, then I will dedicate him to the LORD all the days of his life, and no razor shall ever touch his head.” As Hannah kept on praying before the LORD, Eli watched her mouth. Hannah was praying in her heart, and though her lips were moving, her voice could not be heard. So Eli thought she was drunk and said to her, “How long will you be drunk? Put away your wine!” “No, my lord,” Hannah replied. “I am a woman troubled in spirit. I have not had any wine or strong drink, but I have poured out my soul before the LORD. Do not take your servant for a wicked woman, for all this time I have been praying out of the depth of my anguish and grief.” “Go in peace,” Eli replied, “and may the God of Israel grant the petition you have asked of Him.” “May your maidservant find favor with you,” said Hannah. Then she went on her way, and she began to eat, and her face was no longer downcast.",
+  "word_count": 253,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/1SA/1/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_09_1Sa_001_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/1SA/1/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/1SA/1/audio/souer.mp3"
+  },
+  "score": 0.7384
+ },
+ "built": "2026-09-11T03:06:10Z"
+}

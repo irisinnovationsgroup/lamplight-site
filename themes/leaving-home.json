@@ -1,0 +1,131 @@
+{
+ "slug": "leaving-home",
+ "title": "Leaving home",
+ "register": "displacement",
+ "situation": "I am going somewhere far away and do not know when I will return.",
+ "echo": {
+  "slot": "echo",
+  "reference": "Ezekiel 11:22-25",
+  "heading": "God’s Glory Leaves Jerusalem",
+  "heading_source": "translation",
+  "book_id": "EZK",
+  "text": "Then the cherubim, with the wheels beside them, spread their wings, and the glory of the God of Israel was above them. And the glory of the LORD rose up from within the city and stood over the mountain east of the city. And the Spirit lifted me up and carried me back to Chaldea, to the exiles in the vision given by the Spirit of God. After the vision had gone up from me, I told the exiles everything the LORD had shown me.",
+  "word_count": 85,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/EZK/11/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_26_Ezk_011_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/EZK/11/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/EZK/11/audio/souer.mp3"
+  },
+  "situation": "People witness the departure of the presence that once protected their home and are transported away from their community to a foreign land where they must recount what they have seen.",
+  "register": "displacement",
+  "score": 0.6428,
+  "margin": 0.0159,
+  "context": "The prophet Ezekiel witnesses a vision in which the divine presence departs from Jerusalem and moves eastward toward the mountain before being transported by the Spirit to the exiles in Chaldea.",
+  "connection": "This departure may echo the profound sense of loss experienced by those leaving their homes with no clear timeline for return. The imagery of a spirit lifting someone away mirrors the disorientation and uncertainty of sudden displacement.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'displacement' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:EZK.11.22-25"
+ },
+ "promise": {
+  "slot": "promise",
+  "reference": "John 14:1-4",
+  "heading": "In My Father’s House Are Many Rooms",
+  "heading_source": "translation",
+  "book_id": "JHN",
+  "text": "“Do not let your hearts be troubled. You believe in God; believe in Me as well. In My Father’s house are many rooms. If it were not so, would I have told you that I am going there to prepare a place for you? And if I go and prepare a place for you, I will come back and welcome you into My presence, so that you also may be where I am. You know the way to the place where I am going. ”",
+  "word_count": 85,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/JHN/14/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_43_Jhn_014_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/JHN/14/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/JHN/14/audio/souer.mp3"
+  },
+  "situation": "People facing uncertainty about their future seek reassurance that they will eventually be reunited with someone they trust after a period of separation.",
+  "register": "fear",
+  "score": 0.7471,
+  "margin": 0.0186,
+  "context": "During the Last Supper, Jesus comforts his disciples who are distressed by his announcement that he will soon leave them and go to the Father. He explains that he is departing to prepare a place for them in his Father's house so they may eventually be with him.",
+  "connection": "This narrative may echo the anxiety of those facing an uncertain departure, where the promise of preparation offers a fragile anchor against the fear of the unknown. It resembles the human need for reassurance when leaving behind familiar comforts for a destination that remains unseen and undefined.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'displacement' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:JHN.14.1-4"
+ },
+ "prayer": {
+  "reference": "Psalms 77:1-20",
+  "heading": "In the Day of Trouble I Sought the Lord",
+  "heading_source": "translation",
+  "text": "I cried out to God; I cried aloud to God to hear me. In the day of trouble I sought the Lord; through the night my outstretched hands did not grow weary; my soul refused to be comforted. I remembered You, O God, and I groaned; I mused and my spirit grew faint. Selah You have kept my eyes from closing; I am too troubled to speak. I considered the days of old, the years long in the past. At night I remembered my song; in my heart I mused, and my spirit pondered: “Will the Lord spurn us forever and never show His favor again? Is His loving devotion gone forever? Has His promise failed for all time? Has God forgotten to be gracious? Has His anger shut off His compassion?” Selah So I said, “I am grieved that the right hand of the Most High has changed.” I will remember the works of the LORD; yes, I will remember Your wonders of old. I will reflect on all You have done and ponder Your mighty deeds. Your way, O God, is holy. What god is so great as our God? You are the God who works wonders; You display Your strength among the peoples. With power You redeemed Your people, the sons of Jacob and Joseph. Selah The waters saw You, O God; the waters saw You and swirled; even the depths were shaken. The clouds poured down water; the skies resounded with thunder; Your arrows flashed back and forth. Your thunder resounded in the whirlwind; the lightning lit up the world; the earth trembled and quaked. Your path led through the sea, Your way through the mighty waters, but Your footprints were not to be found. You led Your people like a flock by the hand of Moses and Aaron.",
+  "word_count": 303,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/PSA/77/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_19_Psa_077_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/PSA/77/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/PSA/77/audio/souer.mp3"
+  },
+  "score": 0.6808
+ },
+ "built": "2026-09-11T03:06:01Z"
+}

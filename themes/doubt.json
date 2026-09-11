@@ -1,0 +1,131 @@
+{
+ "slug": "doubt",
+ "title": "Doubt",
+ "register": "doubt",
+ "situation": "I am not sure any of what I believed is true, and I cannot say so out loud.",
+ "echo": {
+  "slot": "echo",
+  "reference": "John 20:24-29",
+  "heading": "Jesus Appears to Thomas",
+  "heading_source": "translation",
+  "book_id": "JHN",
+  "text": "Now Thomas called Didymus, one of the Twelve, was not with the disciples when Jesus came. So the other disciples told him, “We have seen the Lord!” But he replied, “Unless I see the nail marks in His hands, and put my finger where the nails have been, and put my hand into His side, I will never believe.” Eight days later, His disciples were once again inside with the doors locked, and Thomas was with them. Jesus came and stood among them and said, “Peace be with you.” Then Jesus said to Thomas, “Put your finger here and look at My hands. Reach out your hand and put it into My side. Stop doubting and believe.” Thomas replied, “My Lord and my God!” Jesus said to him, “Because you have seen Me, you have believed; blessed are those who have not seen and yet have believed.”",
+  "word_count": 147,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/JHN/20/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_43_Jhn_020_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/JHN/20/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/JHN/20/audio/souer.mp3"
+  },
+  "situation": "A person struggles to accept a truth that others claim to have experienced firsthand because they lack direct personal evidence.",
+  "register": "doubt",
+  "score": 0.6689,
+  "margin": 0.0431,
+  "context": "Thomas, one of Jesus' twelve disciples, was absent when Jesus first appeared to the group in a locked room after his resurrection. Upon hearing the others' testimony, he demanded physical proof of Jesus' wounds before he would believe, and eight days later, Jesus invited him to touch those specific marks.",
+  "connection": "This narrative may echo the isolation felt by individuals who hold private doubts that contradict their community's shared convictions. It resembles the tension between the need for tangible verification and the social pressure to conform to a collective certainty without question.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'doubt' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:JHN.20.24-29"
+ },
+ "promise": {
+  "slot": "promise",
+  "reference": "Luke 7:18-23",
+  "heading": "John’s Inquiry",
+  "heading_source": "translation",
+  "book_id": "LUK",
+  "text": "Then John’s disciples informed him about all these things. So John called two of his disciples and sent them to ask the Lord, “Are You the One who was to come, or should we look for someone else?” When the men came to Jesus, they said, “John the Baptist sent us to ask, ‘Are You the One who was to come, or should we look for someone else?’” At that very hour Jesus healed many people of their diseases, afflictions, and evil spirits, and He gave sight to many who were blind. So He replied, “Go back and report to John what you have seen and heard: The blind receive sight, the lame walk, the lepers are cleansed, the deaf hear, the dead are raised, and the good news is preached to the poor. Blessed is the one who does not fall away on account of Me. ”",
+  "word_count": 148,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/LUK/7/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_42_Luk_007_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/LUK/7/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/LUK/7/audio/souer.mp3"
+  },
+  "situation": "A person in deep uncertainty questions whether their long-held hope is real or if they have been misled, seeking confirmation through tangible evidence of change and restoration.",
+  "register": "doubt",
+  "score": 0.7381,
+  "margin": 0.0093,
+  "context": "John the Baptist, imprisoned in a dungeon, sends disciples to Jesus to verify if He is the expected Messiah. Jesus responds by pointing to His miraculous healings and preaching as evidence of His identity, while warning that faith can be tested by circumstances.",
+  "connection": "This may echo the quiet isolation of those who feel their foundational beliefs are crumbling but cannot voice their uncertainty. The passage resembles the struggle to find meaning when external signs do not match internal expectations, acknowledging the weight of unspoken doubt.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'doubt' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:LUK.7.18-23"
+ },
+ "prayer": {
+  "reference": "Psalms 77:1-20",
+  "heading": "In the Day of Trouble I Sought the Lord",
+  "heading_source": "translation",
+  "text": "I cried out to God; I cried aloud to God to hear me. In the day of trouble I sought the Lord; through the night my outstretched hands did not grow weary; my soul refused to be comforted. I remembered You, O God, and I groaned; I mused and my spirit grew faint. Selah You have kept my eyes from closing; I am too troubled to speak. I considered the days of old, the years long in the past. At night I remembered my song; in my heart I mused, and my spirit pondered: “Will the Lord spurn us forever and never show His favor again? Is His loving devotion gone forever? Has His promise failed for all time? Has God forgotten to be gracious? Has His anger shut off His compassion?” Selah So I said, “I am grieved that the right hand of the Most High has changed.” I will remember the works of the LORD; yes, I will remember Your wonders of old. I will reflect on all You have done and ponder Your mighty deeds. Your way, O God, is holy. What god is so great as our God? You are the God who works wonders; You display Your strength among the peoples. With power You redeemed Your people, the sons of Jacob and Joseph. Selah The waters saw You, O God; the waters saw You and swirled; even the depths were shaken. The clouds poured down water; the skies resounded with thunder; Your arrows flashed back and forth. Your thunder resounded in the whirlwind; the lightning lit up the world; the earth trembled and quaked. Your path led through the sea, Your way through the mighty waters, but Your footprints were not to be found. You led Your people like a flock by the hand of Moses and Aaron.",
+  "word_count": 303,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/PSA/77/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_19_Psa_077_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/PSA/77/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/PSA/77/audio/souer.mp3"
+  },
+  "score": 0.64
+ },
+ "built": "2026-09-11T03:05:16Z"
+}

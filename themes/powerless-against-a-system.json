@@ -1,0 +1,139 @@
+{
+ "slug": "powerless-against-a-system",
+ "title": "Powerless against a system",
+ "register": "injustice",
+ "situation": "I am fighting an institution that will outlast me and does not notice me.",
+ "echo": {
+  "slot": "echo",
+  "reference": "Psalms 109:1-31",
+  "heading": "The Song of the Slandered",
+  "heading_source": "translation",
+  "book_id": "PSA",
+  "text": "O God of my praise, be not silent. For wicked and deceitful mouths open against me; they speak against me with lying tongues. They surround me with hateful words and attack me without cause. In return for my love they accuse me, but I am a man of prayer. They repay me evil for good, and hatred for my love. Set over him a wicked man; let an accuser stand at his right hand. When he is tried, let him be found guilty, and may his prayer be regarded as sin. May his days be few; may another take his position. May his children be fatherless and his wife a widow. May his children wander as beggars, seeking sustenance far from their ruined homes. May the creditor seize all he owns, and strangers plunder the fruits of his labor. May there be no one to extend kindness to him, and no one to favor his fatherless children. May his descendants be cut off; may their name be blotted out from the next generation. May the iniquity of his fathers be remembered before the LORD, and the sin of his mother never be blotted out. May their sins always remain before the LORD, that He may cut off their memory from the earth. For he never thought to show kindness, but pursued the poor and needy and brokenhearted, even to their death. The cursing that he loved, may it fall on him; the blessing in which he refused to delight, may it be far from him. The cursing that he wore like a coat, may it soak into his body like water, and into his bones like oil. May it be like a robe wrapped about him, like a belt tied forever around him. May this be the LORD’s reward to my accusers, to those who speak evil against me. But You, O GOD, the Lord, deal kindly with me for the sake of Your name; deliver me by the goodness of Your loving devotion. For I am poor and needy; my heart is wounded within me. I am fading away like a lengthening shadow; I am shaken off like a locust. My knees are weak from fasting, and my body grows lean and gaunt. I am an object of scorn to my accusers; when they see me, they shake their heads. Help me, O LORD my God; save me according to Your loving devotion. Let them know that this is Your hand, that You, O LORD, have done it. Though they curse, You will bless. When they rise up, they will be put to shame, but Your servant will rejoice. May my accusers be clothed with disgrace; may they wear their shame like a robe. With my mouth I will thank the LORD profusely; I will praise Him in the presence of many. For He stands at the right hand of the needy one, to save him from the condemners of his soul.",
+  "word_count": 493,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/PSA/109/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_19_Psa_109_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/PSA/109/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/PSA/109/audio/souer.mp3"
+  },
+  "situation": "A person is being falsely accused and attacked by enemies without cause, feeling isolated and physically weakened while seeking justice from a higher power.",
+  "register": "injustice",
+  "score": 0.6017,
+  "margin": 0.0035,
+  "context": "The psalmist, likely David, describes being surrounded by hostile accusers who repay his kindness with hatred and deceit during a time of intense personal persecution.",
+  "connection": "This text may echo the profound isolation felt when an individual struggles against an impersonal system that ignores their pleas. It resembles the grief of feeling powerless and unseen while fighting for justice against forces that appear indifferent to human suffering.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "lament register honoured"
+   }
+  ],
+  "rejected_before_this": [
+   {
+    "reference": "Jeremiah 51:1-14",
+    "heading": "Judgment on Babylon",
+    "blocked_by": [
+     "Rule I — Jeremiah 51:1-14 is an oracle of judgment against a people — handing it to a frightened reader implies a verdict on today"
+    ]
+   }
+  ],
+  "passage_id": "BSB:PSA.109.1-31"
+ },
+ "promise": {
+  "slot": "promise",
+  "reference": "Psalms 5:1-12",
+  "heading": "Give Ear to My Words",
+  "heading_source": "translation",
+  "book_id": "PSA",
+  "text": "Give ear to my words, O LORD; consider my groaning. Attend to the sound of my cry, my King and my God, for to You I pray. In the morning, O LORD, You hear my voice; at daybreak I lay my plea before You and wait in expectation. For You are not a God who delights in wickedness; no evil can dwell with You. The boastful cannot stand in Your presence; You hate all workers of iniquity. You destroy those who tell lies; the LORD abhors the man of bloodshed and deceit. But I will enter Your house by the abundance of Your loving devotion; in reverence I will bow down toward Your holy temple. Lead me, O LORD, in Your righteousness because of my enemies; make straight Your way before me. For not a word they speak can be trusted; destruction lies within them. Their throats are open graves; their tongues practice deceit. Declare them guilty, O God; let them fall by their own devices. Drive them out for their many transgressions, for they have rebelled against You. But let all who take refuge in You rejoice; let them ever shout for joy. May You shelter them, that those who love Your name may rejoice in You. For surely You, O LORD, bless the righteous; You surround them with the shield of Your favor.",
+  "word_count": 225,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/PSA/5/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_19_Psa_005_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/PSA/5/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/PSA/5/audio/souer.mp3"
+  },
+  "situation": "A person facing hostile opponents who spread lies and deceit seeks divine protection and justice while waiting for a favorable outcome.",
+  "register": "injustice",
+  "score": 0.6484,
+  "margin": 0.0017,
+  "context": "The psalmist, likely David, stands before God feeling isolated and threatened by deceitful enemies who use lies and slander to undermine his standing. He pleads for divine attention and justice against these adversaries while affirming his trust in God's righteousness as his only refuge.",
+  "connection": "This plea may echo the experience of individuals who feel invisible to powerful institutions, pouring out their grief into prayer when they perceive no immediate response from the system itself. It offers a space to voice the exhaustion of fighting forces that seem indifferent to personal suffering.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "lament register honoured"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:PSA.5.1-12"
+ },
+ "prayer": {
+  "reference": "Psalms 86:1-17",
+  "heading": "Tried but Trusting",
+  "heading_source": "translation",
+  "text": "Incline Your ear, O LORD, and answer me, for I am poor and needy. Preserve my soul, for I am godly. You are my God; save Your servant who trusts in You. Be merciful to me, O Lord, for I call to You all day long. Bring joy to Your servant, for to You, O Lord, I lift up my soul. For You, O Lord, are kind and forgiving, rich in loving devotion to all who call on You. Hear my prayer, O LORD, and attend to my plea for mercy. In the day of my distress I call on You, because You answer me. O Lord, there is none like You among the gods, nor any works like Yours. All the nations You have made will come and bow before You, O Lord, and they will glorify Your name. For You are great and perform wonders; You alone are God. Teach me Your way, O LORD, that I may walk in Your truth. Give me an undivided heart, that I may fear Your name. I will praise You, O Lord my God, with all my heart; I will glorify Your name forever. For great is Your loving devotion to me; You have delivered me from the depths of Sheol. The arrogant rise against me, O God; a band of ruthless men seeks my life; they have no regard for You. But You, O Lord, are a compassionate and gracious God, slow to anger, abounding in loving devotion and faithfulness. Turn to me and have mercy; grant Your strength to Your servant; save the son of Your maidservant. Show me a sign of Your goodness, that my enemies may see and be ashamed; for You, O LORD, have helped me and comforted me.",
+  "word_count": 293,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/PSA/86/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_19_Psa_086_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/PSA/86/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/PSA/86/audio/souer.mp3"
+  },
+  "score": 0.6873
+ },
+ "built": "2026-09-11T03:05:08Z"
+}

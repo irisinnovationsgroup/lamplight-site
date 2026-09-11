@@ -1,0 +1,131 @@
+{
+ "slug": "money-running-out",
+ "title": "Money running out",
+ "register": "fear",
+ "situation": "I do not know how I will pay for what my family needs.",
+ "echo": {
+  "slot": "echo",
+  "reference": "Genesis 42:1-24",
+  "heading": "Joseph’s Brothers Sent to Egypt",
+  "heading_source": "translation",
+  "book_id": "GEN",
+  "text": "When Jacob learned that there was grain in Egypt, he said to his sons, “Why are you staring at one another?” “Look,” he added, “I have heard that there is grain in Egypt. Go down there and buy some for us, so that we may live and not die.” So ten of Joseph’s brothers went down to buy grain from Egypt. But Jacob did not send Joseph’s brother Benjamin with his brothers, for he said, “I am afraid that harm might befall him.” So the sons of Israel were among those who came to buy grain, since the famine had also spread to the land of Canaan. Now Joseph was the ruler of the land; he was the one who sold grain to all its people. So when his brothers arrived, they bowed down before him with their faces to the ground. And when Joseph saw his brothers, he recognized them, but he treated them as strangers and spoke harshly to them. “Where have you come from?” he asked. “From the land of Canaan,” they replied. “We are here to buy food.” Although Joseph recognized his brothers, they did not recognize him. Joseph remembered his dreams about them and said, “You are spies! You have come to see if our land is vulnerable.” “Not so, my lord,” they replied. “Your servants have come to buy food. We are all sons of one man. Your servants are honest men, not spies.” “No,” he told them. “You have come to see if our land is vulnerable.” But they answered, “Your servants are twelve brothers, the sons of one man in the land of Canaan. The youngest is now with our father, and one is no more.” Then Joseph declared, “Just as I said, you are spies! And this is how you will be tested: As surely as Pharaoh lives, you shall not leave this place unless your youngest brother comes here. Send one of your number to get your brother; the rest of you will be confined so that the truth of your words may be tested. If they are untrue, then as surely as Pharaoh lives, you are spies!” So Joseph imprisoned them for three days, and on the third day he said to them, “I fear God. So do this and you will live: If you are honest, leave one of your brothers in custody while the rest of you go and take back grain to relieve the hunger of your households. Then bring your youngest brother to me so that your words can be verified, that you may not die.” And to this they consented. Then they said to one another, “Surely we are being punished because of our brother. We saw his anguish when he pleaded with us, but we would not listen. That is why this distress has come upon us.” And Reuben responded, “Didn’t I tell you not to sin against the boy? But you would not listen. Now we must account for his blood!” They did not realize that Joseph understood them, since there was an interpreter between them. And he turned away from them and wept. When he turned back and spoke to them, he took Simeon from them and had him bound before their eyes.",
+  "word_count": 542,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/GEN/42/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_01_Gen_042_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/GEN/42/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/GEN/42/audio/souer.mp3"
+  },
+  "situation": "Family members face starvation due to a widespread crisis and must travel to an unfamiliar place to secure food while dealing with suspicion and hidden past conflicts.",
+  "register": "fear",
+  "score": 0.618,
+  "margin": 0.008,
+  "context": "Jacob’s sons travel to Egypt to purchase grain during a severe famine that threatens their family's survival in Canaan. Upon arriving, they encounter Joseph, who is now the ruler of Egypt, and he accuses them of being spies before imprisoning them to test their honesty.",
+  "connection": "The anxiety surrounding the scarcity of essential resources may echo the modern fear of not having enough to sustain one's household. This narrative resembles the profound stress families feel when economic instability makes basic needs seem unattainable.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'fear' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:GEN.42.1-24"
+ },
+ "promise": {
+  "slot": "promise",
+  "reference": "Matthew 6:25-34",
+  "heading": "Do Not Worry",
+  "heading_source": "translation",
+  "book_id": "MAT",
+  "text": "Therefore I tell you, do not worry about your life, what you will eat or drink; or about your body, what you will wear. Is not life more than food, and the body more than clothes? Look at the birds of the air: They do not sow or reap or gather into barns, and yet your heavenly Father feeds them. Are you not much more valuable than they? Who of you by worrying can add a single hour to his life? And why do you worry about clothes? Consider how the lilies of the field grow: They do not labor or spin. Yet I tell you that not even Solomon in all his glory was adorned like one of these. If that is how God clothes the grass of the field, which is here today and tomorrow is thrown into the furnace, will He not much more clothe you, O you of little faith? Therefore do not worry, saying, ‘What shall we eat?’ or ‘What shall we drink?’ or ‘What shall we wear?’ For the Gentiles strive after all these things, and your heavenly Father knows that you need them. But seek first the kingdom of God and His righteousness, and all these things will be added unto you. Therefore do not worry about tomorrow, for tomorrow will worry about itself. Today has enough trouble of its own.",
+  "word_count": 228,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/MAT/6/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_40_Mat_006_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/MAT/6/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/MAT/6/audio/souer.mp3"
+  },
+  "situation": "People are overwhelmed by anxiety over basic survival needs like food, clothing, and financial security, fearing they cannot provide for themselves or their families in the future.",
+  "register": "fear",
+  "score": 0.6748,
+  "margin": 0.0338,
+  "context": "Jesus addresses his disciples in a rural setting, using examples from nature to illustrate God's care for creation and to counter their anxiety about basic survival needs like food and clothing.",
+  "connection": "This teaching may echo the quiet desperation of those facing financial precarity, suggesting that seeking spiritual grounding might offer a different perspective on material scarcity than striving alone.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'fear' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:MAT.6.25-34"
+ },
+ "prayer": {
+  "reference": "1 Samuel 1:9-18",
+  "heading": "Hannah Prays for a Son",
+  "heading_source": "translation",
+  "text": "So after they had finished eating and drinking in Shiloh, Hannah stood up. Now Eli the priest was sitting on a chair by the doorpost of the temple of the LORD. In her bitter distress, Hannah prayed to the LORD and wept with many tears. And she made a vow, saying, “O LORD of Hosts, if only You will look upon the affliction of Your maidservant and remember me, not forgetting Your maidservant but giving her a son, then I will dedicate him to the LORD all the days of his life, and no razor shall ever touch his head.” As Hannah kept on praying before the LORD, Eli watched her mouth. Hannah was praying in her heart, and though her lips were moving, her voice could not be heard. So Eli thought she was drunk and said to her, “How long will you be drunk? Put away your wine!” “No, my lord,” Hannah replied. “I am a woman troubled in spirit. I have not had any wine or strong drink, but I have poured out my soul before the LORD. Do not take your servant for a wicked woman, for all this time I have been praying out of the depth of my anguish and grief.” “Go in peace,” Eli replied, “and may the God of Israel grant the petition you have asked of Him.” “May your maidservant find favor with you,” said Hannah. Then she went on her way, and she began to eat, and her face was no longer downcast.",
+  "word_count": 253,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/1SA/1/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_09_1Sa_001_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/1SA/1/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/1SA/1/audio/souer.mp3"
+  },
+  "score": 0.6485
+ },
+ "built": "2026-09-11T03:04:31Z"
+}

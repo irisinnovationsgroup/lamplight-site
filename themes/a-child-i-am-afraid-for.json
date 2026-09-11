@@ -1,0 +1,131 @@
+{
+ "slug": "a-child-i-am-afraid-for",
+ "title": "A child I am afraid for",
+ "register": "fear",
+ "situation": "My child is in trouble or in danger and I cannot protect them from it.",
+ "echo": {
+  "slot": "echo",
+  "reference": "Exodus 2:1-10",
+  "heading": "The Birth and Adoption of Moses",
+  "heading_source": "translation",
+  "book_id": "EXO",
+  "text": "Now a man of the house of Levi married a Levite woman, and she conceived and gave birth to a son. When she saw that he was a beautiful child, she hid him for three months. But when she could no longer hide him, she got him a papyrus basket and coated it with tar and pitch. Then she placed the child in the basket and set it among the reeds along the bank of the Nile. And his sister stood at a distance to see what would happen to him. Soon the daughter of Pharaoh went down to bathe in the Nile, and her attendants were walking along the riverbank. And when she saw the basket among the reeds, she sent her maidservant to retrieve it. When she opened it, she saw the child, and behold, the little boy was crying. So she had compassion on him and said, “This is one of the Hebrew children.” Then his sister said to Pharaoh’s daughter, “Shall I go and call one of the Hebrew women to nurse the child for you?” “Go ahead,” Pharaoh’s daughter told her. And the girl went and called the boy’s mother. Pharaoh’s daughter said to her, “Take this child and nurse him for me, and I will pay your wages.” So the woman took the boy and nursed him. When the child had grown older, she brought him to Pharaoh’s daughter, and he became her son. She named him Moses and explained, “I drew him out of the water.”",
+  "word_count": 253,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/EXO/2/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_02_Exo_002_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/EXO/2/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/EXO/2/audio/souer.mp3"
+  },
+  "situation": "A parent hides a vulnerable child from danger and eventually entrusts them to an authority figure who unexpectedly offers protection and care.",
+  "register": "fear",
+  "score": 0.7623,
+  "margin": 0.0457,
+  "context": "In ancient Egypt, a Levite mother hides her newborn son to save him from Pharaoh's decree ordering the death of Hebrew male infants, eventually placing him in a waterproof basket among the Nile reeds where he is discovered by Pharaoh's daughter.",
+  "connection": "This narrative may echo the profound anxiety of parents who feel powerless to shield their children from systemic dangers beyond their control. It reflects the desperate hope that compassion from unexpected sources might intervene when human protection fails.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'fear' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:EXO.2.1-10"
+ },
+ "promise": {
+  "slot": "promise",
+  "reference": "Psalms 91:1-16",
+  "heading": "You Are My Refuge and My Fortress",
+  "heading_source": "translation",
+  "book_id": "PSA",
+  "text": "He who dwells in the shelter of the Most High will abide in the shadow of the Almighty. I will say to the LORD, “You are my refuge and my fortress, my God, in whom I trust.” Surely He will deliver you from the snare of the fowler, and from the deadly plague. He will cover you with His feathers; under His wings you will find refuge; His faithfulness is a shield and rampart. You will not fear the terror of the night, nor the arrow that flies by day, nor the pestilence that stalks in the darkness, nor the calamity that destroys at noon. Though a thousand may fall at your side, and ten thousand at your right hand, no harm will come near you. You will only see it with your eyes and witness the punishment of the wicked. Because you have made the LORD your dwelling— my refuge, the Most High— no evil will befall you, no plague will approach your tent. For He will command His angels concerning you to guard you in all your ways. They will lift you up in their hands, so that you will not strike your foot against a stone. You will tread on the lion and cobra; you will trample the young lion and serpent. “Because he loves Me, I will deliver him; because he knows My name, I will protect him. When he calls out to Me, I will answer him; I will be with him in trouble. I will deliver him and honor him. With long life I will satisfy him and show him My salvation.”",
+  "word_count": 268,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/PSA/91/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_19_Psa_091_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/PSA/91/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/PSA/91/audio/souer.mp3"
+  },
+  "situation": "People facing overwhelming danger and anxiety seek safety and protection in a powerful protector who promises to keep them safe from harm and answer their cries for help.",
+  "register": "fear",
+  "score": 0.7508,
+  "margin": 0.0195,
+  "context": "The psalmist expresses personal trust in divine protection against various forms of sudden violence and disease, describing a scenario where the faithful are shielded from harm while observing the downfall of others.",
+  "connection": "This text may echo the profound anxiety of parents who feel powerless to protect their children from external dangers, offering a metaphorical sense of shelter rather than a guarantee of physical safety.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'fear' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:PSA.91.1-16"
+ },
+ "prayer": {
+  "reference": "Psalms 86:1-17",
+  "heading": "Tried but Trusting",
+  "heading_source": "translation",
+  "text": "Incline Your ear, O LORD, and answer me, for I am poor and needy. Preserve my soul, for I am godly. You are my God; save Your servant who trusts in You. Be merciful to me, O Lord, for I call to You all day long. Bring joy to Your servant, for to You, O Lord, I lift up my soul. For You, O Lord, are kind and forgiving, rich in loving devotion to all who call on You. Hear my prayer, O LORD, and attend to my plea for mercy. In the day of my distress I call on You, because You answer me. O Lord, there is none like You among the gods, nor any works like Yours. All the nations You have made will come and bow before You, O Lord, and they will glorify Your name. For You are great and perform wonders; You alone are God. Teach me Your way, O LORD, that I may walk in Your truth. Give me an undivided heart, that I may fear Your name. I will praise You, O Lord my God, with all my heart; I will glorify Your name forever. For great is Your loving devotion to me; You have delivered me from the depths of Sheol. The arrogant rise against me, O God; a band of ruthless men seeks my life; they have no regard for You. But You, O Lord, are a compassionate and gracious God, slow to anger, abounding in loving devotion and faithfulness. Turn to me and have mercy; grant Your strength to Your servant; save the son of Your maidservant. Show me a sign of Your goodness, that my enemies may see and be ashamed; for You, O LORD, have helped me and comforted me.",
+  "word_count": 293,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/PSA/86/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_19_Psa_086_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/PSA/86/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/PSA/86/audio/souer.mp3"
+  },
+  "score": 0.7284
+ },
+ "built": "2026-09-11T03:04:20Z"
+}

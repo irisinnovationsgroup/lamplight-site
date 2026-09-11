@@ -1,0 +1,131 @@
+{
+ "slug": "caring-for-someone-who-is-failing",
+ "title": "Caring for someone who is failing",
+ "register": "endurance",
+ "situation": "I am looking after someone whose condition only goes one way, and I am tired.",
+ "echo": {
+  "slot": "echo",
+  "reference": "Matthew 8:14-17",
+  "heading": "Jesus Heals at Peter’s House",
+  "heading_source": "translation",
+  "book_id": "MAT",
+  "text": "When Jesus arrived at Peter’s house, He saw Peter’s mother-in-law sick in bed with a fever. So He touched her hand, and the fever left her, and she got up and began to serve Him. When evening came, many who were demon-possessed were brought to Jesus, and He drove out the spirits with a word and healed all the sick. This was to fulfill what was spoken through the prophet Isaiah: “He took up our infirmities and carried our diseases.”",
+  "word_count": 80,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/MAT/8/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_40_Mat_008_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/MAT/8/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/MAT/8/audio/souer.mp3"
+  },
+  "situation": "A person caring for a loved one who is suddenly ill seeks relief from their suffering through direct intervention.",
+  "register": "mercy",
+  "score": 0.7793,
+  "margin": 0.0084,
+  "context": "Jesus visits Peter’s home and finds his mother-in-law suffering from a high fever in bed. He touches her hand, curing her illness, and subsequently heals many others brought to him that evening.",
+  "connection": "This narrative may echo the exhaustion of those providing continuous care for someone with a deteriorating condition. It acknowledges the physical toll of caregiving while highlighting the dignity found in small moments of relief and service.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'endurance' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:MAT.8.14-17"
+ },
+ "promise": {
+  "slot": "promise",
+  "reference": "Matthew 8:1-4",
+  "heading": "The Leper’s Prayer",
+  "heading_source": "translation",
+  "book_id": "MAT",
+  "text": "When Jesus came down from the mountain, large crowds followed Him. Suddenly a leper came and knelt before Him, saying, “Lord, if You are willing, You can make me clean.” Jesus reached out His hand and touched the man. “I am willing,” He said. “Be clean!” And immediately his leprosy was cleansed. Then Jesus instructed him, “See that you don’t tell anyone. But go, show yourself to the priest and offer the gift prescribed by Moses, as a testimony to them.”",
+  "word_count": 81,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/MAT/8/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_40_Mat_008_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/MAT/8/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/MAT/8/audio/souer.mp3"
+  },
+  "situation": "A person suffering from a visible and isolating condition approaches someone with the power to heal them, expressing both hope in their ability and uncertainty about their willingness to help.",
+  "register": "mercy",
+  "score": 0.7806,
+  "margin": 0.0009,
+  "context": "A man suffering from leprosy approaches Jesus in a crowded area, kneeling to ask for healing while acknowledging his own helplessness. Jesus responds by physically touching the outcast and commanding him to be cleansed, followed by instructions to present himself to religious authorities.",
+  "connection": "This narrative may echo the exhaustion of those caring for loved ones whose conditions deteriorate without hope of recovery. It offers a glimpse of comfort through presence and touch, acknowledging the weight of grief while suggesting that compassion can exist even when outcomes remain uncertain.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'endurance' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:MAT.8.1-4"
+ },
+ "prayer": {
+  "reference": "Luke 5:12-16",
+  "heading": "The Leper’s Prayer",
+  "heading_source": "translation",
+  "text": "While Jesus was in one of the towns, a man came along who was covered with leprosy. When he saw Jesus, he fell facedown and begged Him, “Lord, if You are willing, You can make me clean.” Jesus reached out His hand and touched the man. “I am willing,” He said. “Be clean!” And immediately the leprosy left him. “Do not tell anyone,” Jesus instructed him. “But go, show yourself to the priest and present the offering Moses prescribed for your cleansing, as a testimony to them.” But the news about Jesus spread all the more, and great crowds came to hear Him and to be healed of their sicknesses. Yet He frequently withdrew to the wilderness to pray.",
+  "word_count": 119,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/LUK/5/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_42_Luk_005_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/LUK/5/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/LUK/5/audio/souer.mp3"
+  },
+  "score": 0.7521
+ },
+ "built": "2026-09-11T03:04:27Z"
+}

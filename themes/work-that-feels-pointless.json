@@ -1,0 +1,131 @@
+{
+ "slug": "work-that-feels-pointless",
+ "title": "Work that feels pointless",
+ "register": "doubt",
+ "situation": "I work hard at something that seems to matter to nobody, including me.",
+ "echo": {
+  "slot": "echo",
+  "reference": "Haggai 1:1-11",
+  "heading": "A Call to Rebuild the Temple",
+  "heading_source": "translation",
+  "book_id": "HAG",
+  "text": "In the second year of the reign of Darius, on the first day of the sixth month, the word of the LORD came through Haggai the prophet to Zerubbabel son of Shealtiel, governor of Judah, and to Joshua son of Jehozadak, the high priest, stating that this is what the LORD of Hosts says: “These people say, ‘The time has not yet come to rebuild the house of the LORD.’” Then the word of the LORD came through Haggai the prophet, saying: “Is it a time for you yourselves to live in your paneled houses, while this house lies in ruins?” Now this is what the LORD of Hosts says: “Consider carefully your ways. You have planted much but harvested little. You eat but never have enough. You drink but never have your fill. You put on clothes but never get warm. You earn wages to put into a bag pierced through.” This is what the LORD of Hosts says: “Consider carefully your ways. Go up into the hills, bring down lumber, and build the house, so that I may take pleasure in it and be glorified, says the LORD. You expected much, but behold, it amounted to little. And what you brought home, I blew away. Why? declares the LORD of Hosts. Because My house still lies in ruins, while each of you is busy with his own house. Therefore, on account of you the heavens have withheld their dew and the earth has withheld its crops. I have summoned a drought on the fields and on the mountains, on the grain, new wine, and oil, and on whatever the ground yields, on man and beast, and on all the labor of your hands.”",
+  "word_count": 285,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/HAG/1/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_37_Hag_001_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/HAG/1/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/HAG/1/audio/souer.mp3"
+  },
+  "situation": "People are neglecting their shared responsibilities to focus on their own comfort, resulting in persistent frustration and a sense that their hard work yields no lasting benefit.",
+  "register": "instruction",
+  "score": 0.6574,
+  "margin": 0.0107,
+  "context": "The returned exiles in Jerusalem have halted construction on the Temple to focus on their own homes, resulting in economic hardship and agricultural failure despite their hard labor.",
+  "connection": "This may echo the frustration of modern workers who feel their efforts yield no tangible reward or meaning. The sense that one's labor is being 'blown away' resembles the experience of striving for stability while feeling fundamentally unfulfilled.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'doubt' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:HAG.1.1-11"
+ },
+ "promise": {
+  "slot": "promise",
+  "reference": "1 Corinthians 3:10-15",
+  "heading": "Christ Our Foundation",
+  "heading_source": "translation",
+  "book_id": "1CO",
+  "text": "By the grace God has given me, I laid a foundation as an expert builder, and someone else is building on it. But each one must be careful how he builds. For no one can lay a foundation other than the one already laid, which is Jesus Christ. If anyone builds on this foundation using gold, silver, precious stones, wood, hay, or straw, his workmanship will be evident, because the Day will bring it to light. It will be revealed with fire, and the fire will prove the quality of each man’s work. If what he has built survives, he will receive a reward. If it is burned up, he will suffer loss. He himself will be saved, but only as if through the flames.",
+  "word_count": 125,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/1CO/3/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_46_1Co_003_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/1CO/3/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/1CO/3/audio/souer.mp3"
+  },
+  "situation": "A person worries that their hard work and efforts might be worthless or fail when tested by a future event.",
+  "register": "instruction",
+  "score": 0.7265,
+  "margin": 0.0313,
+  "context": "Paul addresses the Corinthian church, warning them that while he established the community's foundation in Christ, their ongoing spiritual construction will be tested by fire to reveal whether their efforts are of enduring value or merely temporary.",
+  "connection": "This may echo the anxiety of laboring on projects that feel invisible or insignificant, where the fear is not just failure, but that one's dedicated work might ultimately lack substance or lasting impact.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'doubt' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:1CO.3.10-15"
+ },
+ "prayer": {
+  "reference": "Psalms 132:1-18",
+  "heading": "The LORD Has Chosen Zion",
+  "heading_source": "translation",
+  "text": "O LORD, remember on behalf of David all the hardships he endured, how he swore an oath to the LORD, and vowed to the Mighty One of Jacob: “I will not enter my house or get into my bed, I will not give sleep to my eyes or slumber to my eyelids, until I find a place for the LORD, a dwelling for the Mighty One of Jacob. ” We heard that the ark was in Ephrathah; we found it in the fields of Jaar. Let us go to His dwelling place; let us worship at His footstool. Arise, O LORD, to Your resting place, You and the ark of Your strength. May Your priests be clothed with righteousness, and Your saints shout for joy. For the sake of Your servant David, do not reject Your anointed one. The LORD swore an oath to David, a promise He will not revoke: “One of your descendants I will place on your throne. If your sons keep My covenant and the testimony I will teach them, then their sons will also sit on your throne forever and ever.” For the LORD has chosen Zion; He has desired it for His home: “This is My resting place forever and ever; here I will dwell, for I have desired this home. I will bless her with abundant provisions; I will satisfy her poor with bread. I will clothe her priests with salvation, and her saints will sing out in joy. There I will make a horn grow for David; I have prepared a lamp for My anointed one. I will clothe his enemies with shame, but the crown upon him will gleam.”",
+  "word_count": 278,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/PSA/132/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_19_Psa_132_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/PSA/132/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/PSA/132/audio/souer.mp3"
+  },
+  "score": 0.6673
+ },
+ "built": "2026-09-11T03:04:39Z"
+}

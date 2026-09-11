@@ -1,0 +1,131 @@
+{
+ "slug": "forgiving-myself",
+ "title": "Forgiving myself",
+ "register": "mercy",
+ "situation": "Other people have forgiven me and I cannot manage it myself.",
+ "echo": {
+  "slot": "echo",
+  "reference": "1 John 2:1-6",
+  "heading": "Jesus Our Advocate",
+  "heading_source": "translation",
+  "book_id": "1JN",
+  "text": "My little children, I am writing these things to you so that you will not sin. But if anyone does sin, we have an advocate before the Father—Jesus Christ, the Righteous One. He Himself is the atoning sacrifice for our sins, and not only for ours but also for the sins of the whole world. By this we can be sure that we have come to know Him: if we keep His commandments. If anyone says, “I know Him,” but does not keep His commandments, he is a liar, and the truth is not in him. But if anyone keeps His word, the love of God has been truly perfected in him. By this we know that we are in Him: Whoever claims to abide in Him must walk as Jesus walked.",
+  "word_count": 132,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/1JN/2/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_62_1Jn_002_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/1JN/2/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/1JN/2/audio/souer.mp3"
+  },
+  "situation": "People who have made mistakes are seeking reassurance that they are still accepted and supported despite their failures.",
+  "register": "mercy",
+  "score": 0.7115,
+  "margin": 0.0203,
+  "context": "The author addresses early Christian communities, reassuring them that Jesus Christ serves as an advocate before God for those who sin, emphasizing that true knowledge of Him is demonstrated by keeping His commandments and walking as He walked.",
+  "connection": "This may echo the struggle of individuals who find it difficult to accept forgiveness from others because they cannot extend that same grace to themselves. The text suggests that abiding in love involves a practical commitment to ethical living, which might resonate with those seeking to align their self-perception with their actions.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'mercy' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:1JN.2.1-6"
+ },
+ "promise": {
+  "slot": "promise",
+  "reference": "Micah 7:7-13",
+  "heading": "Israel’s Confession and Comfort",
+  "heading_source": "translation",
+  "book_id": "MIC",
+  "text": "But as for me, I will look to the LORD; I will wait for the God of my salvation. My God will hear me. Do not gloat over me, my enemy! Though I have fallen, I will arise; though I sit in darkness, the LORD will be my light. Because I have sinned against Him, I must endure the rage of the LORD, until He argues my case and executes justice for me. He will bring me into the light; I will see His righteousness. Then my enemy will see and will be covered with shame— she who said to me, “Where is the LORD your God?” My eyes will see her; at that time she will be trampled like mud in the streets. The day for rebuilding your walls will come— the day for extending your boundary. On that day they will come to you from Assyria and the cities of Egypt, even from Egypt to the Euphrates, from sea to sea and mountain to mountain. Then the earth will become desolate because of its inhabitants, as the fruit of their deeds.",
+  "word_count": 183,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/MIC/7/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_33_Mic_007_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/MIC/7/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/MIC/7/audio/souer.mp3"
+  },
+  "situation": "A person who has suffered a setback and feels isolated by their mistakes finds strength in patiently trusting that justice will eventually be served and their reputation restored.",
+  "register": "endurance",
+  "score": 0.7622,
+  "margin": 0.0144,
+  "context": "The speaker in Micah 7:7-13 describes a personal state of humiliation and spiritual darkness following sin, waiting for God to vindicate them against an enemy who mocks their faith.",
+  "connection": "This may echo the experience of someone struggling to accept forgiveness from others, finding that looking toward the divine offers a sense of light and hope when human comfort feels insufficient.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'mercy' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:MIC.7.7-13"
+ },
+ "prayer": {
+  "reference": "Psalms 103:1-22",
+  "heading": "Bless the LORD, O My Soul",
+  "heading_source": "translation",
+  "text": "Bless the LORD, O my soul; all that is within me, bless His holy name. Bless the LORD, O my soul, and do not forget all His kind deeds— He who forgives all your iniquities and heals all your diseases, who redeems your life from the Pit and crowns you with loving devotion and compassion, who satisfies you with good things, so that your youth is renewed like the eagle’s. The LORD executes righteousness and justice for all the oppressed. He made known His ways to Moses, His deeds to the people of Israel. The LORD is compassionate and gracious, slow to anger, abounding in loving devotion. He will not always accuse us, nor harbor His anger forever. He has not dealt with us according to our sins or repaid us according to our iniquities. For as high as the heavens are above the earth, so great is His loving devotion for those who fear Him. As far as the east is from the west, so far has He removed our transgressions from us. As a father has compassion on his children, so the LORD has compassion on those who fear Him. For He knows our frame; He is mindful that we are dust. As for man, his days are like grass— he blooms like a flower of the field; when the wind passes over, it vanishes, and its place remembers it no more. But from everlasting to everlasting the loving devotion of the LORD extends to those who fear Him, and His righteousness to their children’s children— to those who keep His covenant and remember to obey His precepts. The LORD has established His throne in heaven, and His kingdom rules over all. Bless the LORD, all His angels mighty in strength who carry out His word, who hearken to the voice of His command. Bless the LORD, all His hosts, you servants who do His will. Bless the LORD, all His works in all places of His dominion. Bless the LORD, O my soul!",
+  "word_count": 336,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/PSA/103/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_19_Psa_103_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/PSA/103/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/PSA/103/audio/souer.mp3"
+  },
+  "score": 0.6935
+ },
+ "built": "2026-09-11T03:05:42Z"
+}

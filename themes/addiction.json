@@ -1,0 +1,131 @@
+{
+ "slug": "addiction",
+ "title": "Addiction",
+ "register": "endurance",
+ "situation": "I keep going back to the thing that is destroying me.",
+ "echo": {
+  "slot": "echo",
+  "reference": "Mark 8:22-26",
+  "heading": "The Blind Man at Bethsaida",
+  "heading_source": "translation",
+  "book_id": "MRK",
+  "text": "When they arrived at Bethsaida, some people brought a blind man and begged Jesus to touch him. So He took the blind man by the hand and led him out of the village. Then He spit on the man’s eyes and placed His hands on him. “Can you see anything?” He asked. The man looked up and said, “I can see the people, but they look like trees walking around.” Once again Jesus placed His hands on the man’s eyes, and when he opened them his sight was restored, and he could see everything clearly. Jesus sent him home and said, “Do not go back into the village.”",
+  "word_count": 108,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/MRK/8/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_41_Mrk_008_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/MRK/8/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/MRK/8/audio/souer.mp3"
+  },
+  "situation": "A person seeks help for a persistent problem that requires gradual healing rather than an immediate fix.",
+  "register": "endurance",
+  "score": 0.5877,
+  "margin": 0.0061,
+  "context": "In Bethsaida, Jesus takes a blind man by the hand and leads him out of the village to heal him gradually, first partially and then fully, before instructing him not to return to the place he came from.",
+  "connection": "This gradual restoration may echo the non-linear journey of breaking an addiction, where recovery often requires stepping away from familiar environments that trigger old patterns. The command to avoid returning home resembles the difficult necessity of changing one's surroundings to sustain healing.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'endurance' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:MRK.8.22-26"
+ },
+ "promise": {
+  "slot": "promise",
+  "reference": "Lamentations 3:19-36",
+  "heading": "The Prophet’s Hope",
+  "heading_source": "translation",
+  "book_id": "LAM",
+  "text": "Remember my affliction and wandering, the wormwood and the gall. Surely my soul remembers and is humbled within me. Yet I call this to mind, and therefore I have hope: Because of the loving devotion of the LORD we are not consumed, for His mercies never fail. They are new every morning; great is Your faithfulness! “The LORD is my portion,” says my soul, “therefore I will hope in Him.” The LORD is good to those who wait for Him, to the soul who seeks Him. It is good to wait quietly for the salvation of the LORD. It is good for a man to bear the yoke while he is still young. Let him sit alone in silence, for the LORD has laid it upon him. Let him bury his face in the dust— perhaps there is still hope. Let him offer his cheek to the one who would strike him; let him be filled with reproach. For the Lord will not cast us off forever. Even if He causes grief, He will show compassion according to His abundant loving devotion. For He does not willingly afflict or grieve the sons of men. To crush underfoot all the prisoners of the land, to deny a man justice before the Most High, to subvert a man in his lawsuit— of these the Lord does not approve.",
+  "word_count": 226,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/LAM/3/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_25_Lam_003_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/LAM/3/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/LAM/3/audio/souer.mp3"
+  },
+  "situation": "A person endures deep suffering and humiliation while finding strength to hope in enduring kindness that renews daily.",
+  "register": "endurance",
+  "score": 0.7229,
+  "margin": 0.0337,
+  "context": "The speaker, likely Jeremiah in Jerusalem after its destruction, reflects on personal affliction and national ruin while recalling God's steadfast mercy as a source of hope. He describes enduring humiliation and silence as a posture of waiting for divine salvation rather than immediate relief.",
+  "connection": "This text may echo the experience of someone trapped in a cycle of addiction who feels overwhelmed by shame yet finds a fragile anchor in the idea that compassion is renewed daily. It suggests that sitting with the pain without rushing to fix it might be a necessary step toward finding hope amidst the grief.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'endurance' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:LAM.3.19-36"
+ },
+ "prayer": {
+  "reference": "Psalms 130:1-8",
+  "heading": "Out of the Depths",
+  "heading_source": "translation",
+  "text": "Out of the depths I cry to You, O LORD! O Lord, hear my voice; let Your ears be attentive to my plea for mercy. If You, O LORD, kept track of iniquities, then who, O Lord, could stand? But with You there is forgiveness, so that You may be feared. I wait for the LORD; my soul does wait, and in His word I put my hope. My soul waits for the Lord more than watchmen wait for the morning— more than watchmen wait for the morning. O Israel, put your hope in the LORD, for with the LORD is loving devotion, and with Him is redemption in abundance. And He will redeem Israel from all iniquity.",
+  "word_count": 118,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/PSA/130/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_19_Psa_130_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/PSA/130/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/PSA/130/audio/souer.mp3"
+  },
+  "score": 0.693
+ },
+ "built": "2026-09-11T03:05:38Z"
+}

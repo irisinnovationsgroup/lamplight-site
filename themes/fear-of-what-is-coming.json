@@ -1,0 +1,131 @@
+{
+ "slug": "fear-of-what-is-coming",
+ "title": "Fear of what is coming",
+ "register": "fear",
+ "situation": "Nothing bad has happened yet and I cannot stop bracing for it.",
+ "echo": {
+  "slot": "echo",
+  "reference": "Isaiah 21:1-10",
+  "heading": "Babylon Is Fallen",
+  "heading_source": "translation",
+  "book_id": "ISA",
+  "text": "This is the burden against the Desert by the Sea: Like whirlwinds sweeping through the Negev, an invader comes from the desert, from a land of terror. A dire vision is declared to me: “The traitor still betrays, and the destroyer still destroys. Go up, O Elam! Lay siege, O Media! I will put an end to all her groaning.” Therefore my body is filled with anguish. Pain grips me, like the pains of a woman in labor. I am bewildered to hear, I am dismayed to see. My heart falters; fear makes me tremble. The twilight I desired has turned to horror. They prepare a table, they lay out a carpet, they eat, they drink! Rise up, O princes, oil the shields! For this is what the Lord says to me: “Go, post a lookout and have him report what he sees. When he sees chariots with teams of horsemen, riders on donkeys, riders on camels, he must be alert, fully alert.” Then the lookout shouted: “Day after day, my lord, I stand on the watchtower; night after night I stay at my post. Look, here come the riders, horsemen in pairs.” And one answered, saying: “Fallen, fallen is Babylon! All the images of her gods lie shattered on the ground!” O my people, crushed on the threshing floor, I tell you what I have heard from the LORD of Hosts, the God of Israel.",
+  "word_count": 236,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/ISA/21/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_23_Isa_021_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/ISA/21/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/ISA/21/audio/souer.mp3"
+  },
+  "situation": "A person watches anxiously for news of an impending attack while feeling intense fear and anguish over a powerful enemy's sudden victory.",
+  "register": "fear",
+  "score": 0.6291,
+  "margin": 0.0163,
+  "context": "The prophet Isaiah receives a vision regarding the impending fall of Babylon, describing the terror of approaching invaders and his own visceral anguish as he waits for news from a lookout post.",
+  "connection": "This may echo the modern experience of living in a state of anticipatory anxiety, where the waiting itself becomes a source of dread. It resembles the feeling of being paralyzed by fear while watching events unfold, unable to stop bracing for an impact that has not yet arrived.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'fear' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:ISA.21.1-10"
+ },
+ "promise": {
+  "slot": "promise",
+  "reference": "John 14:27-31",
+  "heading": "Peace I Leave with You",
+  "heading_source": "translation",
+  "book_id": "JHN",
+  "text": "Peace I leave with you; My peace I give to you. I do not give to you as the world gives. Do not let your hearts be troubled; do not be afraid. You heard Me say, ‘I am going away, and I am coming back to you.’ If you loved Me, you would rejoice that I am going to the Father, because the Father is greater than I. And now I have told you before it happens, so that when it does happen, you will believe. I will not speak with you much longer, for the prince of this world is coming, and he has no claim on Me. But I do exactly what the Father has commanded Me, so that the world may know that I love the Father. Get up! Let us go on from here.",
+  "word_count": 138,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/JHN/14/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_43_Jhn_014_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/JHN/14/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/JHN/14/audio/souer.mp3"
+  },
+  "situation": "People facing imminent loss and external threats feel anxious and fearful, needing reassurance to remain calm and trust in a higher purpose despite their uncertainty.",
+  "register": "fear",
+  "score": 0.6908,
+  "margin": 0.0009,
+  "context": "Jesus speaks these words to his disciples in an upper room during the final hours before his arrest and crucifixion, acknowledging their impending distress and his imminent departure from them.",
+  "connection": "This may echo the tension of waiting for a feared outcome while trying to maintain inner stability, suggesting that peace is not the absence of trouble but a distinct presence within it. It offers a framework for enduring uncertainty without assuming the current anxiety dictates the final reality.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'fear' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:JHN.14.27-31"
+ },
+ "prayer": {
+  "reference": "Psalms 77:1-20",
+  "heading": "In the Day of Trouble I Sought the Lord",
+  "heading_source": "translation",
+  "text": "I cried out to God; I cried aloud to God to hear me. In the day of trouble I sought the Lord; through the night my outstretched hands did not grow weary; my soul refused to be comforted. I remembered You, O God, and I groaned; I mused and my spirit grew faint. Selah You have kept my eyes from closing; I am too troubled to speak. I considered the days of old, the years long in the past. At night I remembered my song; in my heart I mused, and my spirit pondered: “Will the Lord spurn us forever and never show His favor again? Is His loving devotion gone forever? Has His promise failed for all time? Has God forgotten to be gracious? Has His anger shut off His compassion?” Selah So I said, “I am grieved that the right hand of the Most High has changed.” I will remember the works of the LORD; yes, I will remember Your wonders of old. I will reflect on all You have done and ponder Your mighty deeds. Your way, O God, is holy. What god is so great as our God? You are the God who works wonders; You display Your strength among the peoples. With power You redeemed Your people, the sons of Jacob and Joseph. Selah The waters saw You, O God; the waters saw You and swirled; even the depths were shaken. The clouds poured down water; the skies resounded with thunder; Your arrows flashed back and forth. Your thunder resounded in the whirlwind; the lightning lit up the world; the earth trembled and quaked. Your path led through the sea, Your way through the mighty waters, but Your footprints were not to be found. You led Your people like a flock by the hand of Moses and Aaron.",
+  "word_count": 303,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/PSA/77/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_19_Psa_077_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/PSA/77/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/PSA/77/audio/souer.mp3"
+  },
+  "score": 0.7131
+ },
+ "built": "2026-09-11T03:06:24Z"
+}

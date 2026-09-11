@@ -1,0 +1,131 @@
+{
+ "slug": "starting-again",
+ "title": "Starting again",
+ "register": "courage",
+ "situation": "Something ended and I have to build a life from the beginning.",
+ "echo": {
+  "slot": "echo",
+  "reference": "Genesis 9:1-17",
+  "heading": "The Covenant of the Rainbow",
+  "heading_source": "translation",
+  "book_id": "GEN",
+  "text": "And God blessed Noah and his sons and said to them, “Be fruitful and multiply and fill the earth. The fear and dread of you will fall on every living creature on the earth, every bird of the air, every creature that crawls on the ground, and all the fish of the sea. They are delivered into your hand. Everything that lives and moves will be food for you; just as I gave you the green plants, I now give you all things. But you must not eat meat with its lifeblood still in it. And surely I will require the life of any man or beast by whose hand your lifeblood is shed. I will demand an accounting from anyone who takes the life of his fellow man: Whoever sheds the blood of man, by man his blood will be shed; for in His own image God has made mankind. But as for you, be fruitful and multiply; spread out across the earth and multiply upon it.” Then God said to Noah and his sons with him, “Behold, I now establish My covenant with you and your descendants after you, and with every living creature that was with you—the birds, the livestock, and every beast of the earth—every living thing that came out of the ark. And I establish My covenant with you: Never again will all life be cut off by the waters of a flood; never again will there be a flood to destroy the earth.” And God said, “This is the sign of the covenant I am making between Me and you and every living creature with you, a covenant for all generations to come: I have set My rainbow in the clouds, and it will be a sign of the covenant between Me and the earth. Whenever I form clouds over the earth and the rainbow appears in the clouds, I will remember My covenant between Me and you and every living creature of every kind. Never again will the waters become a flood to destroy all life. And whenever the rainbow appears in the clouds, I will see it and remember the everlasting covenant between God and every living creature of every kind that is on the earth.” So God said to Noah, “This is the sign of the covenant that I have established between Me and every creature on the earth.”",
+  "word_count": 398,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/GEN/9/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_01_Gen_009_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/GEN/9/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/GEN/9/audio/souer.mp3"
+  },
+  "situation": "After surviving a catastrophic event that destroyed everything familiar, individuals are granted a new beginning and a solemn promise of safety to rebuild their lives without fear of total annihilation.",
+  "register": "mercy",
+  "score": 0.6911,
+  "margin": 0.0094,
+  "context": "Noah and his family have just exited the ark after surviving a global flood that destroyed all other life on earth. God establishes a new covenant with them and every living creature, promising never to destroy the world by flood again as a sign of hope for their future.",
+  "connection": "This narrative may echo the experience of those who must rebuild their lives after a catastrophic loss, finding comfort in the idea that stability can be re-established. It suggests that even after profound destruction, there is space for renewal and a promise of continuity rather than further devastation.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'courage' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:GEN.9.1-17"
+ },
+ "promise": {
+  "slot": "promise",
+  "reference": "1 Corinthians 15:50-58",
+  "heading": "Where, O Death, Is Your Victory?",
+  "heading_source": "translation",
+  "book_id": "1CO",
+  "text": "Now I declare to you, brothers, that flesh and blood cannot inherit the kingdom of God, nor does the perishable inherit the imperishable. Listen, I tell you a mystery: We will not all sleep, but we will all be changed— in an instant, in the twinkling of an eye, at the last trumpet. For the trumpet will sound, the dead will be raised imperishable, and we will be changed. For the perishable must be clothed with the imperishable, and the mortal with immortality. When the perishable has been clothed with the imperishable and the mortal with immortality, then the saying that is written will come to pass: “Death has been swallowed up in victory.” “Where, O Death, is your victory? Where, O Death, is your sting?” The sting of death is sin, and the power of sin is the law. But thanks be to God, who gives us the victory through our Lord Jesus Christ! Therefore, my beloved brothers, be steadfast and immovable. Always excel in the work of the Lord, because you know that your labor in the Lord is not in vain.",
+  "word_count": 184,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/1CO/15/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_46_1Co_015_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/1CO/15/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/1CO/15/audio/souer.mp3"
+  },
+  "situation": "People are facing the finality of death and seeking hope for life beyond physical decay by holding onto their commitments despite loss.",
+  "register": "courage",
+  "score": 0.7146,
+  "margin": 0.0242,
+  "context": "Paul addresses the Corinthian church to resolve their confusion regarding the resurrection of believers who have died before Christ's return. He explains that physical bodies will be transformed into imperishable, immortal forms at the last trumpet, ensuring that death is ultimately defeated.",
+  "connection": "This text may echo the experience of those rebuilding after a profound loss, suggesting that enduring labor retains meaning even when immediate resolution is absent. It offers a perspective where hope does not erase grief but provides a framework for steadfastness amidst the reality of endings.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'courage' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:1CO.15.50-58"
+ },
+ "prayer": {
+  "reference": "Psalms 116:1-19",
+  "heading": "The LORD Has Heard My Voice",
+  "heading_source": "translation",
+  "text": "I love the LORD, for He has heard my voice— my appeal for mercy. Because He has inclined His ear to me, I will call on Him as long as I live. The ropes of death entangled me; the anguish of Sheol overcame me; I was confronted by trouble and sorrow. Then I called on the name of the LORD: “O LORD, deliver my soul!” The LORD is gracious and righteous; our God is full of compassion. The LORD preserves the simplehearted; I was helpless, and He saved me. Return to your rest, O my soul, for the LORD has been good to you. For You have delivered my soul from death, my eyes from tears, my feet from stumbling. I will walk before the LORD in the land of the living. I believed, therefore I said, “I am greatly afflicted.” In my alarm I said, “All men are liars!” How can I repay the LORD for all His goodness to me? I will lift the cup of salvation and call on the name of the LORD. I will fulfill my vows to the LORD in the presence of all His people. Precious in the sight of the LORD is the death of His saints. Truly, O LORD, I am Your servant; I am Your servant, the son of Your maidservant; You have broken my bonds. I will offer to You a sacrifice of thanksgiving and call on the name of the LORD. I will fulfill my vows to the LORD in the presence of all His people, in the courts of the LORD’s house, in your midst, O Jerusalem. Hallelujah!",
+  "word_count": 271,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/PSA/116/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_19_Psa_116_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/PSA/116/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/PSA/116/audio/souer.mp3"
+  },
+  "score": 0.7174
+ },
+ "built": "2026-09-11T03:05:58Z"
+}

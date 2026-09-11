@@ -1,0 +1,131 @@
+{
+ "slug": "feeling-far-away",
+ "title": "Feeling far away",
+ "register": "waiting",
+ "situation": "I pray and it is like speaking into an empty room.",
+ "echo": {
+  "slot": "echo",
+  "reference": "Acts 1:12-26",
+  "heading": "Matthias Replaces Judas",
+  "heading_source": "translation",
+  "book_id": "ACT",
+  "text": "Then they returned to Jerusalem from the Mount of Olives, which is near the city, a Sabbath day’s journey away. When they arrived, they went to the upper room where they were staying: Peter and John, James and Andrew, Philip and Thomas, Bartholomew and Matthew, James son of Alphaeus, Simon the Zealot, and Judas son of James. With one accord they all continued in prayer, along with the women and Mary the mother of Jesus, and with His brothers. In those days Peter stood up among the brothers (a gathering of about a hundred and twenty) and said, “Brothers, the Scripture had to be fulfilled that the Holy Spirit foretold through the mouth of David concerning Judas, who became a guide for those who arrested Jesus. He was one of our number and shared in this ministry.” (Now with the reward for his wickedness Judas bought a field; there he fell headlong and burst open in the middle, and all his intestines spilled out. This became known to all who lived in Jerusalem, so they called that field in their own language Akeldama, that is, Field of Blood.) “For it is written in the book of Psalms: ‘May his place be deserted; let there be no one to dwell in it,’ and, ‘May another take his position.’ Therefore it is necessary to choose one of the men who have accompanied us the whole time the Lord Jesus went in and out among us, beginning from John’s baptism until the day Jesus was taken up from us. For one of these must become a witness with us of His resurrection.” So they proposed two men: Joseph called Barsabbas (also known as Justus) and Matthias. And they prayed, “Lord, You know everyone’s heart. Show us which of these two You have chosen to take up this ministry and apostleship, which Judas abandoned to go to his rightful place.” Then they cast lots, and the lot fell to Matthias. So he was added to the eleven apostles.",
+  "word_count": 334,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/ACT/1/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_44_Act_001_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/ACT/1/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/ACT/1/audio/souer.mp3"
+  },
+  "situation": "A group of people gathers to make a critical decision about filling a vacant role after a member leaves unexpectedly, relying on prayer and chance to determine the outcome.",
+  "register": "waiting",
+  "score": 0.6063,
+  "margin": 0.017,
+  "context": "The remaining disciples gather in an upper room in Jerusalem to select a replacement for Judas Iscariot, casting lots to choose Matthias from two candidates to join their number as witnesses to Jesus' resurrection.",
+  "connection": "This may echo the feeling of spiritual emptiness when prayer seems unanswered, as the group navigates uncertainty and seeks divine guidance through communal discernment rather than immediate clarity.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'waiting' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:ACT.1.12-26"
+ },
+ "promise": {
+  "slot": "promise",
+  "reference": "Psalms 130:1-8",
+  "heading": "Out of the Depths",
+  "heading_source": "translation",
+  "book_id": "PSA",
+  "text": "Out of the depths I cry to You, O LORD! O Lord, hear my voice; let Your ears be attentive to my plea for mercy. If You, O LORD, kept track of iniquities, then who, O Lord, could stand? But with You there is forgiveness, so that You may be feared. I wait for the LORD; my soul does wait, and in His word I put my hope. My soul waits for the Lord more than watchmen wait for the morning— more than watchmen wait for the morning. O Israel, put your hope in the LORD, for with the LORD is loving devotion, and with Him is redemption in abundance. And He will redeem Israel from all iniquity.",
+  "word_count": 118,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/PSA/130/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_19_Psa_130_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/PSA/130/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/PSA/130/audio/souer.mp3"
+  },
+  "situation": "A person overwhelmed by deep despair cries out for help, acknowledges their own flaws, and patiently waits for relief and forgiveness while placing their hope in a higher power.",
+  "register": "waiting",
+  "score": 0.7081,
+  "margin": 0.0208,
+  "context": "The psalmist expresses deep distress from a place of spiritual or emotional desolation, crying out to God for mercy while acknowledging human unworthiness before divine justice.",
+  "connection": "This text may echo the experience of those who feel their prayers are unheard, offering a framework for expressing despair without abandoning hope. It resembles the tension between feeling isolated in suffering and trusting in the possibility of redemption despite that distance.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'waiting' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:PSA.130.1-8"
+ },
+ "prayer": {
+  "reference": "1 Samuel 1:9-18",
+  "heading": "Hannah Prays for a Son",
+  "heading_source": "translation",
+  "text": "So after they had finished eating and drinking in Shiloh, Hannah stood up. Now Eli the priest was sitting on a chair by the doorpost of the temple of the LORD. In her bitter distress, Hannah prayed to the LORD and wept with many tears. And she made a vow, saying, “O LORD of Hosts, if only You will look upon the affliction of Your maidservant and remember me, not forgetting Your maidservant but giving her a son, then I will dedicate him to the LORD all the days of his life, and no razor shall ever touch his head.” As Hannah kept on praying before the LORD, Eli watched her mouth. Hannah was praying in her heart, and though her lips were moving, her voice could not be heard. So Eli thought she was drunk and said to her, “How long will you be drunk? Put away your wine!” “No, my lord,” Hannah replied. “I am a woman troubled in spirit. I have not had any wine or strong drink, but I have poured out my soul before the LORD. Do not take your servant for a wicked woman, for all this time I have been praying out of the depth of my anguish and grief.” “Go in peace,” Eli replied, “and may the God of Israel grant the petition you have asked of Him.” “May your maidservant find favor with you,” said Hannah. Then she went on her way, and she began to eat, and her face was no longer downcast.",
+  "word_count": 253,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/1SA/1/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_09_1Sa_001_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/1SA/1/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/1SA/1/audio/souer.mp3"
+  },
+  "score": 0.675
+ },
+ "built": "2026-09-11T03:05:20Z"
+}

@@ -1,0 +1,131 @@
+{
+ "slug": "betrayed-by-a-friend",
+ "title": "Betrayed by a friend",
+ "register": "betrayal",
+ "situation": "Someone I trusted completely has turned out not to be who I thought.",
+ "echo": {
+  "slot": "echo",
+  "reference": "Judges 4:17-24",
+  "heading": "Jael Kills Sisera",
+  "heading_source": "translation",
+  "book_id": "JDG",
+  "text": "Meanwhile, Sisera had fled on foot to the tent of Jael, the wife of Heber the Kenite, because there was peace between Jabin king of Hazor and the house of Heber the Kenite. Jael went out to greet Sisera and said to him, “Come in, my lord. Come in with me. Do not be afraid.” So he entered her tent, and she covered him with a blanket. Sisera said to her, “Please give me a little water to drink, for I am thirsty.” So she opened a container of milk, gave him a drink, and covered him again. “Stand at the entrance to the tent,” he said, “and if anyone comes and asks you, ‘Is there a man here?’ say, ‘No.’” But as he lay sleeping from exhaustion, Heber’s wife Jael took a tent peg, grabbed a hammer, and went silently to Sisera. She drove the peg through his temple and into the ground, and he died. When Barak arrived in pursuit of Sisera, Jael went out to greet him and said to him, “Come, and I will show you the man you are seeking.” So he went in with her, and there lay Sisera dead, with a tent peg through his temple. On that day God subdued Jabin king of Canaan before the Israelites. And the hand of the Israelites grew stronger and stronger against Jabin king of Canaan until they destroyed him.",
+  "word_count": 234,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/JDG/4/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_07_Jdg_004_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/JDG/4/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/JDG/4/audio/souer.mp3"
+  },
+  "situation": "A person who has been defeated and is hiding in fear finds themselves betrayed by someone they trusted for safety.",
+  "register": "betrayal",
+  "score": 0.7174,
+  "margin": 0.0562,
+  "context": "Sisera, a Canaanite military commander fleeing from battle, seeks refuge in the tent of Jael, the wife of Heber the Kenite, who is allied with his enemy. Jael offers him hospitality and rest, lulling him into a false sense of security before killing him while he sleeps.",
+  "connection": "This narrative may echo the profound shock of discovering that a trusted ally or friend was never truly on your side, using intimacy as a weapon. It reflects the grief of realizing that safety was an illusion maintained by deception.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'betrayal' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:JDG.4.17-24"
+ },
+ "promise": {
+  "slot": "promise",
+  "reference": "Micah 7:7-13",
+  "heading": "Israel’s Confession and Comfort",
+  "heading_source": "translation",
+  "book_id": "MIC",
+  "text": "But as for me, I will look to the LORD; I will wait for the God of my salvation. My God will hear me. Do not gloat over me, my enemy! Though I have fallen, I will arise; though I sit in darkness, the LORD will be my light. Because I have sinned against Him, I must endure the rage of the LORD, until He argues my case and executes justice for me. He will bring me into the light; I will see His righteousness. Then my enemy will see and will be covered with shame— she who said to me, “Where is the LORD your God?” My eyes will see her; at that time she will be trampled like mud in the streets. The day for rebuilding your walls will come— the day for extending your boundary. On that day they will come to you from Assyria and the cities of Egypt, even from Egypt to the Euphrates, from sea to sea and mountain to mountain. Then the earth will become desolate because of its inhabitants, as the fruit of their deeds.",
+  "word_count": 183,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/MIC/7/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_33_Mic_007_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/MIC/7/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/MIC/7/audio/souer.mp3"
+  },
+  "situation": "A person who has suffered a setback and feels isolated by their mistakes finds strength in patiently trusting that justice will eventually be served and their reputation restored.",
+  "register": "endurance",
+  "score": 0.722,
+  "margin": 0.0137,
+  "context": "The speaker in Micah addresses a time of profound social betrayal and national instability where trusted allies have become adversaries, leaving the community in a state of shame and displacement.",
+  "connection": "This text may echo the deep disorientation felt when a close relationship collapses, mirroring the grief of realizing that one's sense of security was misplaced rather than offering immediate resolution.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'betrayal' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:MIC.7.7-13"
+ },
+ "prayer": {
+  "reference": "Psalms 73:1-28",
+  "heading": "Surely God Is Good to Israel",
+  "heading_source": "translation",
+  "text": "Surely God is good to Israel, to those who are pure in heart. But as for me, my feet had almost stumbled; my steps had nearly slipped. For I envied the arrogant when I saw the prosperity of the wicked. They have no struggle in their death; their bodies are well-fed. They are free of the burdens others carry; they are not afflicted like other men. Therefore pride is their necklace; a garment of violence covers them. From their prosperity proceeds iniquity; the imaginations of their hearts run wild. They mock and speak with malice; with arrogance they threaten oppression. They set their mouths against the heavens, and their tongues strut across the earth. So their people return to this place and drink up waters in abundance. The wicked say, “How can God know? Does the Most High have knowledge?” Behold, these are the wicked— always carefree as they increase their wealth. Surely in vain I have kept my heart pure; in innocence I have washed my hands. For I am afflicted all day long and punished every morning. If I had said, “I will speak this way,” then I would have betrayed Your children. When I tried to understand all this, it was troublesome in my sight until I entered God’s sanctuary; then I discerned their end. Surely You set them on slick ground; You cast them down into ruin. How suddenly they are laid waste, completely swept away by terrors! Like one waking from a dream, so You, O Lord, awaken and despise their form. When my heart was grieved and I was pierced within, I was senseless and ignorant; I was a brute beast before You. Yet I am always with You; You hold my right hand. You guide me with Your counsel, and later receive me in glory. Whom have I in heaven but You? And on earth I desire no one besides You. My flesh and my heart may fail, but God is the strength of my heart and my portion forever. Those far from You will surely perish; You destroy all who are unfaithful to You. But as for me, it is good to draw near to God. I have made the Lord GOD my refuge, that I may proclaim all Your works.",
+  "word_count": 379,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/PSA/73/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_19_Psa_073_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/PSA/73/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/PSA/73/audio/souer.mp3"
+  },
+  "score": 0.6777
+ },
+ "built": "2026-09-11T03:04:53Z"
+}

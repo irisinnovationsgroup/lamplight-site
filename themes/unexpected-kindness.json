@@ -1,0 +1,131 @@
+{
+ "slug": "unexpected-kindness",
+ "title": "Unexpected kindness",
+ "register": "mercy",
+ "situation": "A stranger did something for me that they did not have to do.",
+ "echo": {
+  "slot": "echo",
+  "reference": "Luke 17:11-19",
+  "heading": "The Ten Lepers",
+  "heading_source": "translation",
+  "book_id": "LUK",
+  "text": "While Jesus was on His way to Jerusalem, He was passing between Samaria and Galilee. As He entered one of the villages, He was met by ten lepers. They stood at a distance and raised their voices, shouting, “Jesus, Master, have mercy on us!” When Jesus saw them, He said, “Go, show yourselves to the priests.” And as they were on their way, they were cleansed. When one of them saw that he was healed, he came back, praising God in a loud voice. He fell facedown at Jesus’ feet in thanksgiving to Him—and he was a Samaritan. “Were not all ten cleansed?” Jesus asked. “Where then are the other nine? Was no one found except this foreigner to return and give glory to God?” Then Jesus said to him, “Rise and go; your faith has made you well! ”",
+  "word_count": 140,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/LUK/17/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_42_Luk_017_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/LUK/17/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/LUK/17/audio/souer.mp3"
+  },
+  "situation": "People suffering from a severe, isolating condition seek help from someone who grants their request, but only one returns to express gratitude while the others move on without acknowledging the relief they received.",
+  "register": "mercy",
+  "score": 0.6632,
+  "margin": 0.0104,
+  "context": "Ten lepers in Samaria and Galilee approach Jesus for mercy, and upon following His instruction to show themselves to priests, they are healed. Only one, a Samaritan who returns to give thanks, receives specific affirmation of his faith.",
+  "connection": "This narrative may echo the quiet resonance of unexpected kindness, where a stranger’s unmerited help prompts a moment of profound gratitude. It suggests that while relief is often shared, the act of recognizing and returning that grace remains a distinct, personal response.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'mercy' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:LUK.17.11-19"
+ },
+ "promise": {
+  "slot": "promise",
+  "reference": "Hebrews 2:5-18",
+  "heading": "Jesus like His Brothers",
+  "heading_source": "translation",
+  "book_id": "HEB",
+  "text": "For it is not to angels that He has subjected the world to come, about which we are speaking. But somewhere it is testified in these words: “What is man that You are mindful of him, or the son of man that You care for him? You made him a little lower than the angels; You crowned him with glory and honor and placed everything under his feet.” When God subjected all things to him, He left nothing outside of his control. Yet at present we do not see everything subject to him. But we see Jesus, who was made a little lower than the angels, now crowned with glory and honor because He suffered death, so that by the grace of God He might taste death for everyone. In bringing many sons to glory, it was fitting for God, for whom and through whom all things exist, to make the author of their salvation perfect through suffering. For both the One who sanctifies and those who are sanctified are of the same family. So Jesus is not ashamed to call them brothers. He says: “I will proclaim Your name to My brothers; I will sing Your praises in the assembly.” And again: “I will put My trust in Him.” And once again: “Here am I, and the children God has given Me.” Now since the children have flesh and blood, He too shared in their humanity, so that by His death He might destroy him who holds the power of death, that is, the devil, and free those who all their lives were held in slavery by their fear of death. For surely it is not the angels He helps, but the descendants of Abraham. For this reason He had to be made like His brothers in every way, so that He might become a merciful and faithful high priest in service to God, in order to make atonement for the sins of the people. Because He Himself suffered when He was tempted, He is able to help those who are being tempted.",
+  "word_count": 344,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/HEB/2/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_58_Heb_002_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/HEB/2/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/HEB/2/audio/souer.mp3"
+  },
+  "situation": "Feeling isolated in suffering and tempted by hardship while needing compassionate support from someone who truly understands human weakness.",
+  "register": "mercy",
+  "score": 0.6746,
+  "margin": 0.0025,
+  "context": "The author addresses Jewish believers who feel alienated and fearful, explaining that Jesus fully shared their human nature and suffering to become a merciful high priest who helps those being tempted.",
+  "connection": "This may echo the comfort found when a stranger offers unexpected aid, reminding us that we are not alone in our struggles. It suggests that such kindness can reflect a shared humanity where grace bridges the gap between strangers.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'mercy' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:HEB.2.5-18"
+ },
+ "prayer": {
+  "reference": "Matthew 8:1-4",
+  "heading": "The Leper’s Prayer",
+  "heading_source": "translation",
+  "text": "When Jesus came down from the mountain, large crowds followed Him. Suddenly a leper came and knelt before Him, saying, “Lord, if You are willing, You can make me clean.” Jesus reached out His hand and touched the man. “I am willing,” He said. “Be clean!” And immediately his leprosy was cleansed. Then Jesus instructed him, “See that you don’t tell anyone. But go, show yourself to the priest and offer the gift prescribed by Moses, as a testimony to them.”",
+  "word_count": 81,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/MAT/8/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_40_Mat_008_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/MAT/8/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/MAT/8/audio/souer.mp3"
+  },
+  "score": 0.6447
+ },
+ "built": "2026-09-11T03:06:15Z"
+}

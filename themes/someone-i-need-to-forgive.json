@@ -1,0 +1,131 @@
+{
+ "slug": "someone-i-need-to-forgive",
+ "title": "Someone I need to forgive",
+ "register": "reconciliation",
+ "situation": "Someone hurt me badly and I am being asked, or asking myself, to let it go.",
+ "echo": {
+  "slot": "echo",
+  "reference": "Matthew 27:3-10",
+  "heading": "Judas Hangs Himself",
+  "heading_source": "translation",
+  "book_id": "MAT",
+  "text": "When Judas, who had betrayed Him, saw that Jesus was condemned, he was filled with remorse and returned the thirty pieces of silver to the chief priests and elders. “I have sinned by betraying innocent blood,” he said. “What is that to us?” they replied. “You bear the responsibility.” So Judas threw the silver into the temple and left. Then he went away and hanged himself. The chief priests picked up the pieces of silver and said, “It is unlawful to put this into the treasury, since it is blood money.” After conferring together, they used the money to buy the potter’s field as a burial place for foreigners. That is why it has been called the Field of Blood to this day. Then what was spoken through Jeremiah the prophet was fulfilled: “They took the thirty pieces of silver, the price set on Him by the people of Israel, and they gave them for the potter’s field, as the Lord had commanded me.”",
+  "word_count": 164,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/MAT/27/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_40_Mat_027_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/MAT/27/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/MAT/27/audio/souer.mp3"
+  },
+  "situation": "A person overwhelmed by guilt after causing harm tries to return what they took but is rejected, leading them to take their own life in despair.",
+  "register": "repentance",
+  "score": 0.7054,
+  "margin": 0.0059,
+  "context": "Judas Iscariot, overwhelmed by guilt after betraying Jesus and hearing that He was condemned, returns the thirty pieces of silver to the chief priests and elders in Jerusalem before taking his own life.",
+  "connection": "This narrative may echo the heavy burden of remorse one feels when seeking forgiveness for a deep hurt, highlighting how isolation can sometimes accompany the struggle to let go. It resembles the raw grief of realizing that an apology or restitution may not bring immediate relief from the pain caused.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'reconciliation' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:MAT.27.3-10"
+ },
+ "promise": {
+  "slot": "promise",
+  "reference": "Ezekiel 16:59-63",
+  "heading": "The Covenant Remembered",
+  "heading_source": "translation",
+  "book_id": "EZK",
+  "text": "For this is what the Lord GOD says: I will deal with you according to your deeds, since you have despised the oath by breaking the covenant. But I will remember the covenant I made with you in the days of your youth, and I will establish an everlasting covenant with you. Then you will remember your ways and be ashamed when you receive your older and younger sisters. I will give them to you as daughters, but not because of My covenant with you. So I will establish My covenant with you, and you will know that I am the LORD, so that when I make atonement for all you have done, you will remember and be ashamed and never again open your mouth because of your disgrace, declares the Lord GOD.”",
+  "word_count": 133,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/EZK/16/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_26_Ezk_016_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/EZK/16/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/EZK/16/audio/souer.mp3"
+  },
+  "situation": "A person faces severe consequences for breaking a serious promise but is unexpectedly offered restoration and forgiveness that restores their dignity and relationship with the one they wronged.",
+  "register": "reconciliation",
+  "score": 0.7088,
+  "margin": 0.0019,
+  "context": "The prophet addresses Jerusalem, personified as a woman who broke her covenant with God but is promised restoration through His enduring mercy rather than her own merit.",
+  "connection": "This narrative may echo the complex process of forgiving someone who caused deep harm, where the act of letting go does not erase the past pain but offers a path toward inner peace and renewed dignity.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'reconciliation' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:EZK.16.59-63"
+ },
+ "prayer": {
+  "reference": "1 Samuel 1:9-18",
+  "heading": "Hannah Prays for a Son",
+  "heading_source": "translation",
+  "text": "So after they had finished eating and drinking in Shiloh, Hannah stood up. Now Eli the priest was sitting on a chair by the doorpost of the temple of the LORD. In her bitter distress, Hannah prayed to the LORD and wept with many tears. And she made a vow, saying, “O LORD of Hosts, if only You will look upon the affliction of Your maidservant and remember me, not forgetting Your maidservant but giving her a son, then I will dedicate him to the LORD all the days of his life, and no razor shall ever touch his head.” As Hannah kept on praying before the LORD, Eli watched her mouth. Hannah was praying in her heart, and though her lips were moving, her voice could not be heard. So Eli thought she was drunk and said to her, “How long will you be drunk? Put away your wine!” “No, my lord,” Hannah replied. “I am a woman troubled in spirit. I have not had any wine or strong drink, but I have poured out my soul before the LORD. Do not take your servant for a wicked woman, for all this time I have been praying out of the depth of my anguish and grief.” “Go in peace,” Eli replied, “and may the God of Israel grant the petition you have asked of Him.” “May your maidservant find favor with you,” said Hannah. Then she went on her way, and she began to eat, and her face was no longer downcast.",
+  "word_count": 253,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/1SA/1/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_09_1Sa_001_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/1SA/1/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/1SA/1/audio/souer.mp3"
+  },
+  "score": 0.7397
+ },
+ "built": "2026-09-11T03:05:45Z"
+}

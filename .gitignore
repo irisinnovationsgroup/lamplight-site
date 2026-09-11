@@ -1,6 +1,6 @@
-# Only the built page and its PWA files belong here. Deny everything, allow by name.
-# Tooling in the parent directory has written stray state into this checkout before,
-# and a 1.5 MB database reached a public repo as a result.
+# Only the built page, its PWA files and the search data belong here.
+# Deny everything, allow by name. Tooling in the parent directory has written stray
+# state into this checkout before, and a 1.5 MB database reached a public repo.
 *
 !.gitignore
 !index.html
@@ -9,3 +9,6 @@
 !manifest.webmanifest
 !sw.js
 !icon.svg
+!search.json
+!themes/
+!themes/*.json

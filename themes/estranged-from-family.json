@@ -1,0 +1,131 @@
+{
+ "slug": "estranged-from-family",
+ "title": "Estranged from family",
+ "register": "betrayal",
+ "situation": "Someone in my family will not speak to me and I do not know how to reach them.",
+ "echo": {
+  "slot": "echo",
+  "reference": "Judges 11:1-28",
+  "heading": "Jephthah Delivers Israel",
+  "heading_source": "translation",
+  "book_id": "JDG",
+  "text": "Now Jephthah the Gileadite was a mighty man of valor; he was the son of a prostitute, and Gilead was his father. And Gilead’s wife bore him sons who grew up, drove Jephthah out, and said to him, “You shall have no inheritance in our father’s house, because you are the son of another woman.” So Jephthah fled from his brothers and settled in the land of Tob, where worthless men gathered around him and traveled with him. Some time later, when the Ammonites fought against Israel and made war with them, the elders of Gilead went to get Jephthah from the land of Tob. “Come,” they said, “be our commander, so that we can fight against the Ammonites.” Jephthah replied to the elders of Gilead, “Did you not hate me and expel me from my father’s house? Why then have you come to me now, when you are in distress?” They answered Jephthah, “This is why we now turn to you, that you may go with us, fight the Ammonites, and become leader over all of us who live in Gilead.” But Jephthah asked them, “If you take me back to fight the Ammonites and the LORD gives them to me, will I really be your leader?” And the elders of Gilead said to Jephthah, “The LORD is our witness if we do not do as you say.” So Jephthah went with the elders of Gilead, and the people made him their leader and commander. And Jephthah repeated all his terms in the presence of the LORD at Mizpah. Then Jephthah sent messengers to the king of the Ammonites, saying, “What do you have against me that you have come to fight against my land?” The king of the Ammonites answered Jephthah’s messengers, “When Israel came up out of Egypt, they seized my land, from the Arnon to the Jabbok and all the way to the Jordan. Now, therefore, restore it peaceably.” Jephthah again sent messengers to the king of the Ammonites to tell him, “This is what Jephthah says: Israel did not take away the land of Moab or of the Ammonites. But when Israel came up out of Egypt, they traveled through the wilderness to the Red Sea and came to Kadesh. Then Israel sent messengers to the king of Edom, saying, ‘Please let us pass through your land,’ but the king of Edom would not listen. They also sent messengers to the king of Moab, but he would not consent. So Israel stayed in Kadesh. Then Israel traveled through the wilderness and bypassed the lands of Edom and Moab. They came to the east side of the land of Moab and camped on the other side of the Arnon. But they did not enter the territory of Moab, since the Arnon was its border. And Israel sent messengers to Sihon king of the Amorites, who ruled in Heshbon, and said to him, ‘Please let us pass through your land into our own place.’ But Sihon would not trust Israel to pass through his territory. So he gathered all his people, encamped in Jahaz, and fought with Israel. Then the LORD, the God of Israel, delivered Sihon and all his people into the hand of Israel, who defeated them. So Israel took possession of all the land of the Amorites who inhabited that country, seizing all the land from the Arnon to the Jabbok and from the wilderness to the Jordan. Now since the LORD, the God of Israel, has driven out the Amorites from before His people Israel, should you now possess it? Do you not possess whatever your god Chemosh grants you? So also, we possess whatever the LORD our God has granted us. Are you now so much better than Balak son of Zippor, king of Moab? Did he ever contend with Israel or fight against them? For three hundred years Israel has lived in Heshbon, Aroer, and their villages, as well as all the cities along the banks of the Arnon. Why did you not take them back during that time? I have not sinned against you, but you have done me wrong by waging war against me. May the LORD, the Judge, decide today between the Israelites and the Ammonites.” But the king of the Ammonites paid no heed to the message Jephthah sent him.",
+  "word_count": 723,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/JDG/11/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_07_Jdg_011_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/JDG/11/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/JDG/11/audio/souer.mp3"
+  },
+  "situation": "A marginalized individual who was previously exiled by their own family is unexpectedly summoned by those same people to lead them in a desperate crisis, forcing a tense negotiation about status and trust.",
+  "register": "betrayal",
+  "score": 0.6636,
+  "margin": 0.0337,
+  "context": "Jephthah, an outcast driven from his family home by his half-brothers, is summoned years later by the elders of Gilead to lead their military defense against the Ammonites due to a critical need for his strength. He agrees to return only after securing a formal guarantee of leadership status, highlighting the transactional nature of their reconciliation and the lingering bitterness of his past rejection.",
+  "connection": "This narrative may echo the complex dynamic where estrangement persists until practical necessity forces contact, leaving the wounded party wary of renewed trust. It resembles the hesitation one feels when considering whether to bridge a gap with a relative who previously caused deep hurt, acknowledging that the path to connection is often fraught with unresolved pain.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'betrayal' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:JDG.11.1-28"
+ },
+ "promise": {
+  "slot": "promise",
+  "reference": "Psalms 88:1-18",
+  "heading": "I Cry Out before You",
+  "heading_source": "translation",
+  "book_id": "PSA",
+  "text": "O LORD, the God of my salvation, day and night I cry out before You. May my prayer come before You; incline Your ear to my cry. For my soul is full of troubles, and my life draws near to Sheol. I am counted among those descending to the Pit. I am like a man without strength. I am forsaken among the dead, like the slain who lie in the grave, whom You remember no more, who are cut off from Your care. You have laid me in the lowest Pit, in the darkest of the depths. Your wrath weighs heavily upon me; all Your waves have submerged me. Selah You have removed my friends from me; You have made me repulsive to them; I am confined and cannot escape. My eyes grow dim with grief. I call to You daily, O LORD; I spread out my hands to You. Do You work wonders for the dead? Do departed spirits rise up to praise You? Selah Can Your loving devotion be proclaimed in the grave, Your faithfulness in Abaddon ? Will Your wonders be known in the darkness, or Your righteousness in the land of oblivion? But to You, O LORD, I cry for help; in the morning my prayer comes before You. Why, O LORD, do You reject me? Why do You hide Your face from me? From my youth I was afflicted and near death. I have borne Your terrors; I am in despair. Your wrath has swept over me; Your terrors have destroyed me. All day long they engulf me like water; they enclose me on every side. You have removed my beloved and my friend; darkness is my closest companion.",
+  "word_count": 284,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/PSA/88/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_19_Psa_088_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/PSA/88/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/PSA/88/audio/souer.mp3"
+  },
+  "situation": "A person feels completely abandoned by everyone they know and overwhelmed by suffering, yet continues to plead for help despite feeling hopeless.",
+  "register": "grief",
+  "score": 0.68,
+  "margin": 0.0077,
+  "context": "The psalmist, identified as Hezekiah or Manasseh in some traditions, describes a state of profound isolation and despair, feeling abandoned by God and cut off from friends and family while facing imminent death.",
+  "connection": "This intense expression of loneliness may echo the experience of someone who feels shut out by their own relatives, highlighting the raw pain of being unable to bridge a silence with loved ones.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'betrayal' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:PSA.88.1-18"
+ },
+ "prayer": {
+  "reference": "Matthew 8:1-4",
+  "heading": "The Leper’s Prayer",
+  "heading_source": "translation",
+  "text": "When Jesus came down from the mountain, large crowds followed Him. Suddenly a leper came and knelt before Him, saying, “Lord, if You are willing, You can make me clean.” Jesus reached out His hand and touched the man. “I am willing,” He said. “Be clean!” And immediately his leprosy was cleansed. Then Jesus instructed him, “See that you don’t tell anyone. But go, show yourself to the priest and offer the gift prescribed by Moses, as a testimony to them.”",
+  "word_count": 81,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/MAT/8/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_40_Mat_008_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/MAT/8/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/MAT/8/audio/souer.mp3"
+  },
+  "score": 0.6526
+ },
+ "built": "2026-09-11T03:04:49Z"
+}
