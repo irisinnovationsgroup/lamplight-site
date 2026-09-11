@@ -9,6 +9,6 @@
 !manifest.webmanifest
 !sw.js
 !icon.svg
-!search.json
+#!search.json
 !themes/
 !themes/*.json
