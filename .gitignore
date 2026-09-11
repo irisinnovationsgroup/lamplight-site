@@ -16,3 +16,5 @@
 !themes/*.json
 !text/
 !text/*.json
+!text-jps/
+!text-jps/*.json
