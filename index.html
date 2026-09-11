@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="Today's news, read by an older light. A daily reading that sets the world's news beside Scripture.">
 <meta name="robots" content="noindex">
+<meta name="lamplight-build" content="20260910-235638">
 <meta name="theme-color" content="#141611" media="(prefers-color-scheme: dark)">
 <meta name="theme-color" content="#EDEAE1" media="(prefers-color-scheme: light)">
 <meta name="apple-mobile-web-app-capable" content="yes">
@@ -1182,7 +1183,19 @@ function shareText(m){
 /* ---------- installable, offline, and a reminder that admits its limits ---------- */
 if ("serviceWorker" in navigator){
   window.addEventListener("load", () => {
-    navigator.serviceWorker.register("sw.js").catch(() => {});
+    navigator.serviceWorker.register("sw.js").then(reg => {
+      // Check for a new build on every load, not only on the browser's own schedule.
+      reg.update().catch(() => {});
+    }).catch(() => {});
+  });
+  // When a newer service worker takes over, reload once so the reader is never left
+  // looking at a previous build. Guarded so it can only ever happen a single time.
+  let reloaded = false;
+  navigator.serviceWorker.addEventListener("message", event => {
+    if (event.data && event.data.type === "updated" && !reloaded){
+      reloaded = true;
+      location.reload();
+    }
   });
 }
 
@@ -1280,6 +1293,7 @@ async function loadSearch(){
   searchLoading = true;
   try {
     const r = await fetch("search.json");
+    if (!r.ok) throw new Error(r.status);
     SEARCH = await r.json();
   } catch { SEARCH = null; }
   searchLoading = false;
@@ -1335,8 +1349,17 @@ async function openTheme(slug){
   const out = document.getElementById("findout");
   out.innerHTML = `<p class="finding">Opening&hellip;</p>`;
   let t;
-  try { t = await (await fetch(`themes/${slug}.json`)).json(); }
-  catch { out.innerHTML = `<p class="finding">Could not open that reading.</p>`; return; }
+  try {
+    const response = await fetch(`themes/${slug}.json`);
+    if (!response.ok) throw new Error(response.status);
+    t = await response.json();
+  } catch (err) {
+    out.innerHTML = `<p class="finding"><b>Could not load that reading.</b>
+      ${location.protocol === "blob:" || location.hostname.includes("claude")
+        ? "Readings load from a file alongside the page, which this preview cannot fetch. Open the published site instead."
+        : "Check your connection and try again."}</p>`;
+    return;
+  }
   const block = (m, label) => (!m || m.abstained) ? "" : `
     <div class="passage">
       <div class="plabel"><span class="dot"></span>${esc(label)}</div>
