@@ -17,6 +17,8 @@
 !art/*.jpg
 !days/
 !days/*.json
+!lang/
+!lang/*.json
 !text-jps/
 !text-jps/*.json
 !text/
