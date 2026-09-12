@@ -12,6 +12,9 @@
 !manifest.webmanifest
 !search.json
 !sw.js
+!art/
+!art/*.json
+!art/*.jpg
 !days/
 !days/*.json
 !text-jps/

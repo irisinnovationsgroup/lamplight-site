@@ -1,5 +1,5 @@
 {
- "built": "2026-09-11T03:41:43Z",
+ "built": "2026-09-12T18:56:36Z",
  "themes": [
   {
    "slug": "a-death-in-the-family",
@@ -319,6 +319,36 @@
    "echo": "Isaiah 21:1-10",
    "promise": "John 14:27-31",
    "prayer": "Psalms 77:1-20",
+   "season": null
+  },
+  {
+   "slug": "divorce",
+   "title": "Divorce",
+   "register": "grief",
+   "situation": "My marriage has ended and I am living in the wreckage of a life I built.",
+   "echo": "Matthew 19:1-12",
+   "promise": "Jeremiah 31:1-25",
+   "prayer": "Psalms 77:1-20",
+   "season": null
+  },
+  {
+   "slug": "family-in-a-place-that-is-in-the-news",
+   "title": "Family in a place that is in the news",
+   "register": "fear",
+   "situation": "People I love are somewhere dangerous and I read about it from far away, unable to help.",
+   "echo": "Joshua 2:8-24",
+   "promise": "Psalms 121:1-8",
+   "prayer": "Psalms 91:1-16",
+   "season": null
+  },
+  {
+   "slug": "far-from-people-i-love",
+   "title": "Far from people I love",
+   "register": "waiting",
+   "situation": "I am a long way from the people I care about and I worry about them constantly.",
+   "echo": "1 Thessalonians 2:17-20",
+   "promise": "Romans 8:18-27",
+   "prayer": "Psalms 130:1-8",
    "season": null
   },
   {

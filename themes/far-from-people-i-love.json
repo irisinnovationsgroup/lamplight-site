@@ -1,0 +1,144 @@
+{
+ "slug": "far-from-people-i-love",
+ "title": "Far from people I love",
+ "register": "waiting",
+ "situation": "I am a long way from the people I care about and I worry about them constantly.",
+ "echo": {
+  "slot": "echo",
+  "reference": "1 Thessalonians 2:17-20",
+  "heading": "Paul’s Longing to Visit",
+  "heading_source": "translation",
+  "book_id": "1TH",
+  "text": "Brothers, although we were torn away from you for a short time (in person, not in heart), our desire to see you face to face was even more intense. For we wanted to come to you—indeed I, Paul, tried again and again—but Satan obstructed us. After all, who is our hope, our joy, our crown of boasting, if it is not you yourselves in the presence of our Lord Jesus at His coming? You are indeed our glory and our joy.",
+  "word_count": 81,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/1TH/2/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_52_1Th_002_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/1TH/2/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/1TH/2/audio/souer.mp3"
+  },
+  "situation": "A person feels deep longing for someone they have been separated from due to outside obstacles preventing them from meeting in person.",
+  "register": "waiting",
+  "score": 0.6947,
+  "margin": 0.0016,
+  "context": "Paul writes to the believers in Thessalonica, explaining that physical separation from them has caused him intense longing and that external obstacles prevented his immediate return. He identifies the community itself as his ultimate hope and joy at the future return of Jesus.",
+  "connection": "This may echo the persistent worry felt when separated from loved ones, where distance creates a sense of helplessness despite emotional closeness. It resembles the experience of holding onto hope for reunion while acknowledging the current reality of grief and obstruction.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "VII",
+    "name": "Read on its own terms",
+    "passed": true,
+    "detail": "not a Hebrew Bible passage"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'waiting' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:1TH.2.17-20"
+ },
+ "promise": {
+  "slot": "promise",
+  "reference": "Romans 8:18-27",
+  "heading": "Future Glory",
+  "heading_source": "translation",
+  "book_id": "ROM",
+  "text": "I consider that our present sufferings are not comparable to the glory that will be revealed in us. The creation waits in eager expectation for the revelation of the sons of God. For the creation was subjected to futility, not by its own will, but because of the One who subjected it, in hope that the creation itself will be set free from its bondage to decay and brought into the glorious freedom of the children of God. We know that the whole creation has been groaning together in the pains of childbirth until the present time. Not only that, but we ourselves, who have the firstfruits of the Spirit, groan inwardly as we wait eagerly for our adoption as sons, the redemption of our bodies. For in this hope we were saved; but hope that is seen is no hope at all. Who hopes for what he can already see? But if we hope for what we do not yet see, we wait for it patiently. In the same way, the Spirit helps us in our weakness. For we do not know how we ought to pray, but the Spirit Himself intercedes for us with groans too deep for words. And He who searches our hearts knows the mind of the Spirit, because the Spirit intercedes for the saints according to the will of God.",
+  "word_count": 226,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/ROM/8/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_45_Rom_008_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/ROM/8/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/ROM/8/audio/souer.mp3"
+  },
+  "situation": "People are enduring deep pain and uncertainty while waiting for a future relief that they cannot yet see.",
+  "register": "waiting",
+  "score": 0.7126,
+  "margin": 0.0034,
+  "context": "Paul writes to believers in Rome who are enduring present hardships and physical limitations while awaiting the final redemption of their bodies. He describes this state as a period of inward groaning, supported by the Holy Spirit's intercession, as they wait for the future glory that is not yet visible.",
+  "connection": "This text may echo the experience of those who feel distant from loved ones, finding comfort in the idea that their unspoken worries are held by a divine presence. It suggests that hope does not require immediate resolution, but rather a patient endurance of the current uncertainty and grief.",
+  "checks": [
+   {
+    "rule": "I",
+    "name": "No verdicts",
+    "passed": true,
+    "detail": "no judgment, prophecy or collective violence"
+   },
+   {
+    "rule": "VII",
+    "name": "Read on its own terms",
+    "passed": true,
+    "detail": "not a Hebrew Bible passage"
+   },
+   {
+    "rule": "II",
+    "name": "No sides",
+    "passed": true,
+    "detail": "0 entities checked, no collision"
+   },
+   {
+    "rule": "III",
+    "name": "Context attached",
+    "passed": true,
+    "detail": "heading and context line present"
+   },
+   {
+    "rule": "IV",
+    "name": "Offered, not asserted",
+    "passed": true,
+    "detail": "offered as resonance"
+   },
+   {
+    "rule": "V",
+    "name": "Comfort not cheap",
+    "passed": true,
+    "detail": "register 'waiting' does not require lament"
+   }
+  ],
+  "rejected_before_this": [],
+  "passage_id": "BSB:ROM.8.18-27"
+ },
+ "prayer": {
+  "reference": "Psalms 130:1-8",
+  "heading": "Out of the Depths",
+  "heading_source": "translation",
+  "text": "Out of the depths I cry to You, O LORD! O Lord, hear my voice; let Your ears be attentive to my plea for mercy. If You, O LORD, kept track of iniquities, then who, O Lord, could stand? But with You there is forgiveness, so that You may be feared. I wait for the LORD; my soul does wait, and in His word I put my hope. My soul waits for the Lord more than watchmen wait for the morning— more than watchmen wait for the morning. O Israel, put your hope in the LORD, for with the LORD is loving devotion, and with Him is redemption in abundance. And He will redeem Israel from all iniquity.",
+  "word_count": 118,
+  "audio": {
+   "david": "https://audio.bible.helloao.org/api/BSB/PSA/130/audio/david.mp3",
+   "gilbert": "https://openbible.com/audio/gilbert/BSB_19_Psa_130_G.mp3",
+   "hays": "https://audio.bible.helloao.org/api/BSB/PSA/130/audio/hays.mp3",
+   "souer": "https://audio.bible.helloao.org/api/BSB/PSA/130/audio/souer.mp3"
+  },
+  "score": 0.6869
+ },
+ "built": "2026-09-12T18:56:36Z",
+ "season": null
+}
