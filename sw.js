@@ -1,5 +1,5 @@
 // Cache name carries the build stamp, so every deploy retires the previous cache.
-const BUILD = "20260913-011817";
+const BUILD = "20260913-022318";
 const CACHE = "lamplight-" + BUILD;
 const ASSETS = ["./manifest.webmanifest", "./icon.svg"];
 
@@ -55,6 +55,18 @@ self.addEventListener("fetch", event => {
     })));
 });
 
+// A real push, from the machine that built the reading: the half of the reminder
+// that works when Lamplight is closed.
+self.addEventListener("push", event => {
+  let data = {};
+  try { data = event.data ? event.data.json() : {}; } catch { data = {}; }
+  event.waitUntil(self.registration.showNotification(data.title || "Lamplight", {
+    body: data.body || "Today's reading is ready.",
+    icon: "./icon.svg", badge: "./icon.svg", tag: "lamplight-daily",
+    data: {url: data.url || "./"},
+  }));
+});
+
 self.addEventListener("message", event => {
   if (event.data && event.data.type === "notify") {
     self.registration.showNotification("Lamplight", {
@@ -72,6 +84,7 @@ self.addEventListener("notificationclick", event => {
   event.notification.close();
   event.waitUntil(clients.matchAll({type: "window"}).then(list => {
     for (const c of list) if ("focus" in c) return c.focus();
-    if (clients.openWindow) return clients.openWindow("./");
+    const target = (event.notification.data && event.notification.data.url) || "./";
+    if (clients.openWindow) return clients.openWindow(target);
   }));
 });
