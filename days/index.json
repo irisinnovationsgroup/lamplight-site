@@ -1,6 +1,16 @@
 {
  "days": [
   {
+   "date": "2026-09-14",
+   "register": "Today the world is mostly about sudden disasters, political maneuvering, and personal resilience.",
+   "themes": [
+    "Shattered lives in sudden disaster",
+    "Anxiety over invisible future threats",
+    "Enduring loss and seeking meaning"
+   ],
+   "season": "Ordinary Time"
+  },
+  {
    "date": "2026-09-13",
    "register": "Today the world is mostly about political maneuvering, natural disasters, and regional conflicts.",
    "themes": [
@@ -37,6 +47,96 @@
     "Shattered illusions of safety",
     "Forced displacement and loss of home",
     "Anxiety over uncertain futures"
+   ],
+   "season": "Ordinary Time"
+  },
+  {
+   "date": "2026-09-09",
+   "register": "Today the world is mostly about ongoing conflicts, climate disasters, and local community efforts.",
+   "themes": [
+    "Living in the shadow of violence",
+    "Bearing the weight of climate loss",
+    "Struggling to find basic sustenance"
+   ],
+   "season": "Ordinary Time"
+  },
+  {
+   "date": "2026-09-08",
+   "register": "Today the world is mostly about labor disputes, geopolitical tensions, and natural disasters affecting daily life.",
+   "themes": [
+    "The weight of collective action",
+    "Living in the shadow of violence",
+    "The struggle for basic sustenance"
+   ],
+   "season": "Ordinary Time"
+  },
+  {
+   "date": "2026-09-07",
+   "register": "Today the world is mostly about political maneuvering, natural disasters, and economic strain.",
+   "themes": [
+    "Living in the shadow of disaster",
+    "The weight of political uncertainty",
+    "Struggling against environmental scarcity"
+   ],
+   "season": "Ordinary Time"
+  },
+  {
+   "date": "2026-09-06",
+   "register": "Today the world is mostly about urgent efforts to stop immediate harm while ordinary struggles for justice and survival continue in the background.",
+   "themes": [
+    "The desperate race against collapsing structures",
+    "The heavy burden of waiting for peace",
+    "The struggle for dignity against systemic neglect"
+   ],
+   "season": "Ordinary Time"
+  },
+  {
+   "date": "2026-09-05",
+   "register": "Today the world is mostly about political disputes, labor struggles, and natural disasters demanding immediate attention.",
+   "themes": [
+    "The weight of forced displacement",
+    "The struggle for dignity in labor",
+    "The fight against systemic injustice"
+   ],
+   "season": "Ordinary Time"
+  },
+  {
+   "date": "2026-09-04",
+   "register": "Today the world is mostly about managing immediate crises while negotiating uncertain futures.",
+   "themes": [
+    "Living in the shadow of sudden disaster",
+    "Waiting for promises that may not come",
+    "Seeking care amidst systemic failure"
+   ],
+   "season": "Ordinary Time"
+  },
+  {
+   "date": "2026-09-03",
+   "register": "Today the world is mostly about managing immediate crises while navigating economic uncertainty and political tension.",
+   "themes": [
+    "Shaking ground beneath feet",
+    "The weight of economic survival",
+    "Fighting for justice and safety"
+   ],
+   "season": "Ordinary Time"
+  },
+  {
+   "date": "2026-09-02",
+   "register": "Today the world is mostly about managing immediate crises while political tensions simmer in the background.",
+   "themes": [
+    "Sudden loss of home and safety",
+    "The burden of forced displacement",
+    "The quiet work of rescue and care"
+   ],
+   "season": "Ordinary Time"
+  },
+  {
+   "date": "2026-09-01",
+   "register": "Today the world is mostly about ordinary struggles for survival, justice, and livelihood amidst ongoing crises.",
+   "themes": [
+    "The weight of waiting for justice",
+    "The struggle to keep body and soul together",
+    "The exhaustion of fighting for dignity"
    ],
    "season": "Ordinary Time"
   }
