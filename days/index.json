@@ -1,6 +1,16 @@
 {
  "days": [
   {
+   "date": "2026-09-20",
+   "register": "Today the world is mostly about political maneuvering, public safety crises, and the daily grind of civic life.",
+   "themes": [
+    "Living in the shadow of sudden violence",
+    "The exhaustion of enduring repeated crises",
+    "Navigating uncertainty in public life"
+   ],
+   "season": "Ordinary Time"
+  },
+  {
    "date": "2026-09-19",
    "register": "Today the world is mostly about political threats, regional conflicts, and isolated tragedies.",
    "themes": [
