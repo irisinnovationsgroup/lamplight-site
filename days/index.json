@@ -1,6 +1,16 @@
 {
  "days": [
   {
+   "date": "2026-10-10",
+   "register": "Today the world is mostly about political friction, natural disasters, and ongoing regional conflicts.",
+   "themes": [
+    "Institutions facing political pressure",
+    "Sudden displacement by natural forces",
+    "Anxiety over violent unrest"
+   ],
+   "season": "Ordinary Time"
+  },
+  {
    "date": "2026-10-09",
    "register": "Today the world is mostly about political unrest, legal proceedings, and regional conflicts.",
    "themes": [
