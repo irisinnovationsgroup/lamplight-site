@@ -1,5 +1,5 @@
 // Cache name carries the build stamp, so every deploy retires the previous cache.
-const BUILD = "20261018-052903";
+const BUILD = "20261018-172659";
 const CACHE = "lamplight-" + BUILD;
 const ASSETS = ["./manifest.webmanifest", "./icon.svg"];
 
@@ -60,7 +60,7 @@ self.addEventListener("fetch", event => {
 self.addEventListener("push", event => {
   let data = {};
   try { data = event.data ? event.data.json() : {}; } catch { data = {}; }
-  event.waitUntil(self.registration.showNotification(data.title || "Lamplight", {
+  event.waitUntil(self.registration.showNotification(data.title || "The Reading Light", {
     body: data.body || "Today's reading is ready.",
     icon: "./icon.svg", badge: "./icon.svg", tag: "lamplight-daily",
     data: {url: data.url || "./"},
@@ -69,7 +69,7 @@ self.addEventListener("push", event => {
 
 self.addEventListener("message", event => {
   if (event.data && event.data.type === "notify") {
-    self.registration.showNotification("Lamplight", {
+    self.registration.showNotification("The Reading Light", {
       body: event.data.body || "Today's reading is ready.",
       icon: "./icon.svg",
       badge: "./icon.svg",
