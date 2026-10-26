@@ -858,5 +858,7 @@
  "Describe what you are going through": "ምን እየተገኘህ እንደሆነ ይግለጽልኝ",
  "Or describe it in your own words…": "ወይም በራስህ ቃል ይግለጸው…",
  "Theme": "ርዕሰ ጉዳይ",
- "The passage, set as an image": "የተረኛው እንደ ምስል ቀርቧል"
+ "The passage, set as an image": "የተረኛው እንደ ምስል ቀርቧል",
+ "{n} prayers people have actually said, searchable. Every word older than copyright; none written by a machine.": "{n} ጸሎቶች ሰዎች እውነተኛ ሆነው የተናገሩት፣ በማፈንጀሪያ። እያንዳንዱ ቃል ከመብት በፊት ያለው ነው; አንድም በማሽን የተጻፈ አይደለም።",
+ ". {n} of them are here, copied onto our own server rather than hotlinked, because Commons is not anyone's image host. They are illustrations of the passage beside them and nothing more — a picture is one artist's reading of a scene, made a hundred and sixty years ago, and it is not evidence of anything. Where no engraving exists for a passage, none is shown; there is no generated art anywhere in this app and there will not be.": " ይገኛሉ። {n}ቱ እዚህ ላይ ተቀምጠዋል፣ ከአውታረ መረቡ በቀጥታ ከመጫን ይልቅ በእኛ ሰርቨር ላይ ተቀምጠዋል፣ ምክንያቱም Wikimedia Commons የማንም ስዕል አስቀምጪ አይደለም። እነዚህ ከእነሱ ጎን ያለውን ቁጥጥር የሚያሳዩ ስዕሎች ብቻ ናቸው — ስዕል አንድ ሰዎች በአንድ መልኩ ያየውን እይታ ነው፣ ከ160 ዓመታት በፊት የተሠራ፣ እና ምንም አይነት ማስረጃ አይደለም። ለአንድ ቁጥጥር ስዕል ከሌለ፣ ምንም አይታይም፤ በዚህ መተግበሪያ ውስጥ ምንም አይነት የተፈጠረ ስዕል የለም እና አይኖርም።"
 }

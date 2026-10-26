@@ -878,5 +878,7 @@
  "Back": "חזור",
  "Next": "הבא",
  "Pause": "השהה",
- "Next movement": "תנועה הבאה"
+ "Next movement": "תנועה הבאה",
+ "{n} prayers people have actually said, searchable. Every word older than copyright; none written by a machine.": "{n} תפילות שאנשים אמרו בפועל, ניתנות לחיפוש. כל מילה ותיקה מזכויות יוצרים; אף אחת לא נכתבה על ידי מכונה.",
+ ". {n} of them are here, copied onto our own server rather than hotlinked, because Commons is not anyone's image host. They are illustrations of the passage beside them and nothing more — a picture is one artist's reading of a scene, made a hundred and sixty years ago, and it is not evidence of anything. Where no engraving exists for a passage, none is shown; there is no generated art anywhere in this app and there will not be.": ". {n} מהן נמצאות כאן, הועתקו לשרת שלנו במקום לקשר אליהן ישירות, מכיוון שויקישיתוף אינו מאחסן תמונות של אף אחד. הן איור של הפסוק הסמוך להן ואין יותר — תמונה היא פרשנות אחת לאמן של סצנה, שנעשתה לפני מאה וששים שנה, והיא אינה עדות לשום דבר. כאשר אין חריטה לפסוק מסוים, לא מוצגת אף אחת; אין אמנות מיוצרת בכלל באפליקציה זו ולא תהיה."
 }

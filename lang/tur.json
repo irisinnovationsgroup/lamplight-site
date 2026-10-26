@@ -938,5 +938,7 @@
  "Describe what you are going through": "Yaşadıklarınızı tarif edin",
  "Or describe it in your own words…": "Veya kendi kelimelerinizle tarif edin…",
  "Theme": "Tema",
- "The passage, set as an image": "Metin, bir resim olarak ayarlandı"
+ "The passage, set as an image": "Metin, bir resim olarak ayarlandı",
+ "{n} prayers people have actually said, searchable. Every word older than copyright; none written by a machine.": "{n} kişi tarafından gerçekten söylenmiş, aranabilir dua. Her kelime telif hakkından daha eski; makine tarafından yazılan hiçbiri.",
+ ". {n} of them are here, copied onto our own server rather than hotlinked, because Commons is not anyone's image host. They are illustrations of the passage beside them and nothing more — a picture is one artist's reading of a scene, made a hundred and sixty years ago, and it is not evidence of anything. Where no engraving exists for a passage, none is shown; there is no generated art anywhere in this app and there will not be.": ". Bunlardan {n}'si buradadır; Commons herhangi birinin görüntü sunucusu olmadığı için doğrudan bağlantı (hotlink) yerine kendi sunucumuza kopyalanmıştır. Onlar, yanlarındaki ayetlerin illüstrasyonlarından başka hiçbir şey değildir — bir resim, yüz altmış yıl önce bir sanatçının sahneye dair okumasından ibarettir ve bunun herhangi bir kanıtı yoktur. Bir ayet için oyma mevcut değilse, gösterilmez; bu uygulamada hiçbir oluşturulmuş sanat yoktur ve olmayacaktır."
 }

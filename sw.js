@@ -1,5 +1,5 @@
 // Cache name carries the build stamp, so every deploy retires the previous cache.
-const BUILD = "20261025-115715";
+const BUILD = "20261026-050318";
 const CACHE = "lamplight-" + BUILD;
 const ASSETS = ["./manifest.webmanifest", "./icon.svg"];
 
