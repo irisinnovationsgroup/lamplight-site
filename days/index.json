@@ -1,6 +1,16 @@
 {
  "days": [
   {
+   "date": "2026-10-29",
+   "register": "Today the world is mostly about political uncertainty, economic strain, and sudden tragedy.",
+   "themes": [
+    "Uncertainty of power and outcome",
+    "Sudden loss of safety and stability",
+    "Strain of global economic pressure"
+   ],
+   "season": "Ordinary Time"
+  },
+  {
    "date": "2026-10-28",
    "register": "Today the world is mostly about political transitions, public health crises, and diplomatic tensions.",
    "themes": [
