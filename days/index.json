@@ -1,6 +1,16 @@
 {
  "days": [
   {
+   "date": "2026-10-31",
+   "register": "Today the world is mostly about political instability, economic volatility, and ongoing geopolitical conflicts.",
+   "themes": [
+    "Uncertainty in uncertain times",
+    "Loss of trust in institutions",
+    "Vulnerability amidst conflict"
+   ],
+   "season": "Ordinary Time"
+  },
+  {
    "date": "2026-10-30",
    "register": "Today the world is mostly about political uncertainty, digital vulnerability, and the ongoing struggle for stability in volatile regions.",
    "themes": [
