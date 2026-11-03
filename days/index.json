@@ -1,6 +1,16 @@
 {
  "days": [
   {
+   "date": "2026-11-03",
+   "register": "Today the world is mostly about political uncertainty, sudden violence, and the daily struggle to maintain stability.",
+   "themes": [
+    "Living in the shadow of sudden violence",
+    "Waiting for outcomes that define our future",
+    "Struggling to keep life running normally"
+   ],
+   "season": "Ordinary Time"
+  },
+  {
    "date": "2026-11-02",
    "register": "Today the world is mostly about political upheaval, economic instability, and sudden tragedy.",
    "themes": [
