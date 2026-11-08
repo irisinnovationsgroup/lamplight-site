@@ -1,6 +1,16 @@
 {
  "days": [
   {
+   "date": "2026-11-08",
+   "register": "Today the world is mostly about political uncertainty, regional violence, and economic anxiety.",
+   "themes": [
+    "Uncertainty of new beginnings",
+    "Fear of sudden violence",
+    "Anxiety over economic stability"
+   ],
+   "season": "Ordinary Time"
+  },
+  {
    "date": "2026-11-07",
    "register": "Today the world is mostly about political upheaval, regional tensions, and civic unrest.",
    "themes": [
